@@ -1,0 +1,68 @@
+,head,type,tail
+0,RIL,instance of,largecaps
+1,RIL,industry,largecaps
+2,RIL,part of,largecaps
+3,MCX India,parent organization,Reliance
+4,MCX,parent organization,Reliance
+5,Reliance,subsidiary,MCX India
+6,D-St goes volatile,point in time,Feb
+7,D-St,located in the administrative territorial entity,St. Louis
+8,D-St goes volatile,point in time,Feb.
+9,Reliance Industries,owned by,Sharekhan
+10,Reliance Industries,stock exchange,Sharekhan
+11,Reliance Industries,owned by,shareskhan
+12,Reliance Industries,owned by,Prabhudas Lilladher
+13,Reliance Industries,country,India
+14,Reliance Industries,stock exchange,Prabhudas Lilladher
+15,Jio,parent organization,RIL
+16,Jio,owned by,RIL
+17,RIL,subsidiary,Jio
+18,Jio,parent organization,RIL
+19,Q3FY24,winner,Reliance Industries
+20,Q3FY24,manufacturer,Reliance Industries
+21,Q3FY24 financial results,publisher,Reliance Industries
+22,Jio Financial,parent organization,Reliance Industries
+23,Reliance Industries,subsidiary,Jio Financial
+24,Reliance Industries,subsidiary,Jio Financial
+25,Jio Financial,parent organization,Reliance Industries
+26,Reliance Industries,product or material produced,oil
+27,Reliance Industries,industry,oil stocks
+28,Reliance Industries,industry,oil
+29,Reliance,owned by,Mukesh Ambani
+30,Reliance,owned by,Mukesh Ambani
+31,Mukesh Ambani,owner of,Reliance
+32,Mukesh Ambani,owner of,Reliance
+33,Disney,subsidiary,Reliance
+34,Disney,owner of,Reliance
+35,Reliance,owned by,Disney
+36,Disney,subsidiary,Reliance
+37,Reliance,parent organization,Disney
+38,Reliance,country,India
+39,SMCP,country,France
+40,SMCP,parent organization,Reliance
+41,Jamnagar,owned by,Reliance Industries
+42,Jamnagar,operator,Reliance Industries
+43,Jamnagar units,owned by,Reliance Industries
+44,Reliance in Q1,point in time,Q1
+45,Q1,point in time,Q1
+46,profits,point in time,Q1
+47,Jio Financial Services,parent organization,Reliance
+48,Jio Financial Services,owned by,Reliance
+49,Reliance,subsidiary,Jio Financial Services
+50,Jio Financial Services,parent organization,Reliance
+51,Q1 net profit,winner,Reliance Jio
+52,Q1 net profit,parent organization,Reliance Jio
+53,Q1 net profit,owned by,Reliance Jio
+54,Q1,point in time,Q1
+55,RIL Q1,point in time,Q1
+56,RIL,industry,"16,995 crore"
+57,S&amp,parent organization,Reliance
+58,S&amp,owned by,Reliance
+59,S&amp;amp;P,parent organization,Reliance
+60,Reliance-bp,subsidiary,Nayara Energy
+61,Nayara Energy,product or material produced,petrol
+62,diesel,has part,petrol
+63,Reliance Industries,office held by head of the organization,CFO
+64,"OPEC+ supply cut impact on price, demand",participant,Reliance Industries
+65,Reliance Industries,office held by head of the organization,CFO
+66,CFO,applies to jurisdiction,Reliance Industries

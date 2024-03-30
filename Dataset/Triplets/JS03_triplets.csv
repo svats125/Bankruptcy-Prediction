@@ -1,0 +1,62 @@
+,head,type,tail
+0,Jyoti Structures,owned by,NCLAT
+1,Jyoti Structures,parent organization,NCLAT
+2,Jyoti Structures,maintained by,NCLAT
+3,Jyoti Structures,end time,"August 30, 2017"
+4,Jyoti Structures' meeting of committee of creditors,point in time,"August 30, 2017"
+5,Jyoti Structures,inception,"August 30, 2017"
+6,Jyoti Structure,inception,"August 29, 2017"
+7,Jyoti Structure,end time,"August 29, 2017"
+8,Jyoti Structure,"dissolved, abolished or demolished date","August 29, 2017"
+9,Jyoti Structures,instance of,insolvency proceedings
+10,Jyoti Structures,instance of,insolvency
+11,insolvency proceedings,subclass of,tribunal
+12,Jyoti Structures,instance of,NPAs
+13,Jyoti Structures,instance of,12 NPAs
+14,Jyoti Structures,industry,NPAs
+15,Jyoti Structure,instance of,board meeting
+16,Jyoti Structure,facet of,Jyoti
+17,Jyoti Structure,has part,Jyoti Structure
+18,Jyoti Structure,part of,Jyoti Structure
+19,Jyoti Structures,instance of,board meeting
+20,Jyoti Structures,participant in,board meeting
+21,Jyoti Structures,has part,Jyoti Structures
+22,Vijay Mohan Kaul,employer,Jyoti Structures
+23,Jyoti Structures,owned by,Vijay Mohan Kaul
+24,Vijay Mohan Kaul,owner of,Jyoti Structures
+25,Jyoti Structures,instance of,Board Meeting
+26,Jyoti Structures,has part,Jyoti Structures
+27,Jyoti Structures,followed by,Jyoti Structures
+28,Jyoti Structures,award received,USD 50 mn
+29,Jyoti Structures,industry,USD
+30,Jyoti Structures,industry,USD 50 mn
+31,Prakash K. Thakur,employer,Jyoti Structure
+32,Jyoti,owned by,Prakash K. Thakur
+33,Jyoti Structure,owned by,Prakash K. Thakur
+34,Apocalypse for banks,instance of,apocalypse
+35,apocalypse,main subject,bank
+36,apocalypse for banks,different from,apocalypse
+37,Jyoti Structures,instance of,board meeting
+38,Jyoti Structures,participant in,board meeting
+39,Jyoti Structures,has part,Jyoti Structures
+40,Jyoti Structure,chairperson,T. C. Venkat Subramanian
+41,Jyoti Structure,instance of,non-executive chairman
+42,Venkat Subramanian,employer,Jyoti Structure
+43,Jyoti Structure,founded by,A. J. Khan
+44,Jyoti Structure,owned by,A. J. Khan
+45,Jyoti,founded by,A. J. Khan
+46,transmission lines,manufacturer,Jyoti Structures
+47,Jyoti Structures,product or material produced,transmission lines
+48,Jyoti Structures,industry,transmission lines
+49,Jyoti Structures,instance of,board meeting
+50,Jyoti Structures,participant in,board meeting
+51,Jyoti Structures,has part,Jyoti Structures
+52,Santosh V. Nayak,employer,Jyoti Structures
+53,Jyoti Structures,owned by,Santosh V. Nayak
+54,Jyoti Structures,chairperson,Santosh V. Nayak
+55,Jyoti Structures,instance of,board meeting
+56,Jyoti Structures,participant in,board meeting
+57,Jyoti Structures,has part,Jyoti Structures
+58,Jyoti Structures,inception,"Sept 22, 2014"
+59,Jyoti Structures,significant event,AGM
+60,Jyoti Structures,instance of,AGM

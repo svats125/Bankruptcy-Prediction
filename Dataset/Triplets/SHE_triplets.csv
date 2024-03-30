@@ -1,0 +1,64 @@
+,head,type,tail
+0,Amex,product or material produced,credit cards
+1,Amex,instance of,credit card
+2,Amex,product or material produced,credit card
+3,Sunil Hitech Engineers,inception,"December 08, 2017"
+4,Sunil Hitech Engineers,end time,"December 08, 2017"
+5,Sunil Hitech Engineers,"dissolved, abolished or demolished date","December 08, 2017"
+6,Target,owned by,Sunil Hitech
+7,Sunil Hitech,employer,Target
+8,Target,owned by,Sunil Hitech
+9,Sunil Hitech,owner of,Target
+10,Sunil HitechEng,position held,board meeting
+11,Sunil HitechEng,participant in,board meeting
+12,Sunil Hitech,occupation,Eng
+13,Sunil Hitech Engineers,instance of,AGM
+14,Sunil Hitech,occupation,Engineers
+15,Sunil Hitech Engineers,occupation,Engineers
+16,Sunil Hitech,industry,Engineers
+17,Sunil Hitech,instance of,Engineers
+18,Sunil Hitech Engineers,instance of,final dividend
+19,Sunil HitechEng,inception,"May 12, 2017"
+20,Sunil HitechEng,end time,"May 12, 2017"
+21,Sunil HitechEng,owned by,Sunil HitechEng
+22,Sunil Hitech,country,India
+23,Sunil Hitech,industry,935.91 crore
+24,Sunil Hitech,work period (start),935.91
+25,Sunil Hitech,located in the administrative territorial entity,Maharashtra
+26,Maharashtra,country,India
+27,India,contains administrative territorial entity,Maharashtra
+28,Sunil Hitech,headquarters location,Maharashtra
+29,Sunil Hitech,product or material produced,bags
+30,Sunil Hitech bags,cost of formation,Rs 982 crore
+31,Sunil Hitech bags,has part,Rs 982 crore
+32,Sunil Hitech Engineers,inception,"February 14, 2017"
+33,Sunil Hitech Engineers,end time,"February 14, 2017"
+34,Sunil Hitech Engineers',inception,"February 14, 2017"
+35,Sunil Hitech,occupation,Engineers
+36,Sunil Hitech Engineers,instance of,board meeting
+37,Sunil Hitech Engineers,instance of,Engineers
+38,Sunil Hitech Engineers,owned by,Anupam Dhiman
+39,Sunil Hitech Engineers,founded by,Anupam Dhiman
+40,Sunil Hitech Engineers,chairperson,Anupam Dhiman
+41,Sunil Hitech,occupation,Engineers
+42,Sunil Hitech Engineers,occupation,Engineers
+43,Sunil Hitech Engineers,instance of,bonus issue
+44,Sunil Hitech Engineers,instance of,dividend
+45,Sunil Hitech,industry,Engineers
+46,Sunil Hitech,instance of,Engineers
+47,Sunil Hitech,occupation,Engineers
+48,Sunil Hitech Engineers,instance of,board meeting
+49,Sunil Hitech Engineers,instance of,Engineers
+50,Sunil Hitech Engineers,inception,"Jan 18, 2016"
+51,Sunil Hitech,occupation,Engineers
+52,Sunil Hitech Engineers,inception,"January 18, 2016"
+53,Sunil Hitech,occupation,Engineers
+54,Sunil Hitech Engineers,country,India
+55,Sunil Hitech Engineers,product or material produced,project
+56,Sunil Hitech Engineers,located in the administrative territorial entity,Bihar
+57,EPC,product or material produced,road
+58,EPC,facet of,road
+59,Sunil Hitech,residence,Maha
+60,Sunil Hitech,work location,Maha
+61,Sunil Hitech,residence,Maha
+62,Maha,owned by,Sunil Hitech

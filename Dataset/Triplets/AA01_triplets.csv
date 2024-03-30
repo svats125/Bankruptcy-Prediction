@@ -1,0 +1,63 @@
+,head,type,tail
+0,Amtek,product or material produced,Auto
+1,Amtek Auto,instance of,Limited
+2,Amtek Auto Limited,country,India
+3,Amtek Auto,loss,92.24 cr
+4,Amtek Auto,significant event,Q2 net loss
+5,Amtek Auto,has part,Q2 net loss
+6,Liberty,owned by,Sanjeev Gupta
+7,Liberty,chairperson,Sanjeev Gupta
+8,Sanjeev Gupta,owner of,Liberty
+9,Liberty,owned by,Sanjeev Gupta
+10,Amtek Auto,owned by,NCLAT
+11,Amtek Auto,parent organization,NCLAT
+12,Amtek Auto,member of,NCLAT
+13,Amtek Auto,owned by,NCLAT
+14,Amtek Auto,court,NCLAT
+15,Amtek Auto,participant in,NCLAT
+16,Amtek Auto,owned by,Liberty House
+17,Amtek Auto,parent organization,Liberty House
+18,Liberty House,member of,NCLAT
+19,Amtek Auto,owned by,Liberty House
+20,Amtek Auto,parent organization,Liberty House
+21,Amtek Auto,owned by,Liberty House's
+22,Videocon auction,industry,financial advisor
+23,Videocon auction,occupation,financial advisor
+24,Videocon auction,instance of,financial advisor
+25,Amtek Auto,owned by,Liberty House
+26,Amtek Auto,parent organization,Liberty House
+27,Liberty House,subsidiary,Amtek Auto
+28,Amtek Auto,parent organization,Liberty House
+29,Liberty House,founded by,Sanjeev Gupta
+30,Liberty House,owned by,Sanjeev Gupta
+31,Liberty House,founded by,Sanjeev Gupta's
+32,Amtek Auto,country,India
+33,Amtek Auto,industry,auto sector
+34,auto sector,country,India
+35,Amtek Auto,instance of,AGM
+36,Amtek Auto,significant event,AGM
+37,Amtek Auto,has part,AGM
+38,NCLAT,part of,IRP
+39,NCLAT,instance of,a/c
+40,NCLAT,instance of,bank a/c
+41,Amtek Auto,parent organization,SBI
+42,Amtek,parent organization,SBI
+43,Amtek Auto,owned by,SBI
+44,Amtek Auto,"dissolved, abolished or demolished date","July 22, 2017"
+45,Amtek Auto,end time,"July 22, 2017"
+46,Amtek Auto,point in time,"July 22, 2017"
+47,Amtek Auto,inception,"July 19, 2017"
+48,Amtek Auto,"dissolved, abolished or demolished date","July 19, 2017"
+49,Amtek Auto,end time,"July 19, 2017"
+50,Amtek Auto,inception,"July 11, 2017"
+51,Amtek Auto,"dissolved, abolished or demolished date","July 11, 2017"
+52,Amtek Auto,end time,"July 11, 2017"
+53,NCLT,field of work,insolvency proceedings
+54,NCLT,field of work,insolvency
+55,NCLT,industry,insolvency proceedings
+56,Abizer Diwanji,employer,EY
+57,Abizer Diwanji,employer,EY-India
+58,EY,country,India
+59,Amtek Auto,significant event,board meeting
+60,Amtek Auto,participant in,board meeting
+61,Amtek Auto,has part,board meeting

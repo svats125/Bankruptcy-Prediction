@@ -1,0 +1,68 @@
+,head,type,tail
+0,Lanco Infratech,stock exchange,BSE
+1,Lanco Infratech,"dissolved, abolished or demolished date",September 14
+2,Lanco Infratech,stock exchange,BSE
+3,Lanco Infratech,owned by,NCLT
+4,Lanco Infratech,parent organization,NCLT
+5,Lanco Infratech,significant event,NCLT orders liquidation
+6,Lanco,"dissolved, abolished or demolished date",August 27
+7,Lanco,court,NCLT
+8,Lanco,owned by,NCLT
+9,Thriveni&rsquo.,subsidiary,Llanco Infratech
+10,Llanco Infratech,parent organization,Thriveni&rsquo.
+11,Llanco Infratech,owned by,Thriveni&rsquo.
+12,Lanco Infratech,owned by,NCLT
+13,Lanco Infratech,parent organization,NCLT
+14,Lanco Infratech,owned by,NCLT's
+15,Lanco Infratech,instance of,liquidation
+16,Lanco Infratech,owned by,Thriveni Earthmovers
+17,Lanco Infratech,parent organization,Thriveni Earthmovers
+18,Griffin Coal Mine,parent organization,Lanco
+19,Griffin Coal Mine,owned by,Lanco
+20,Griffin Coal Mine,parent organization,Lanco
+21,Lanco,subsidiary,Griffin Coal Mine
+22,Lanco Infratech,inception,"December 22, 2017"
+23,Lanco Infratech,instance of,AGM
+24,Lanco Infratech,end time,"December 22, 2017"
+25,Hiranmoy Biswas,employer,Lanco Infratech
+26,Hiranmoy Biswas,employer,Lonco Infratech
+27,Hiranmoy Biswas,employer,Lonc Infratech
+28,Lanco Infratech,inception,"August 11, 2017"
+29,Lanco Infratech,end time,"August 11, 2017"
+30,Lanco Infratech,"dissolved, abolished or demolished date","August 11, 2017"
+31,Krotthapalli Raja Gopal,employer,Lanco Infratech
+32,Lanco Infratech,owned by,Krotthapalli Raja Gopal
+33,Krotthapalli Raja Gopal,employer,Llanco Infratech
+34,Bank of America,subsidiary,Merrill Lynch
+35,Merrill Lynch,part of,Bank of America
+36,Bank of America,subsidiary,Merrill Lynch
+37,Bank of America,subsidiary,Merrill Lynch
+38,Merrill Lynch,parent organization,Bank of America
+39,NPAs,facet of,power sector
+40,NPAs,facet of,power sector's
+41,steel,has effect,NPAs
+42,NPAs,has cause,steel
+43,Lanco Infratech,inception,"May 30, 2017"
+44,Lanco Infratech,end time,"May 30, 2017"
+45,Lanco Infratech,"dissolved, abolished or demolished date","May 30, 2017"
+46,Lanco,owner of,OZ coal mine
+47,OZ coal mine,owned by,Lanco
+48,OZ coal mine,operator,Lanco
+49,Lanco's,owner of,OZ coal mine
+50,OZ coal mine,owned by,Lanco's
+51,Rowghat mine,operator,SAIL
+52,Rowghat mine,owned by,SAIL
+53,Rowghat mine,operator,ACB
+54,Rengaraj viswanathan,employer,Lanco Infratech
+55,rengaraj viswanathan,employer,Lanco Infratech
+56,Rengaraj viswanathan,employer,Lanco Infratech
+57,Colanco Infratech,significant event,Rs 813-cr net loss
+58,Colanco Infratech,significant event,Rs 813-cr net loss in Oct-Dec qtr
+59,Laxman Infratech,parent organization,Laxman Infratech Ltd
+60,Lanco Infratech,inception,"February 13, 2017"
+61,Lanco Infratech,end time,"February 13, 2017"
+62,Lago Infratech,inception,"February 13, 2017"
+63,Q2,point in time,Q2
+64,Q2 net loss,point in time,Q2
+65,Q2,follows,Q1
+66,Q1,followed by,Q2

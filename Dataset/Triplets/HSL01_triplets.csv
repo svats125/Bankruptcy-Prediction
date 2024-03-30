@@ -1,0 +1,64 @@
+,head,type,tail
+0,Insurance,subclass of,stock
+1,IRDAI,industry,Insurance
+2,Insurance stocks,facet of,Insurance
+3,HDFC Life,owned by,Biocon
+4,HDFC Life,subsidiary,Ipca Labs
+5,HDFC Life,owner of,Ipca Labs
+6,Ipca Labs,owned by,HDFC Life
+7,HDFC Life Insurance Company,owned by,Sharekhan
+8,HDFC Life,instance of,Life Insurance Company
+9,HDFC Life Insurance Company,owned by,shareskhan
+10,HDFC Life,owned by,Motilal Oswal
+11,HDFC Life Insurance,owned by,Motilal Oswal
+12,HDFC Life Insurance,stock exchange,Motilal Oswal
+13,HDFC Life Insurance,instance of,Net profit
+14,HDFC Life Insurance Q3 results,point in time,Q3
+15,HDFC Life Insurance,has part,Q3 results
+16,HDFC Life,instance of,shares
+17,HDFC Life,has part,Q3 performance
+18,Q3 performance,part of,HDFC Life
+19,HDFC Life,has part,Q3 performance
+20,HDFC Life Insurance Company,owned by,Religare Retail Research
+21,HDFC Life,owned by,Religare Retail Research
+22,HDFC Life,instance of,Life Insurance Company
+23,HDFC Life,owned by,Motilal Oswal
+24,HDFC Life Insurance,owned by,Motilal Oswal
+25,HDFC Life Insurance,stock exchange,Motilal Oswal
+26,HDFC Life Insurance,owned by,KR Choksey
+27,HDFC Life,product or material produced,Life Insurance
+28,HDFC Life,industry,Life Insurance
+29,HDFC Life Insurance,owned by,Sharekhan
+30,HDFC Life Insurance,owned by,shareskhan
+31,HDFC Life,product or material produced,Life Insurance
+32,HDFC Life Insurance,owned by,ICICI Direct
+33,HDFC Life,owned by,ICICI Direct
+34,HDFC Life Insurance,owned by,ICICI Direct
+35,ICICI Direct,owner of,HDFC Life Insurance
+36,HDFC Life Insurance,owned by,Motilal Oswal
+37,HDFC Life,owned by,Motilal Oswal
+38,HDFC Life Insurance,stock exchange,Motilal Oswal
+39,HDFC Life Insurance,instance of,Net profit
+40,HDFC Life Insurance Q4 result,point in time,Q4
+41,HDFC Life Insurance Q4 result,instance of,Q4 result
+42,HDFC Life Insurance,instance of,Net Profit
+43,Net Profit,part of,YoY
+44,HDFC Life Insurance,industry,Net Profit
+45,HDFC Life Insurance,owned by,Sharekhan
+46,HDFC Life Insurance,owned by,shareskhan
+47,HDFC Life,product or material produced,Life Insurance
+48,HDFC Life Insurance,owned by,KR Choksey
+49,HDFC Life Insurance Co,owned by,KR Choksey
+50,HDFC Life,subsidiary,Life Insurance Co
+51,HDFC Life Insurance,owned by,ICICI Direct
+52,HDFC Life,owned by,ICICI Direct
+53,HDFC Life Insurance,parent organization,ICICI Direct
+54,HDFC Life Insurance,owned by,Emkay Global Financial
+55,HDFC Life,product or material produced,Life Insurance
+56,HDFC Life,instance of,Life Insurance
+57,HDFC Life Insurance,owned by,Motilal Oswal
+58,HDFC Life,owned by,Motilal Oswal
+59,HDFC Life Insurance,stock exchange,Motilal Oswal
+60,HDFC Life,instance of,net profit
+61,HDFC Life Q3 net profit,point in time,Q3
+62,HDFC Life,has part,net profit

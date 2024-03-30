@@ -1,0 +1,26 @@
+,head,type,tail
+0,RIL,subsidiary,Jio Financial Services
+1,RIL,owner of,Jio Financial Services
+2,Jio Financial Services,parent organization,RIL
+3,Jio Financial Services,instance of,stock
+4,Jio Financial Services,instance of,all-time high
+5,all-time high,named after,Jio Financial Services
+6,Jio Financial Services,stock exchange,Rs 290
+7,Jio,subsidiary,Jio Financial Services
+8,Jio Financial Services,parent organization,Jio
+9,Jio Financial Services,instance of,Net profit
+10,Jio Financial Services,industry,Net profit
+11,Jio Financial Services,followed by,Q3 results
+12,Jio Financial Services,stock exchange,Rs 290
+13,Jio,subsidiary,Jio Financial Services
+14,Jio Financial Services,parent organization,Jio
+15,Jio Financial,parent organization,RIL
+16,Jio Financial,parent organization,RIL
+17,RIL,subsidiary,Jio Financial
+18,&lsquo;balanced approach',owned by,RIL
+19,Jio Financial Services Q3 results,point in time,Q3
+20,Jio Financial Services Q3 results today,point in time,Q3
+21,Jio Financial Services Q3 results today,point in time,Q3 results today
+22,Jio Financial,instance of,largecap
+23,midcaps,subclass of,largecap
+24,Tata Tech,instance of,midcaps

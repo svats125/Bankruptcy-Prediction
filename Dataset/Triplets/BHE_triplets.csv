@@ -1,0 +1,69 @@
+,head,type,tail
+0,BHEL,stock exchange,Stock Exchange
+1,BHEL,stock exchange,Stock Exchanges
+2,BHEL,instance of,Stock Exchange
+3,BHEL,country,India
+4,BHEL,award received,order
+5,BHEL,significant event,order
+6,BHEL,industry,EPC
+7,BhEL,industry,EPC
+8,BHEL,product or material produced,EPC
+9,Mamaearth,part of,MSCI index
+10,Mamaearth,owned by,MSCI
+11,Mamaearth,part of,MSCI
+12,NLC,located in the administrative territorial entity,Odisha
+13,L&amp;amp;T,located in the administrative territorial entity,Odisha
+14,L&amp;amp;T,headquarters location,Odisha
+15,BHEL,owned by,Government of India
+16,BHEL,parent organization,Government of India
+17,BHEL,owned by,Government of India
+18,Government of India,owner of,BHEL
+19,SCR Catalysts,has part,NOx
+20,BHEL,product or material produced,SCR Catalysts
+21,SCR Catalysts,has effect,NOx emission
+22,Maitree thermal power project,country,Bangladesh
+23,Maitree,country,Bangladesh
+24,BHEL,country,Bangladesh
+25,Maitree thermal power project,country,Bangladesh
+26,BHEL,owned by,Prabhudas Lilladher
+27,BHEL,chairperson,Prabhudas Lilladher
+28,BHEL,founded by,Prabhudas Lilladher
+29,BHEL,subsidiary,Coal India
+30,NLC India,parent organization,BHEL
+31,NLC India,parent organization,BHEL
+32,BHEL,subsidiary,NLC India
+33,NTPC,industry,thermal power
+34,2x660 MW thermal power project,operator,NTPC
+35,BHEL,parent organization,NTPC
+36,NTPC,subsidiary,BHEL
+37,BHEL,country,Iraq
+38,BHEL,product or material produced,compressor
+39,Iraq,member of,BHEL
+40,Rajasthan project,operator,NPCIL
+41,NPCIL,located in the administrative territorial entity,Rajasthan
+42,NPCIL,owner of,Rajasthan project
+43,Rajasthan project,owned by,NPCIL
+44,BHEL,product or material produced,heat exchanger
+45,BHEL bags,subclass of,heat exchanger
+46,BHEL bags,use,heat exchanger
+47,India's largest floating solar plant,located in the administrative territorial entity,Andhra Pradesh
+48,India,contains administrative territorial entity,Andhra Pradesh
+49,Andhra Pradesh,country,India
+50,largest floating solar plant,located in the administrative territorial entity,Andhra Pradesh
+51,BHEL,significant event,Q1 loss
+52,BHEL,significant event,Q1 loss
+53,Q1 loss,participant,BHEL
+54,BHEL,parent organization,NPCIL
+55,BHEL,parent organization,NPCIL
+56,NPCIL,subsidiary,BHEL
+57,BHEL,owned by,NPCIL
+58,BHEL,product or material produced,medical oxygen
+59,BHEL,product or material produced,medical oxygen plant
+60,BHEL,industry,medical oxygen plant
+61,BHEL,product or material produced,revenue
+62,BHEL,has part,Q4 loss
+63,BHEL,has part,Q4 loss
+64,Q4 loss,part of,BHEL
+65,COVID-19,has part,second wave
+66,COVID-19,country,India
+67,COVID-19,has effect,second wave

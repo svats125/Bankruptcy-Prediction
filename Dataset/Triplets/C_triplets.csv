@@ -1,0 +1,65 @@
+,head,type,tail
+0,Redington,country,India
+1,Bharat Forge,country,India
+2,Redington,country,India
+3,Bharat Forge,country,India
+4,Cipla,owned by,ICICI Securities
+5,Cipla,stock exchange,1660
+6,Cipla,stock price,1660
+7,Cipla,stock exchange,1592
+8,Cipla,owned by,KR Choksey
+9,Cipla,stock price,1592
+10,Cipla,owned by,Motilal Oswal
+11,Cipla,owned by,Motilal Oswal
+12,Motilal Oswal,owner of,Cipla
+13,Cipla,stock exchange,Motilal Oswal
+14,Samina Hamied,occupation,VC
+15,Cipla,owned by,Samina Hamied
+16,Cipla,founded by,Samina Hamied
+17,Cipla,owned by,Motilal Oswal
+18,Cipla,owned by,Motilal Oswal
+19,Motilal Oswal,owner of,Cipla
+20,Motilal Oswal,owner of,Cipla
+21,Q3 earnings,parent organization,Cipla
+22,Q3 earnings,named after,Cipla
+23,Q3 earnings,manufacturer,Cipla
+24,Cipla,location of formation,Himachal Pradesh
+25,drone-powered critical medicine delivery,located in the administrative territorial entity,Himachal Pradesh
+26,drone-powered critical medicine delivery,operator,Cipla
+27,Cipla,owned by,Motilal Oswal
+28,Cipla,stock exchange,1130
+29,Cipla,stock exchange,Motilal Oswal
+30,Cipla,owned by,Sharekhan
+31,Cipla,stock exchange,1279
+32,Cipla,owned by,shareskhan
+33,Cipla,owned by,ICICI Securities
+34,Cipla,stock exchange,ICICI Securities
+35,Cipla,stock exchange,1300
+36,Cipla,owned by,Prabhudas Lilladher
+37,Cipla,stock exchange,1220
+38,Cipla,country,India
+39,Cipla,owned by,Nirmal Bang
+40,Q1,point in time,Q1
+41,Cipla,owned by,Nirmal Bang
+42,Nirmal Bang,owner of,Cipla
+43,Cipla,product or material produced,inhalation aerosol
+44,inhalation aerosol,use,bronchospasm treatment
+45,Cipla recalls six batches of bronchospasm treatment inhalation aerosol,country,US
+46,Cipla,stock exchange,1030
+47,Cipla,stock price,1030
+48,Cipla,stock performance,1030
+49,Cipla,owned by,KR Choksey
+50,Cipla,stock exchange,1167
+51,Cipla,stock price,1167
+52,Cipla,owned by,Motilal Oswal
+53,Cipla,stock exchange,Rs 970
+54,Cipla,stock exchange,Motilal Oswal
+55,Cipla,stock exchange,Rs 1070
+56,Cipla,country,India
+57,Cipla,parent organization,Cipla
+58,Cipla,instance of,net profit
+59,Q4 net profit,manufacturer,Cipla
+60,Q4 net profit,winner,Cipla
+61,Revlimid,manufacturer,Cipla
+62,gRevlimid,manufacturer,Cipla
+63,gRevlimid,developer,Cipla

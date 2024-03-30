@@ -1,0 +1,68 @@
+,head,type,tail
+0,Telstra Communications,significant event,board meeting
+1,Ortel Communications,instance of,board meeting
+2,Ortel Communications,significant event,board meeting
+3,Telstra Communications,significant event,board meeting
+4,Ortel Communications,significant event,board meeting
+5,Ortel Communications,instance of,board meeting
+6,Telstra Communications,significant event,AGM
+7,Ortel Communications,instance of,AGM
+8,Telstra Communications,instance of,AGM
+9,Ortel Communications,inception,"September 5, 2017"
+10,Telstra Communications,significant event,AGM
+11,Ortel Communications,inception,"September 5, 2017"
+12,Ortel Comm,inception,"May 19, 2017"
+13,Telstra Comm,inception,"May 19, 2017"
+14,Tel Aviv Comm,inception,"May 19, 2017"
+15,Ortel Comm,revenue,53.7 cr
+16,Ortel Comm,instance of,revenue
+17,Ortel Comm,revenue stream,53.7 cr
+18,Telstra Communications,significant event,board meeting
+19,Ortel Communications,instance of,board meeting
+20,Ortel Communications,significant event,board meeting
+21,TelTel Comm,inception,Jun '16
+22,Ortel Comm,inception,Jun '16
+23,Teltel Comm,inception,Jun '16
+24,Telstra Communications,has part,finance committee
+25,finance committee,part of,Telstra Communications
+26,Ortel Communications,has part,finance committee
+27,finance committee,part of,Ortel Communications
+28,Telstra Communications,has part,finance committee meeting
+29,finance committee meeting,part of,Telstra Communications
+30,Telstra Communications,has part,finance committee
+31,finance committee,part of,Telstra Communications
+32,Ortel Communications,has part,finance committee
+33,finance committee,part of,Ortel Communications
+34,Telstra Communications,has part,finance committee meeting
+35,finance committee meeting,part of,Telstra Communications
+36,Telstra Comm,inception,Dec '15
+37,Ortel Comm,inception,Dec '15
+38,Ortel Comm,instance of,48.03 crore
+39,Telstra Communications,significant event,board meeting
+40,Ortel Communications,instance of,board meeting
+41,Ortel Communications,significant event,board meeting
+42,Ortel Communications,product or material produced,Online movie streaming service
+43,Eros Now,parent organization,Ortel Communications
+44,Eros Now,owned by,Ortel Communications
+45,ErosNow,parent organization,Ortel
+46,ErosNow,parent organization,Ortel
+47,Ortel,subsidiary,ErosNow
+48,Ortel,product or material produced,movie streaming service
+49,TelTel Comm,inception,Sep '15
+50,Teltel Comm,inception,Sep '15
+51,Telstra Comm,inception,Sep '15
+52,Telstra Communications,significant event,board meeting
+53,Ortel Communications,instance of,board meeting
+54,Ortel Communications,significant event,board meeting
+55,Gautam Sehgal,occupation,independent director
+56,Gautam Sehgal,employer,Ortel Communications
+57,Gautam Sehgal,employer,Teltel Communications
+58,Telstra Communications,significant event,board meeting
+59,Ortel Communications,instance of,board meeting
+60,Ortel Communications,significant event,board meeting
+61,Ortel Cable TV,owned by,Ortel
+62,Ortel,product or material produced,Cable TV
+63,Ortel Cable TV,parent organization,Ortel
+64,Telstra Communications,inception,"June 27, 2015"
+65,Ortel Communications,inception,"June 27, 2015"
+66,Ortel Communications,point in time,"June 27, 2015"

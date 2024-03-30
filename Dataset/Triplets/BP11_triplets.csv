@@ -1,0 +1,61 @@
+,head,type,tail
+0,Bafna Pharmaceuticals,country,CO
+1,Bafna Pharmaceuticals,headquarters location,CO
+2,Bafna Pharmaceuticals,office held by head of the organization,Company Secretary
+3,Bafna Pharmaceuticals,inception,"November 10, 2017"
+4,Bafna Pharmaceuticals,"dissolved, abolished or demolished date","November 10, 2017"
+5,Bafna Pharmaceuticals,end time,"November 10, 2017"
+6,Nirav Maniar,employer,Bafna Pharma
+7,Bafna Pharma,owned by,Nirav Maniar
+8,Nirav Maniar,owned by,Bafna Pharma
+9,Bafna Pharma,instance of,AGM
+10,Bafna Pharma,significant event,AGM
+11,Bafna Pharma,has part,AGM
+12,Bafna Pharma,instance of,board meeting
+13,Bafna Pharma,significant event,board meeting
+14,Bafna Pharma,owned by,Bafna Pharma
+15,Bafna Pharma,instance of,board meeting
+16,Bafna Pharma,significant event,board meeting
+17,Bafna Pharma,owned by,Bafna Pharma
+18,Bafna Pharma,instance of,board meeting
+19,Bafna Pharma,significant event,board meeting
+20,Bafna Pharma,owned by,Bafna Pharma
+21,Bafna Pharma,inception,"Mar 14, 2017"
+22,Bafna Pharma,end time,"Mar 14, 2017"
+23,Bafna Pharma,"dissolved, abolished or demolished date","Mar 14, 2017"
+24,Bafna Pharmaceuticals,significant event,board meeting
+25,Bafna Pharmaceuticals,participant in,board meeting
+26,Bafna Pharmaceuticals,subsidiary,Bafna Pharmaceuticals
+27,Bafna Pharmaceuticals,significant event,board meeting
+28,Bafna Pharmaceuticals,participant in,board meeting
+29,Bafna Pharmaceuticals,subsidiary,Bafna Pharmaceuticals
+30,Bafna Pharmaceuticals,significant event,board meeting
+31,Bafna Pharmaceuticals,participant in,board meeting
+32,Bafna Pharmaceuticals,subsidiary,Bafna Pharmaceuticals
+33,Bafna Pharmaceuticals,inception,"November 11, 2016"
+34,Bafna Pharmaceuticals,"dissolved, abolished or demolished date","November 11, 2016"
+35,Bafna Pharmaceuticals,end time,"November 11, 2016"
+36,Bafna Pharmaceuticals,significant event,board meeting
+37,Bafna Pharmaceuticals,participant in,board meeting
+38,Bafna Pharmaceuticals,subsidiary,Bafna Pharmaceuticals
+39,Bafna Pharma,inception,"June 17, 2016"
+40,Bafna Pharma,"dissolved, abolished or demolished date","June 17, 2016"
+41,Bafna Pharma,end time,"June 17, 2016"
+42,M. R. Ramachandran,employer,Bafna Pharma
+43,Bafna Pharma,owned by,M. R. Ramachandran
+44,Bafna Pharma,chairperson,M. R. Ramachandran
+45,Bafna Pharmaceuticals,inception,"February 11, 2016"
+46,Bafna Pharmaceuticals,"dissolved, abolished or demolished date","February 11, 2016"
+47,Bafna Pharmaceuticals,end time,"February 11, 2016"
+48,Bafna Pharmaceuticals,significant event,AGM
+49,Bafna Pharmaceuticals,has part,AGM
+50,Bafna Pharmaceuticals,participant in,AGM
+51,Bafna Pharmaceuticals,inception,"November 06, 2015"
+52,Bafna Pharmaceuticals,"dissolved, abolished or demolished date","November 06, 2015"
+53,Bafna Pharmaceuticals,end time,"November 06, 2015"
+54,Bafna Pharmaceuticals,instance of,AGM
+55,Bafna Pharmaceuticals,has part,AGM
+56,Bafna Pharmaceuticals,significant event,AGM
+57,MHRA,located in the administrative territorial entity,London
+58,MHRA,headquarters location,London
+59,MHRA,location of formation,London

@@ -1,0 +1,67 @@
+,head,type,tail
+0,HDFC Bank,owned by,LKP Research
+1,HDFC Bank,stock exchange,1762
+2,HDFC Bank,stock exchange,LKP Research
+3,HSBC,subsidiary,HDFC Bank
+4,HDFC Bank,owned by,HSBC
+5,HDFC Bank,parent organization,HSBC
+6,HDFC Bank,owned by,Citi
+7,HDFC Bank,stock exchange,Citi
+8,HDFC Bank,instance of,stock
+9,2009 World Cup,point in time,2009
+10,2009 Asian financial crisis,point in time,2009
+11,Largan Precision,owned by,Largan Precision
+12,HDFC Bank,owned by,Morgan Stanley
+13,HDFC Bank,stock exchange,Morgan Stanley
+14,Morgan Stanley,subsidiary,HDFC Bank
+15,HDFC Bank,instance of,shares
+16,HDFC Bank,stock exchange,shares
+17,HDFC Bank,product or material produced,shares
+18,HDFC,instance of,banks
+19,HDFC,owner of,MC Explains
+20,HDFC group,owner of,MC Explains
+21,MC Explains,owned by,HDFC group
+22,RIL,instance of,largecaps
+23,RIL,industry,largecaps
+24,RIL,part of,largecaps
+25,AT1 bond fallout,participant,Credit Suisse
+26,Credit Suisse AT1 bond fallout,country,India&rsquo;s
+27,Credit Suisse AT1 bond fallout,country,India&rsquo;
+28,HDFC Bank,owned by,LIC
+29,HDFC Bank,owned by,LI
+30,LIC,owner of,HDFC Bank
+31,HDFC Bank,owned by,LIC
+32,HDFC Bank,owned by,RBI
+33,HDFC Bank,owned by,LIC
+34,HDFC Bank,parent organization,RBI
+35,HDFC Bank,owned by,KR Choksey
+36,HDFC Bank,owned by,KR Choksey
+37,KR Choksey,owner of,HDFC Bank
+38,HDFC Bank,inception,1950
+39,HDFC Bank,owned by,LKP Research
+40,HDFC Bank,stock exchange,1762
+41,HDFC Bank,stock exchange,LKP Research
+42,HDFC Bank,owned by,Emkay Global Financial
+43,HDFC Bank,stock exchange,Emkay Global Financial
+44,HDFC Bank,parent organization,Emkay Global Financial
+45,HDFC Bank,owned by,Motilal Oswal
+46,HDFC Bank,owned by,Motilal Oswal
+47,Motilal Oswal,owner of,HDFC Bank
+48,HDFC Bank,stock exchange,Motilal Oswal
+49,HDFC Bank,owned by,Prabhudas Lilladher
+50,HDFC Bank,inception,2000
+51,HDFC Bank,country,India
+52,HDFC Bank,instance of,Bank
+53,HDFC Bank,owner of,Rain Industries
+54,HDFC Bank,owner of,Rain Industries
+55,Rain Industries,owned by,HDFC Bank
+56,CAMS,owned by,HDFC Bank
+57,CAMS,parent organization,HDFC Bank
+58,CAMS,owned by,HDFC Bank
+59,HDFC Bank,owner of,CAMS
+60,Sun Pharma,owned by,HDFC Bank
+61,HDFC Bank,owned by,Trade Spotlight
+62,HDFC Bank,has part,Trade Spotlight
+63,HDFC Bank,owned by,CLSA
+64,HDFC Bank,instance of,stock
+65,HDFC Bank,owned by,FIIs

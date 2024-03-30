@@ -1,0 +1,63 @@
+,head,type,tail
+0,Sharon Bio Medicine,instance of,board meeting
+1,Sharon Bio Medicine,instance of,board
+2,Sharon Bio Medicine,parent organization,Sharon Bio Medicine
+3,Sharon Bio-Medicine,inception,"November 10, 2016"
+4,Sharon Bio-Medicine,"dissolved, abolished or demolished date","November 10, 2016"
+5,Sharon Bio-Medicine,end time,"November 10, 2016"
+6,Sharon Bio-Medicine,instance of,AGM
+7,Sharon Bio-Medicine,has part,AGM
+8,Sharon Bio-Medicine,has part,AGM
+9,AGM,part of,Sharon Bio-Medicine
+10,Deepali Bhatia,employer,Sharon Bio-Medicine
+11,Sharon Bio-Medicine,chairperson,Deepali Bhatia
+12,Sharon Bio-Medicine,owned by,Deepali Bhatia
+13,Sharon Bio-Medicine,headquarters location,Taloja
+14,API plant,located in the administrative territorial entity,Taloja
+15,Sharon Bio-Medicine,located in the administrative territorial entity,Taloja
+16,Sharon Bio-Medicine,inception,"August 11, 2016"
+17,Sharon Bio-Medicine,"dissolved, abolished or demolished date","August 11, 2016"
+18,Sharon Bio-Medicine,end time,"August 11, 2016"
+19,Sharon Bio Medi,instance of,board meeting
+20,Sharon Bio Medi,has part,board meeting
+21,Sharon Bio Medi,has part,board meeting
+22,board meeting,part of,Sharon Bio Medi
+23,Sharon Bio-Medicine,inception,"June 21, 2016"
+24,Sharon Bio-Medicine,instance of,board meeting
+25,Sharon Bio-Medicine,end time,"June 21, 2016"
+26,Viral Dilip Vora,employer,Sharon Bio-Medicine
+27,Sharon Bio-Medicine,owned by,Viral Dilip Vora
+28,Sharon Bio-Medicine,founded by,Viral Dilip Vora
+29,Sharon Bio-Medicine,inception,"May 30, 2016"
+30,Sharon Bio-Medicine,"dissolved, abolished or demolished date","May 30, 2016"
+31,Sharon Bio-Medicine,end time,"May 30, 2016"
+32,Sharon Bio Medi,end time,Dec '15
+33,Sharon Bio Medi,revenue,104.69 crore
+34,Sharon Bio Medi,industry,104.69 crore
+35,Sharon Bio-Medicine,instance of,board meeting
+36,Sharon Bio-Medicine,followed by,Sharon Bio-Medicine
+37,Sharon Bio-Medicine,has part,board meeting
+38,Sharon Bio-Medicine,headquarters location,Dehradun
+39,Sharon Bio-Medicine's,headquarters location,Dehradun
+40,Sharon Bio-Medicine,located in the administrative territorial entity,Dehradun
+41,Sharon Bio-Medicine,instance of,board meeting
+42,Sharon Bio-Medicine,followed by,Sharon Bio-Medicine
+43,Sharon Bio-Medicine,has part,board meeting
+44,Sharon Bio-Medicine,instance of,master restructuring agreement
+45,Sharon Bio-Medicine,participant in,master restructuring agreement
+46,Sharon Bio-Medicine,significant event,master restructuring agreement
+47,Sharon Bio-Medicine,instance of,board meeting
+48,Sharon Bio-Medicine,followed by,Sharon Bio-Medicine
+49,Sharon Bio-Medicine,has part,board meeting
+50,Sharon Bio-Medicine,inception,"March 30, 2015"
+51,Sharon Bio-Medicine,instance of,board meeting
+52,Sharon Bio-Medicine,point in time,"March 30, 2015"
+53,Sharon Bio-Medicine,instance of,board meeting
+54,Sharon Bio-Medicine,followed by,Sharon Bio-Medicine
+55,Sharon Bio-Medicine,has part,board meeting
+56,Sharon Bio-Medicine,inception,"March 17, 2015"
+57,Sharon Bio-Medicine,"dissolved, abolished or demolished date","March 17, 2015"
+58,Sharon Bio-Medicine,end time,"March 17, 2015"
+59,Sharon Bio-Medicine,affiliation,UKMHRA
+60,UKMHRA,instance of,certificate
+61,Sharon Bio-Medicine,member of,UKMHRA

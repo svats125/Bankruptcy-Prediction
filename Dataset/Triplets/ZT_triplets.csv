@@ -1,0 +1,73 @@
+,head,type,tail
+0,Zee Entertainment Enterprises,owned by,Prabhudas Lilladher
+1,Zee Entertainment Enterprises,country,India
+2,Prabhudas Lilladher,owner of,Zee Entertainment Enterprises
+3,Zee Entertainment,parent organization,Sony
+4,Zee Entertainment,parent organization,Sony
+5,Sony,subsidiary,Zee Entertainment
+6,Sony,owner of,Zee Entertainment
+7,Zee,parent organization,Sony
+8,Zee,parent organization,Sony
+9,Sony,subsidiary,Zee
+10,Zee stock,parent organization,Sony
+11,Zee Entertainment Enterprises,owned by,Prabhudas Lilladher
+12,Zee Entertainment Enterprises,country,India
+13,Zee Entertainment Enterprises,owned by,Prabhudas Lilladher
+14,Prabhudas Lilladher,owner of,Zee Entertainment Enterprises
+15,cost-cuts,has effect,profitability
+16,Cost-cuts,has effect,profitability
+17,Zee,instance of,ad spend
+18,Zee,parent organization,Sony
+19,Sony,subsidiary,Zee
+20,Sony,subsidiary,Zee
+21,Zee,parent organization,Sony
+22,Star,parent organization,Zee
+23,Star,parent organization,Zee
+24,Zee,subsidiary,Star
+25,Star,owned by,Zee
+26,revenue,has part,profit
+27,Zee Ent,instance of,revenue
+28,Zee Ent,revenue,58.5 crore
+29,Chartist Talks,presenter,Ashish Kyal
+30,Chartist Talks,author,Ashish Kyal
+31,Ashish Kyal,occupation,Chartist Talks
+32,Zee Entertainment,owned by,Emkay Global Financial
+33,Zee Entertainment,country,India
+34,Zee Entertainment,owned by,Zee Media Networks
+35,Zee Entertainment,country,India
+36,Q3,followed by,Q4
+37,Q3,followed by,Q4
+38,Q4,follows,Q3
+39,Chartist Talks,main subject,alpha
+40,Chartist Talks,product or material produced,alpha
+41,Chartist Talks,industry,alpha
+42,Zee-Sony legal war,participant,Sony
+43,legal war,participant,Zee-Sony
+44,Sony,owner of,Zee-Sony
+45,Zee,parent organization,Sony
+46,Sony,subsidiary,Zee
+47,Zee,parent organization,Sony
+48,Zee,owned by,Sony
+49,Sony,owner of,Zee
+50,Zee Entertainment,parent organization,Sony
+51,Zee Entertainment,parent organization,Sony
+52,Sony,subsidiary,Zee Entertainment
+53,Sony merger cancellation report,participant,Zee Entertainment
+54,Zee Entertainment,owned by,Motilal Oswal
+55,Zee Entertainment,owned by,Motilal Oswal
+56,Motilal Oswal,owner of,Zee Entertainment
+57,Motilal Oswal,owner of,Zee Entertainment
+58,Zee Entertainment Enterprises,owned by,Geojit
+59,Zee Entertainment Enterprises,stock exchange,Geojit
+60,Zee Entertainment Enterprises,owned by,Geojit
+61,Geojit,owner of,Zee Entertainment Enterprises
+62,Zee Entertainment Enterprises,owned by,Sharekhan
+63,Zee Entertainment Enterprises,stock exchange,Sharekhan
+64,Sharekhan,owner of,Zee Entertainment Enterprises
+65,Zee Entertainment,owned by,Motilal Oswal
+66,Zee Entertainment,owned by,Motilal Oswal
+67,Motilal Oswal,owner of,Zee Entertainment
+68,Motilal Oswal,owner of,Zee Entertainment
+69,Zee Entertainment Enterprises,owned by,Prabhudas Lilladher
+70,Zee Entertainment Enterprises,country,India
+71,Zee Entertainment Enterprises,owned by,Zee Media Networks

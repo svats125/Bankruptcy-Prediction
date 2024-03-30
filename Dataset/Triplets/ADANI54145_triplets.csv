@@ -1,0 +1,71 @@
+,head,type,tail
+0,Adani Green,significant event,$1.36 billion funding
+1,Adani Green,parent organization,Adani
+2,Adani Green,has part,$1.36 billion
+3,Adani Green,owned by,QIA
+4,QIA,owner of,Adani Green
+5,Adani Green,owned by,QIA
+6,Adani Green,parent organization,QIA
+7,Adani Green Energy,instance of,net profit
+8,Adani Green Energy,significant event,Q1 net profit
+9,Q1 net profit,winner,Adani Green Energy
+10,Adani Green Energy,instance of,net profit
+11,net profit,owned by,Adani Green Energy
+12,net profit,facet of,Adani Green Energy
+13,HDFC,subsidiary,Bajaj Finance
+14,Adani Green Energy,instance of,8th most valued firm
+15,HDFC,owner of,Bajaj Finance
+16,Godrej Capital,owned by,Godrej Industries
+17,Godrej Industries,owner of,Godrej Capital
+18,Godrej Capital,owned by,Godrej Industries
+19,Godrej Capital,parent organization,Godrej Industries
+20,Adani Green Energy,end time,December quarter
+21,Adani Green Energy,instance of,net
+22,Adani Green Energy,country,India
+23,green bonds,owned by,Adani Green
+24,green bond,owned by,Adani Green
+25,green bonds,participant,Adani Green
+26,Adani Green Energy,instance of,shares
+27,Adani Green Energy,owned by,Adani
+28,Adani Green Energy,parent organization,Adani
+29,SB Energy,parent organization,Adani Green Energy
+30,Adani Green Energy,subsidiary,SB Energy
+31,SB Energy,parent organization,Adani Green Energy
+32,Adani Green Energy,owner of,SB Energy
+33,SB Energy,owned by,Adani Green Energy
+34,Adani Green Energy,industry,solar
+35,Adani Green Energy,subsidiary,Sterling &amp;amp; Wilson
+36,Sterling &amp;amp; Wilson,parent organization,Adani Green Energy
+37,Adani Green Energy,owner of,Sterling &amp;amp;Wilson
+38,Sterling &amp;amp;Wilson,owned by,Adani Green Energy
+39,Gujarat,country,India
+40,India,contains administrative territorial entity,Gujarat
+41,Adani Green Energy,located in the administrative territorial entity,Gujarat
+42,Adani Green Energy,location of formation,Gujarat
+43,Adani Green Energy,loss,September quarter
+44,Adani Green Energy,quarter of loss,September quarter
+45,Adani Green Energy,quarter end,September quarter
+46,Adani Green Energy,industry,solar energy
+47,Adani Green Energy,product or material produced,solar energy
+48,solar energy,subclass of,assets
+49,Adani Green Energy,owned by,shareholders' nod
+50,Adani Green Energy,owned by,Adani
+51,Adani Green Energy,owned by,shareholders' nod
+52,shareholders' nod,owner of,Adani Green Energy
+53,Adani Green,product or material produced,wind
+54,Adani Green,industry,wind
+55,Adani Green,industry,"wind, solar plants"
+56,March quarter,point in time,March 2016
+57,March quarter,point in time,March quarter 2016
+58,Adani Green Energy,quarter of profit,March quarter
+59,Adani Green,industry,solar energy
+60,Total SA,owner of,Adani Green
+61,Adani Green,owned by,Total SA
+62,Total SA,subsidiary,Adani Green
+63,Adani Green,parent organization,Total SA
+64,Adani Green Energy,instance of,net loss
+65,Adani Green Energy,significant event,Q3 net loss
+66,Adani Green Energy,has part,Q3 net loss
+67,$362 mn bonds issue,participant,Adani Green
+68,$362 mn bonds issue gets global interest,participant,Adani Green
+69,Adani Green's $362 mn bonds issue,participant,Adani Green

@@ -1,0 +1,64 @@
+,head,type,tail
+0,Shantanu Prakash,occupation,messiah
+1,Shantanu Prakash,instance of,messiah
+2,Shantanu Prakash,field of work,ed-tech
+3,vocational training,subclass of,Education
+4,vocational training,part of,Education sector
+5,vocational training,part of,Education
+6,Insolvency and Bankruptcy Code,has part,Report
+7,Report,part of,Insolvency and Bankruptcy Code
+8,Bankruptcy Code,part of,Insolvency and Bankruptcy Code
+9,Insolvency and Bankruptcy Code,has part,Report
+10,Budget 2018,point in time,2018
+11,blackboard,replaced by,digital boards
+12,digital boards,replaces,blackboard
+13,blackboard,replaced by,digital board
+14,digital board,replaces,blackboard
+15,Educomp Sol,inception,"May 10, 2017"
+16,Educomp Sol,end time,"May 10, 2017"
+17,Educomp Sol,"dissolved, abolished or demolished date","May 10, 2017"
+18,Class Dismissed,facet of,recession-proof
+19,Class Dismissed,main subject,recession-proof
+20,Class Dismissed,main subject,Education tech
+21,Educomp Solutions,inception,"February 13, 2017"
+22,Educomp,inception,"February 13, 2017"
+23,Educomp Solutions,"dissolved, abolished or demolished date","February 13, 2017"
+24,Educomp Solutions,instance of,board meeting
+25,Educomp Solutions,participant in,board meeting
+26,Educomp Solutions,has part,board meeting
+27,Educomp Solutions,inception,"December 14, 2016"
+28,Educomp Solutions,"dissolved, abolished or demolished date","December 14, 2016"
+29,Educomp,inception,"December 14, 2016"
+30,Educomp Solutions,inception,"August 12, 2016"
+31,Educomp,inception,"August 12, 2016"
+32,Educomp Solutions,"dissolved, abolished or demolished date","August 12, 2016"
+33,Vidya Mandir Classes,owned by,Educomp
+34,Vidya Mandir Classes,parent organization,Educomp
+35,Vidya Mandir,owned by,Educomp
+36,Educomp Solutions,owned by,Sanjay Kumar Bhattacharyva
+37,Educomp,owned by,Sanjay Kumar Bhattacharyva
+38,Sanjay Kumar Bhattacharyva,employer,Educomp Solutions
+39,Educomp Solutions,inception,"May 26, 2016"
+40,Educomp,inception,"May 26, 2016"
+41,Educomp Solutions,end time,"May 26, 2016"
+42,Educomp Sol,instance of,income from operations
+43,Educomp Sol,inception,Dec '15
+44,Educomp Sol,country,India
+45,Educomp Sol,instance of,income from operations
+46,Educomp Sol,inception,Sep '15
+47,revenue,has part,income
+48,Educomp Solution,instance of,net loss
+49,Educomp Solution,significant event,Q2 net loss
+50,Educomp Solution,instance of,Q2 net loss
+51,Educomp Solutions,instance of,AGM
+52,Educomp Solutions,significant event,AGM
+53,Educomp Solutions,has part,AGM
+54,Wiz Learn Technology,parent organization,Educomp
+55,Wiz Learn Technology,parent organization,V-cube Global Services
+56,Wiz Learn Technology,owned by,V-cube Global Services
+57,Educomp Solutions,owned by,Azra S Hasan
+58,Azra S Hasan,employer,Educomp Solutions
+59,Educomp Solutions,chairperson,Azra S Hasan
+60,Educomp Solutions,instance of,AGM
+61,Educomp,instance of,AGM
+62,Educomp Solutions,significant event,AGM

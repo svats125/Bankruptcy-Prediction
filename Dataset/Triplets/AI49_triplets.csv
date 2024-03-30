@@ -1,0 +1,65 @@
+,head,type,tail
+0,Castex Technologies,inception,"November 27, 2017"
+1,Castex Technologies,"dissolved, abolished or demolished date","November 27, 2017"
+2,Castex Technologies,end time,"November 27, 2017"
+3,Castex Tech,instance of,AGM
+4,Castex Tech,significant event,AGM
+5,Castex Tech,has part,AGM
+6,Castex Tech,instance of,board meeting
+7,Castex,subsidiary,Castex Tech
+8,Castex Tech,has part,board meeting
+9,Castex Tech,inception,"August 25, 2017"
+10,Castex,inception,"August 25, 2017"
+11,Castex Tech,end time,"August 25, 2017"
+12,Castex Technologies,significant event,board meeting postponed
+13,Castex Technologies,significant event,board meeting
+14,Castex Technologies,significant event,board meeting postponed
+15,board meeting postponed,participant,Castex Technologies
+16,Castex Technologies,inception,"August 14, 2017"
+17,Castex Technologies,"dissolved, abolished or demolished date","August 14, 2017"
+18,Castex Technologies,end time,"August 14, 2017"
+19,Castex Tech,instance of,board meeting
+20,Castex,subsidiary,Castex Tech
+21,Castex Tech,has part,board meeting
+22,Castex Technologies,significant event,board meeting
+23,Castex Technologies,participant in,board meeting
+24,Castex Technologies,has part,board meeting
+25,Amtek,product or material produced,Auto
+26,Amtek,subsidiary,Amtek Auto
+27,Amtek,parent organization,Amtek Auto
+28,Castex Technologies,significant event,board meeting
+29,Castex Technologies,participant in,board meeting
+30,Castex Technologies,has part,board meeting
+31,Amtek,instance of,non-core biz
+32,Amtek,industry,non-core biz
+33,Amtek,parent organization,Amtek Group
+34,Castex Tech,end time,Dec '15
+35,Castex Tech,inception,Dec '15
+36,Castex Tech,revenue stream,523.26 crore
+37,Castex Technologies,inception,"February 13, 2016"
+38,Castex Technologies,"dissolved, abolished or demolished date","February 13, 2016"
+39,Castex Technologies,end time,"February 13, 2016"
+40,Bhama Krishnamurthy,employer,Castex Technologies
+41,Castex Technologies,chairperson,Bhama Krishnamurthy
+42,Castex Technologies,owned by,Bhama Krishnamurthy
+43,Castex Tech,inception,Sep '15
+44,Castex Tech,end time,Sep '15
+45,Castex Tech,revenue stream,531.38 crore
+46,Castex Technologies,office held by head of the organization,MD
+47,Castex Technologies,occupation,MD
+48,Castex Technologies,chairperson,S. S. Verma
+49,Amtek Auto,owner of,Castex Technologies
+50,Castex Technologies,owned by,Amtek Auto
+51,Amtek Auto,subsidiary,Castex Technologies
+52,Castex Technologies,parent organization,Amtek Auto
+53,Amtek Auto,parent organization,Castex Technologies
+54,Castex Technologies,subsidiary,Amtek Auto
+55,Castex Tech,inception,Jun '15
+56,Castex Tech,revenue level,653.91
+57,Castex Tech,industry,653.91 crore
+58,Castex Technologies,significant event,board meeting
+59,Castex Technologies,participant in,board meeting
+60,Castex Technologies,has part,board meeting
+61,Amtek,country,India
+62,Amtek India,country,India
+63,Amtek India,revenue stream,742.83

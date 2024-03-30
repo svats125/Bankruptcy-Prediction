@@ -1,0 +1,62 @@
+,head,type,tail
+0,Tech Mahindra,stock exchange,1357
+1,Tech Mahindra,stock price,1357
+2,Tech Mahindra,owned by,KR Choksey
+3,Tech Mahindra,owned by,Motilal Oswal
+4,Neutral Tech Mahindra,owned by,Motilal Oswal
+5,Tech Mahindra,stock exchange,Motilal Oswal
+6,Q3,followed by,Q4
+7,new CEO,employer,Tech Mahindra
+8,Tech Mahindra,point in time,Q3
+9,Accumulate Tech Mahindra,stock exchange,1207
+10,Accumulate Tech Mahindra,owned by,KR Choksey
+11,Accumulate Tech Mahindra,inception,1207
+12,Tech Mahindra,owned by,Motilal Oswal
+13,Neutral Tech Mahindra,owned by,Motilal Oswal
+14,Mahindra,subsidiary,Tech Mahindra
+15,Reduce Tech Mahindra,facet of,Tech Mahindra
+16,Reduce Tech Mahindra,manufacturer,Tech Mahindra
+17,Reduce Tech Mahindra,subsidiary,Tech Mahindra
+18,Tech Mahindra,parent organization,Reduce Tech Mahindra
+19,Tech Mahindra,owned by,HDFC Securities
+20,Reduce Tech Mahindra,owned by,HDFC Securities
+21,Tech Mahindra,stock exchange,HDFC Securities
+22,Tech Mahindra,owned by,Emkay Global Financial
+23,Tech Mahindra,owned by,Tech Mahindra
+24,Tech Mahindra,owned by,Tech Mahindra Ltd
+25,Tech Mahindra,instance of,Net profit
+26,Tech Mahindra Q1,point in time,Q1
+27,Tech Mahindra,industry,Net profit
+28,Tech Mahindra,owned by,Motilal Oswal
+29,Neutral Tech Mahindra,owned by,Motilal Oswal
+30,Motilal Oswal,owner of,Tech Mahindra
+31,Tech Mahindra,owned by,Tech Mahindra
+32,Tech Mahindra,parent organization,Tech Mahindra
+33,Tech Mahindra,owned by,KR Choksey
+34,Tech Mahindra,owned by,shareskhan
+35,Tech Mahindra,owned by,Tech Mahindra
+36,Tech Mahindra,owned by,Tech Mahindra Ltd.
+37,Tech Mahindra,owned by,Motilal Oswal
+38,Neutral Tech Mahindra,owned by,Motilal Oswal
+39,Mahindra,subsidiary,Tech Mahindra
+40,Tech Mahindra,owned by,Emkay Global Financial
+41,Tech Mahindra,owned by,Tech Mahindra
+42,Tech Mahindra,stock exchange,1270
+43,Neutral Tech Mahindra,owned by,Motilal Oswal
+44,Tech Mahindra,owned by,Motilal Oswal
+45,Neutral Tech Mahindra,stock exchange,Motilal Oswal
+46,Tech Mahindra,owned by,shareskhan
+47,Tech Mahindra,owned by,Tech Mahindra
+48,Tech Mahindra,parent organization,Tech Mahindra
+49,Tech Mahindra,industry,telecom
+50,Tech Mahindra,industry,telecom business
+51,Tech Mahindra,instance of,telecom business
+52,Tech Mahindra,owned by,Tech Mahindra
+53,Tech Mahindra,owned by,KR Choksey
+54,Tech Mahindra,parent organization,Tech Mahindra
+55,Tech Mahindra,owned by,ICICI Direct
+56,Tech Mahindra,stock exchange,ICICI Direct
+57,Tech Mahindra,stock exchange,1100
+58,Tech Mahindra,owned by,shareskhan
+59,Tech Mahindra,owned by,Tech Mahindra
+60,Tech Mahindra,parent organization,Tech Mahindra

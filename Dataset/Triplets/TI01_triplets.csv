@@ -1,0 +1,61 @@
+,head,type,tail
+0,Accumulate Titan Company,owned by,Prabhudas Lilladher
+1,Accumulate Titan,owned by,Prabhudas Lilladher
+2,Accumulate Titan Company,stock exchange,Prabhudas Lilladher
+3,Titan Company,owned by,Sharekhan
+4,Titan Company Ltd,owned by,Sharekhan
+5,Buy Titan Company Ltd,stock exchange,4112
+6,Titan Company,owned by,Motilal Oswal
+7,Titan Company,stock exchange,Motilal Oswal
+8,Buy Titan Company,owned by,Motilal Oswal
+9,Accumulate Titan Company,owned by,Prabhudas Lilladher
+10,Accumulate Titan,owned by,Prabhudas Lilladher
+11,Accumulate Titan Company,stock exchange,Prabhudas Lilladher
+12,Titan Company,owned by,Motilal Oswal
+13,Buy Titan Company,owned by,Motilal Oswal
+14,Titan,owned by,Motilal Oswal
+15,Titan Company,owned by,Emkay Global Financial
+16,Titan Company,country,India
+17,Titan Company,stock exchange,Emkay Global Financial
+18,Titan Company,owned by,Sharekhan
+19,Titan Company,stock exchange,3350
+20,Titan Company,stock price,3350
+21,Accumulate Titan Company,owned by,Prabhudas Lilladher
+22,Accumulate Titan,owned by,Prabhudas Lilladher
+23,Accumulate Titan Company,stock exchange,3240
+24,Titan Q1 results,point in time,Q1
+25,Titan,instance of,Net profit
+26,Titan Q1 results,instance of,Net profit
+27,Accumulate Titan Company,owned by,Prabhudas Lilladher
+28,Accumulate Titan,owned by,Prabhudas Lilladher
+29,Accumulate Titan Company,stock exchange,3242
+30,Titan Company,owned by,Prabhudas Lilladher
+31,Titan Company,country,India
+32,Titan Company,owner of,Buy Titan Company
+33,Reduce Titan,owned by,HDFC Securities
+34,Reduce Titan,owned by,HDFC Securities
+35,Reduce Titan,stock exchange,HDFC Securities
+36,Titan Company,owned by,Sharekhan
+37,Titan Company,stock price,2950
+38,Titan Company,stock exchange,2950
+39,Titan Company,owned by,Motilal Oswal
+40,Titan Company,stock exchange,Motilal Oswal
+41,Titan,owned by,Motilal Oswal
+42,Titan,instance of,net profit
+43,Q4 net profit,winner,Titan
+44,Q4 net profit,manufacturer,Titan
+45,Titan Company,owned by,ICICI Direct
+46,Titan Company,stock exchange,ICICI Direct
+47,Buy Titan Company,owned by,ICICI Direct
+48,Titan Company,owned by,Emkay Global Financial
+49,Titan Company,stock price,2940
+50,Buy Titan Company,owned by,Emkay Global Financial
+51,Titan Company,owned by,Prabhudas Lilladher
+52,Titan Company,country,India
+53,Titan Company,stock price,2905
+54,Titan Company,owned by,Motilal Oswal
+55,Titan Company,stock exchange,Motilal Oswal
+56,Titan,owned by,Motilal Oswal
+57,Titan Q3,point in time,Q3
+58,Titan,point in time,Q3
+59,Q3,winner,Titan

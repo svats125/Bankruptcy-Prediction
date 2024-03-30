@@ -1,0 +1,65 @@
+,head,type,tail
+0,David Robert Simpson,employer,ITC
+1,David Robert Simpson,position held,ITC director
+2,David Robert Simpson,position held,director
+3,Nifty,country,India
+4,Chartist Talks,facet of,Nifty
+5,Chartist Talks,main subject,Nifty
+6,food export bans,country,India
+7,food export ban,country,India
+8,food export bans,applies to jurisdiction,India
+9,ITC,owned by,Motilal Oswal
+10,ITC,owned by,Motilal Oswal
+11,Motilal Oswal,owner of,ITC
+12,ITC,stock exchange,Motilal Oswal
+13,ITC,owned by,Emkay Global Financial
+14,ITC,stock exchange,Emkay Global Financial
+15,Emkay Global Financial,owner of,ITC
+16,ITC,owned by,Sharekhan
+17,ITC,stock exchange,Sharekhan
+18,ITC,owned by,shareskhan
+19,ITC,owned by,Prabhudas Lilladher
+20,ITC,founded by,Prabhudas Lilladher
+21,Lilladher,owned by,Prabhudas Lilladher
+22,ITC,owned by,Axis Securities
+23,ITC,stock exchange,Axis Securities
+24,Axis Securities,owner of,ITC
+25,ITC,industry,FMCG
+26,FMCG,instance of,business
+27,ITC,product or material produced,FMCG
+28,ITC,owned by,Prabhudas Lilladher
+29,ITC,founded by,Prabhudas Lilladher
+30,Lilladher,owned by,Prabhudas Lilladher
+31,Unilever,country,India
+32,India Unilever,industry,consumer stock
+33,India Unilever,subsidiary,ITC
+34,ITC,owned by,Emkay Global Financial
+35,Buy ITC,owned by,Emkay Global Financial
+36,ITC,stock exchange,Emkay Global Financial
+37,ITC,owned by,Nirmal Bang
+38,Nirmal Bang,employer,ITC
+39,Q1,point in time,Q1
+40,ITC,industry,FMCG
+41,ITC,product or material produced,FMCG
+42,FMCG,owned by,ITC
+43,ITC,owned by,Motilal Oswal
+44,ITC,owned by,Motilal Oswal
+45,Motilal Oswal,owner of,ITC
+46,ITC,stock exchange,Motilal Oswal
+47,ITC,owned by,Prabhudas Lilladher
+48,ITC,owned by,Prabhudas Lilladher
+49,Prabhudas Lilladher,owner of,ITC
+50,Lilladher,owned by,Prabhudas Lilladher
+51,ITC,owned by,Sharekhan
+52,ITC,owned by,shareskhan
+53,ITC,stock exchange,Sharekhan
+54,ITC,instance of,net profit
+55,ITC Q4 net profit,parent organization,ITC
+56,Q4 net profit,parent organization,ITC
+57,ITC,product or material produced,cigarette
+58,Q4,point in time,Q4
+59,Q4,point in time,Q4 2016
+60,ITC,owned by,Nirmal Bang
+61,Nirmal Bang,employer,ITC
+62,ITC,owned by,Nirmal Bang
+63,Nirmal Bang,owner of,ITC

@@ -1,0 +1,49 @@
+,head,type,tail
+0,Noesis Ind,instance of,board meeting
+1,Noesis,instance of,board meeting
+2,Noesis Ind,publication date,2014
+3,Noesis Industries,"dissolved, abolished or demolished date","November 10, 2016"
+4,Noesis Industries,inception,"November 10, 2016"
+5,Noesis Industries,end time,"November 10, 2016"
+6,Noesis Industries,"dissolved, abolished or demolished date","August 11, 2016"
+7,Noesis Industries,inception,"August 11, 2016"
+8,Noesis Industries,end time,"August 11, 2016"
+9,Noesis Industries,"dissolved, abolished or demolished date","February 11, 2016"
+10,Noesis Industries,inception,"February 11, 2016"
+11,Noesis Industries,end time,"February 11, 2016"
+12,Noesis Industries,significant event,AGM
+13,Noesis Industries,instance of,AGM
+14,Noesis Industries,has part,AGM
+15,Noesis Industries,significant event,AGM
+16,Noesis Industries,instance of,AGM
+17,Noesis Industries,has effect,AGM
+18,MVL Industries,significant event,AGM
+19,MVL Industries,instance of,AGM
+20,MVL Industries,has part,AGM
+21,MVL Industries,industry,0.05 crore
+22,MVL Industries,stock exchange,0.05 crore
+23,MVL Industries,revenue,0.05 crore
+24,MVL Industries,different from,MVL Industries
+25,MVL Industries,different from,MVL Industries
+26,MVL Industries,different from,MVL Industries
+27,MVL Industries,different from,MVL Industries
+28,MVL Industries,different from,MVL Industries
+29,MVL Industries,significant event,AGM
+30,MVL Industries,instance of,AGM
+31,MVL Industries,has part,AGM
+32,MVL Industries,inception,"October 17, 2013"
+33,MVL Industries,inception,"October 17, 2013"
+34,MMVL Industries,inception,"October 17, 2013"
+35,MVL Industries,inception,Mar '13
+36,MVL Industries,industry,0.27 crore
+37,MVL Industries,instance of,0.27 crore
+38,Suresh Kumar Varma,employer,MVL Industries
+39,MVL Industries,chairperson,Suresh Kumar Varma
+40,Suresh Kumar Varma,owner of,MVL Industries
+41,MVL Industries,owned by,Suresh Kumar Varma
+42,MVL Industries,significant event,AGM
+43,MVL Industries,instance of,AGM
+44,MVL Industries,has part,AGM
+45,MVL Industries,country,India
+46,MVL Industries,industry,Rs 153.90 crore
+47,MVL Industries,industry,153.90 crore

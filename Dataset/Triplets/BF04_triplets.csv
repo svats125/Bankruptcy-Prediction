@@ -1,0 +1,69 @@
+,head,type,tail
+0,Bajaj Finserv,owned by,Sharekhan
+1,Bajaj Finserv,stock exchange,Sharekhan
+2,Bajaj Finserv,owned by,shareskhan
+3,Bajaj Finserv,owned by,KR Choksey
+4,Bajaj Finserv,stock exchange,1850
+5,Bajaj Finserv,owned by,KR Choksey
+6,KR Choksey,owner of,Bajaj Finserv
+7,Bajaj Finserv,instance of,net profit
+8,Bajaj Finserv,inception,Q1
+9,Bajaj Finserv,significant event,Q1 net profit
+10,Bajaj Finserv,owned by,Sharekhan
+11,Bajaj Finserv,stock exchange,1650
+12,Bajaj Finserv,stock price,1650
+13,Bajaj Finserv,owned by,Sharekhan
+14,Bajaj Finserv,stock exchange,1650
+15,Bajaj Finserv,stock price,1650
+16,Bajaj Finserv,owned by,ICICI Direct
+17,Bajaj Finserv,stock exchange,ICICI Direct
+18,Bajaj Finserv,owned by,ICICI Direct
+19,ICICI Direct,owner of,Bajaj Finserv
+20,Bajaj Finserv,stock exchange,1850
+21,Bajaj Finserv,owned by,ICICI Direct
+22,Bajaj Finserv,stock price,1850
+23,Bajaj Finserv,inception,1950
+24,Bajaj Finserv,stock exchange,1950
+25,Bajaj Finserv,end time,1950
+26,Bajaj Finserv Q2,point in time,Q2
+27,Bajaj Finserv,Q2 result,Q2
+28,Bajaj Finserv,profit after tax,Q2
+29,Bajaj Finserv,inception,1950
+30,Bajaj Finserv,stock exchange,1950
+31,Bajaj Finserv,end time,1950
+32,Bajaj Finserv,stock exchange,1850
+33,Bajaj Finserv,owned by,ICICI Direct
+34,Bajaj Finserv,stock price,1850
+35,Bajaj Finserv,owned by,Sharekhan
+36,Bajaj Finserv,owned by,shareskhan
+37,Bajaj Finserv,stock exchange,Sharekhan
+38,Bajaj Finserv,owned by,ICICI Direct
+39,Bajaj Finserv,stock exchange,ICICI Direct
+40,Bajaj Finserv,owned by,ICICI Direct
+41,ICICI Direct,owner of,Bajaj Finserv
+42,Bajaj Finserv,significant event,Q1 profit
+43,Bajaj Finserv,profit received,Q1 profit
+44,Bajaj Finserv,significant event,Q1 profit
+45,Q1 profit,winner,Bajaj Finserv
+46,Bajaj Finserv,owned by,KR Choksey
+47,Bajaj Finserv,owned by,KR Choksey
+48,KR Choksey,owner of,Bajaj Finserv
+49,Bajaj Finserv,stock exchange,KR Choksey
+50,Bajaj Finserv,owned by,Sharekhan
+51,Bajaj Finserv,stock exchange,Sharekhan
+52,Bajaj Finserv,owned by,shareskhan
+53,Bajaj Finserv,owned by,ICICI Direct
+54,Bajaj Finserv,stock exchange,ICICI Direct
+55,Bajaj Finserv,owned by,ICICI Direct
+56,ICICI Direct,owner of,Bajaj Finserv
+57,Bajaj Finserv,owned by,ICICI Direct
+58,Bajaj Finserv,stock exchange,ICICI Direct
+59,Bajaj Finserv,owned by,ICICI Direct
+60,ICICI Direct,owner of,Bajaj Finserv
+61,Bajaj Finserv,owned by,KR Choksey
+62,Bajaj Finserv,inception,1967
+63,Bajaj Finserv,owned by,KR Choksey
+64,KR Choksey,owner of,Bajaj Finserv
+65,Bajaj Finserv,owned by,Sharekhan
+66,Bajaj Finserv,instance of,shares
+67,Bajaj Finserv,stock exchange,Sharekhan

@@ -1,0 +1,66 @@
+,head,type,tail
+0,2008 global financial crisis,point in time,2008
+1,Bank of England,replaced by,Financial Services Authority
+2,Financial Services Authority,replaces,Bank of England
+3,Bank of England,subsidiary,Financial Services Authority
+4,Financial Services Authority,parent organization,Bank of England
+5,REI Agro,occupation,promoter
+6,REI Agro,chairperson,REI Agro chairman
+7,REI Agro,owned by,REI Agro chairman
+8,bankruptcy law,practiced by,lenders
+9,bankruptcy law,used by,lenders
+10,bankruptcy law,participant,lenders
+11,Rei Agro,end time,"Feb 14, 2017"
+12,Rei Agro,"dissolved, abolished or demolished date","Feb 14, 2017"
+13,Rei Agro,end time,"February 14, 2017"
+14,REI Agro,instance of,bank
+15,REI Agro,country,India
+16,REI Agro,parent organization,REI
+17,Rei Agro,end time,"May 31, 2016"
+18,Rei Agro,"dissolved, abolished or demolished date","May 31, 2016"
+19,Rei Agro,inception,"May 31, 2016"
+20,Rei Agro,end time,"May 30, 2016"
+21,Rei Agro,"dissolved, abolished or demolished date","May 30, 2016"
+22,Rei Agro,inception,"May 30, 2016"
+23,Rei Agro,end time,"February 13, 2016"
+24,Rei Agro,inception,"February 13, 2016"
+25,Rei Agro,"dissolved, abolished or demolished date","February 13, 2016"
+26,N. K. Gupta,employer,Rei Agro
+27,N. K. Gupta,position held,independent director
+28,N. K. Gupta,occupation,independent director
+29,Rei Agro,instance of,AGM
+30,Rei Agro,significant event,AGM
+31,Rei Agro,has effect,AGM
+32,Rei Agro,instance of,AGM
+33,Rei Agro,significant event,AGM
+34,Rei Agro,inception,"Sept 29, 2015"
+35,Rei Agro,significant event,board meeting
+36,Rei Agro,participant in,board meeting
+37,Rei Agro,participant in,board meeting
+38,board meeting,participant,Rei Agro
+39,Rei Agro,significant event,board meeting
+40,Rei Agro,participant in,board meeting
+41,Rei Agro,participant in,board meeting
+42,board meeting,participant,Rei Agro
+43,Rei Agro,owned by,Anishrava Agrawal
+44,Rei Agro,chairperson,Anishrava Agrawal
+45,Rei Agro,founded by,Anishrava Agrawal
+46,Rei Agro,significant event,board meeting
+47,Rei Agro,participant in,board meeting
+48,Rei Agro,participant in,board meeting
+49,board meeting,participant,Rei Agro
+50,Rei Agro,inception,"March 31, 2015"
+51,Rei Agro,industry,Agro
+52,Rei Agro,product or material produced,Agro
+53,Rei Agro,significant event,board meeting
+54,Rei Agro,industry,Agro
+55,Rei Agro,product or material produced,Agro
+56,Rei Agro,significant event,board meeting
+57,Rei Agro,industry,Agro
+58,Rei Agro,product or material produced,Agro
+59,AGM,participant,Rei Agro
+60,Rei Agro,significant event,AGM
+61,Rei Agro,has part,AGM
+62,Rei Agro,end time,Dec '13
+63,Rei Agro,revenue,"2,968.02"
+64,Rei Agro,revenue level,"2,968.02"

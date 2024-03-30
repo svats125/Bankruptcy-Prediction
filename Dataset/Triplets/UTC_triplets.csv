@@ -1,0 +1,64 @@
+,head,type,tail
+0,Q3 net profit,manufacturer,Grasim Industries
+1,Q3,point in time,Q3
+2,Q3 net profit,publisher,Grasim Industries
+3,UltraTech Cement,instance of,net debt
+4,UltraTech Cement,product or material produced,cement
+5,UltraTech Cement,instance of,Net debt
+6,Dalmia Bharat,product or material produced,Cement
+7,Dalmia Bharat,industry,Cement
+8,UltraTech,industry,Cement
+9,Dalmia Bharat,industry,Cement
+10,UltraTech Cement,owned by,Emkay Global Financial
+11,UltraTech Cement,country,India
+12,UltraTech,product or material produced,Cement
+13,UltraTech Cement,owned by,Motilal Oswal
+14,UltraTech Cement,stock exchange,Motilal Oswal
+15,UltraTech,product or material produced,Cement
+16,UltraTech Cement,owned by,Sharekhan
+17,UltraTech Cement,product or material produced,Cement
+18,UltraTech Cement,owned by,shareskhan
+19,Q3,point in time,Q3
+20,Q3 earnings,named after,UltraTech
+21,UltraTech,notable event,Q3 earnings
+22,Morgan,product or material produced,Cement
+23,Morgan,industry,Cement
+24,Morgan,product or material produced,cement
+25,UltraTech,industry,renewable energy
+26,UltraTech,product or material produced,renewable energy
+27,UltraTech,owner of,renewable energy firm
+28,renewable energy firm,owned by,UltraTech
+29,Q2,point in time,Q2
+30,Q2 sales,manufacturer,UltraTech Cement
+31,UltraTech Cement,product or material produced,26.69 MT
+32,UltraTech Cement,owned by,Sharekhan
+33,UltraTech Cement,stock exchange,Sharekhan
+34,UltraTech Cement,owned by,shareskhan
+35,Ultratech Cement,owned by,Emkay Global Financial
+36,Ultratech,owned by,Emkay Global Financial
+37,Ultratech,product or material produced,Cement
+38,UltraTech Cement,product or material produced,Cement
+39,UltraTech Cement,industry,Cement
+40,UltraTech Cement,country,India
+41,UltraTech Cement,owned by,ICICI Securities
+42,UltraTech Cement,stock exchange,7311
+43,Reduce UltraTech Cement,owned by,ICICI Securities
+44,UltraTech Cement,owned by,Axis Securities
+45,UltraTech Cement,stock exchange,9520
+46,UltraTech Cement,stock exchange,Axis Securities
+47,UltraTech Cement,owned by,Motilal Oswal
+48,UltraTech Cement,stock exchange,Motilal Oswal
+49,UltraTech,product or material produced,Cement
+50,UltraTech Cement,owned by,Sharekhan
+51,UltraTech Cement,stock exchange,Sharekhan
+52,UltraTech Cement,owned by,shareskhan
+53,UltraTech Cement,owned by,HDFC Securities
+54,UltraTech Cement,stock exchange,HDFC Securities
+55,UltraTech,owned by,HDFC Securities
+56,UltraTech Cement,instance of,Net profit
+57,UltraTech Cement,industry,"1,690 crore"
+58,UltraTech Cement,revenue stream,"1,690 crore"
+59,UltraTech Cement,owned by,Nirmal Bang
+60,Q1,point in time,Q1
+61,UltraTech Cement,owned by,Nirmal Bang
+62,Nirmal Bang,owner of,UltraTech Cement

@@ -1,0 +1,64 @@
+,head,type,tail
+0,Eicher Motors,owned by,Prabhudas Lilladher
+1,Accumulate Eicher Motors,manufacturer,Eicher Motors
+2,Accumulate Eicher Motors,parent organization,Eicher Motors
+3,Eicher Motors,instance of,Net profit
+4,Eicher Motors,industry,Net profit
+5,Eicher Motors,followed by,Q3 results
+6,Eicher Motors,instance of,company
+7,Eicher Motors,country,India
+8,Eicher Motors,instance of,tax demand notices
+9,Q2 profit,manufacturer,Eicher Motors
+10,Q2,manufacturer,Eicher Motors
+11,Eicher Motors,significant event,Q2 profit
+12,Eicher Motors,owned by,Emkay Global Financial
+13,Eicher Motors,owned by,Eicher Motors
+14,Eicher Motors,parent organization,Eicher Motors
+15,Eicher Motors,owned by,Prabhudas Lilladher
+16,Accumulate Eicher Motors,owned by,Prabhudas Lilladher
+17,Accumulate Eicher Motors,parent organization,Eicher Motors
+18,Eicher Motors,owned by,YES Securities
+19,Eicher Motors,owned by,Yes Securities
+20,Eicher Motors,stock exchange,YES Securities
+21,Eicher Motors,owned by,HDFC Securities
+22,Eicher Motors,stock exchange,HDFC Securities
+23,Eicher Motors,maintained by,HDFC Securities
+24,Eicher Motors,owned by,Sharekhan
+25,Eicher Motors,owned by,shareskhan
+26,Eicher Motors,stock exchange,shareskhan
+27,Eicher Motors,owned by,Nirmal Bang
+28,Eicher Motors,owned by,Nirmal Bang
+29,Nirmal Bang,owner of,Eicher Motors
+30,Nirmal Bang,employer,Eicher Motors
+31,Eicher Motors,owned by,HDFC Securities
+32,Eicher Motors,stock exchange,HDFC Securities
+33,Eicher Motors,stock exchange,3086
+34,Eicher Motors,owned by,Motilal Oswal
+35,Neutral Eicher Motors,owned by,Motilal Oswal
+36,Eicher Motors,stock exchange,Motilal Oswal
+37,Eicher Motors,owned by,Motilal Oswal
+38,Neutral Eicher Motors,owned by,Motilal Oswal
+39,Eicher Motors,stock exchange,Motilal Oswal
+40,Eicher Motors,owned by,Sharekhan
+41,Eicher Motors,owned by,shareskhan
+42,Eicher Motors,stock exchange,shareskhan
+43,Eicher Motors,owned by,Emkay Global Financial
+44,Eicher Motors,owned by,Eicher Motors
+45,Eicher Motors,parent organization,Eicher Motors
+46,Eicher Motors,owned by,Prabhudas Lilladher
+47,Eicher Motors,parent organization,Prabhudas Lilladher
+48,Eicher Motors,country,India
+49,Eicher Motors,instance of,net profit
+50,Q4 net profit,manufacturer,Eicher Motors
+51,Eicher Motors,significant event,Q4 net profit
+52,Eicher Motors,stock exchange,Motilal Oswal
+53,Eicher Motors,owned by,Motilal Oswal
+54,Eicher Motors,owned by,Motilal Oswal
+55,Motilal Oswal,owner of,Eicher Motors
+56,Eicher Motors,owned by,Motilal Oswal
+57,Eicher Motors,stock exchange,Motilal Oswal
+58,Eicher Motors,owned by,Motilal Oswal
+59,Motilal Oswal,owner of,Eicher Motors
+60,Eicher Motors,owned by,YES Securities
+61,Eicher Motors,owned by,Yes Securities
+62,Eicher Motors,stock exchange,YES Securities

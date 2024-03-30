@@ -1,0 +1,64 @@
+,head,type,tail
+0,Bulls back these 3 stocks,point in time,March
+1,Bulls back,is a list of,stock
+2,3 stocks that can give 18-20% return in March,point in time,March
+3,ICICI Prudential Life Insurance,owned by,KR Choksey
+4,Prudential Life Insurance,owned by,ICICI
+5,ICICI Prudential Life Insurance,owned by,KR Choksey
+6,KR Choksey,owner of,ICICI Prudential Life Insurance
+7,ICICI Prudential Life Insurance,owned by,Motilal Oswal
+8,ICICI Prudential Life,product or material produced,Life Insurance
+9,ICICI Prudential Life Insurance,stock exchange,Motilal Oswal
+10,ICICI Pru Life,instance of,APE
+11,ICICI Pru Life,product or material produced,APE
+12,ICICI Pru Life,industry,APE
+13,ICICI Pru Life,instance of,stock
+14,ICICI Pru Life,significant event,Q3 misses estimates
+15,ICICI Pru Life,has part,Q3
+16,Q3,part of,ICICI Pru Life
+17,ICICI Prudential Life Insurance,owned by,KR Choksey
+18,Prudential Life Insurance,owned by,ICICI Prudential Life Insurance
+19,ICICI Prudential Life Insurance,owned by,KR Choksey
+20,KR Choksey,owner of,ICICI Prudential Life Insurance
+21,ICICI Prudential Life Insurance,owned by,Sharekhan
+22,ICICI Prudential Life Insurance,owned by,shareskhan
+23,ICICI Prudential Life Insurance,stock exchange,Sharekhan
+24,ICICI Prudential Life Insurance,owned by,Motilal Oswal
+25,ICICI Prudential Life,product or material produced,Life Insurance
+26,ICICI Prudential Life Insurance,stock exchange,Motilal Oswal
+27,ICICI Prudential Life Insurance Company,owned by,Religare Retail Research
+28,ICICI Prudential Life Insurance Company,stock exchange,Religare Retail Research
+29,Life Insurance Company,owned by,ICICI Prudential
+30,ICICI Pru Life,owned by,Emkay Global Financial
+31,Pru Life,owned by,ICICI
+32,Pru Life,parent organization,ICICI
+33,ICICI Pru Life,owned by,Emkay Global Financial
+34,Pru Life,owned by,ICICI
+35,Pru Life,parent organization,ICICI
+36,ICICI Prudential Life Insurance,owned by,Sharekhan
+37,ICICI Prudential Life Insurance,stock exchange,Sharekhan
+38,ICICI Prudential Life Insurance,owned by,shareskhan
+39,ICICI Prudential Life Insurance Company,owned by,Sharekhan
+40,ICICI Prudential Life Insurance Company,stock exchange,Sharekhan
+41,Sharekhan,owner of,ICICI Prudential Life Insurance Company
+42,ICICI Prudential Life Insurance,owned by,Motilal Oswal
+43,ICICI Prudential Life,product or material produced,Life Insurance
+44,ICICI Prudential Life Insurance,stock exchange,Motilal Oswal
+45,ICICI Pru Life,owned by,Emkay Global Financial
+46,Pru Life,owned by,ICICI
+47,Pru Life,parent organization,ICICI
+48,ICICI Prudential Life Insurance,owned by,KR Choksey
+49,Prudential Life Insurance,owned by,ICICI Prudential Life Insurance
+50,Prudential Life Insurance,owned by,ICICI Prudential
+51,ICICI Prudential Life Insurance Co,owned by,Geojit
+52,ICICI Prudential Life Insurance,owned by,Geojit
+53,ICICI Prudential Life Insurance Co,stock exchange,Geojit
+54,ICICI Prudential Life Insurance,owned by,KR Choksey
+55,Prudential Life Insurance,owned by,ICICI Prudential
+56,Prudential Life Insurance,owned by,ICICI Prudential Life Insurance
+57,ICICI Prudential Life Insurance Company,owned by,Sharekhan
+58,ICICI Prudential Life Insurance Company,stock exchange,Sharekhan
+59,ICICI Prudential Life Insurance Company,owned by,shareskhan
+60,ICICI Prudential Life Insurance,owned by,Motilal Oswal
+61,ICICI Prudential Life,owned by,Motilal Oswal
+62,ICICI Prudential,product or material produced,Life Insurance

@@ -1,0 +1,69 @@
+,head,type,tail
+0,Adani Ent,owned by,Jefferies
+1,Adani Ent,stock exchange,Jefferies
+2,Adani Ent,maintained by,Jefferies
+3,IANS,instance of,news agency
+4,Adani Group,owner of,IANS
+5,IANS,owned by,Adani Group
+6,IANS,owned by,Adani Group
+7,SECI,product or material produced,electrolysers
+8,Adani Enterprises,product or material produced,electrolysers
+9,Adani Enterprises,owner of,SECI
+10,SECI,owned by,Adani Enterprises
+11,Adani Enterprises,product or material produced,wind turbine
+12,Adani Enterprises,product or material produced,wind turbine generator
+13,wind turbine,subclass of,generators
+14,Adani Enterprises,instance of,Net profit
+15,Adani Enterprises,industry,Net profit
+16,Adani Enterprises,significant event,Q1 results
+17,Adani Enterprises,product or material produced,data center
+18,JV,parent organization,Adani Enterprises
+19,JV,owned by,Adani Enterprises
+20,Adani Enterprises,instance of,stock
+21,revenue up 42%,manufacturer,Adani Enterprises
+22,revenue up 42%,parent organization,Adani Enterprises
+23,FPO,operator,Adani Group
+24,FPO,owned by,Adani Group
+25,Adani Group,owner of,FPO
+26,FPO,owned by,Adani Group
+27,Adani's,political ideology,nationalism
+28,Adani,political ideology,nationalism
+29,Adani's,movement,nationalism
+30,Adani,country,India
+31,Adani,country,India's
+32,Adani,owned by,India
+33,NDTV,owned by,Adani
+34,Adani,owner of,NDTV
+35,NDTV,owned by,Adani
+36,Adani,owner of,NDTV
+37,flagship firm,owned by,Gautam Adani
+38,flagship firm,founded by,Gautam Adani
+39,flagship firm,owned by,Adani
+40,net profit,owned by,Adani Enterprises
+41,net profit,parent organization,Adani Enterprises
+42,"revenue nearly triples to Rs 38,175 crore",parent organization,Adani Enterprises
+43,Adani Airports Holdings,parent organization,Standard Chartered Bank
+44,Adani Airports Holdings,owned by,Standard Chartered Bank
+45,Adani Airports Holdings,owned by,Standard Chartered Bank
+46,Standard Chartered Bank,owner of,Adani Airports Holdings
+47,Adani,industry,petrochemical
+48,Adani,product or material produced,petrochemical
+49,Adani floats company,industry,petrochemical
+50,TOT auction,participant,Adani
+51,TOT auction,participant,DP Jain
+52,TOT auction,participant,Adani
+53,Adani,owner of,DP Jain
+54,DP Jain,owned by,Adani
+55,Mumbai International Airport,operator,Adani Airports
+56,Mumbai International Airport,owned by,Adani Airports
+57,Adani Airports,owner of,Mumbai International Airport
+58,Mumbai International Airport,owned by,Adani Airports
+59,Adani Enterprises,profit margin,Rs 343 crore
+60,Adani Enterprises,has part,Q3 consolidated profit
+61,Adani Enterprises,significant event,Q3 consolidated profit
+62,Adani Enterprises,country,India
+63,Adani Enterprises,owned by,Adani Group
+64,Adani Enterprises,industry,5 years
+65,September quarter,point in time,September quarter
+66,quarterly profit in September quarter,owned by,Adani Enterprises
+67,quarterly profit in September quarter,manufacturer,Adani Enterprises

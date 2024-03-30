@@ -1,0 +1,65 @@
+,head,type,tail
+0,Pincon Lifestyle,instance of,board meeting
+1,Pincon Lifestyle,has part,board meeting
+2,Pincon Lifestyle,has part,board meeting
+3,board meeting,part of,Pincon Lifestyle
+4,Pincon Life,instance of,AGM
+5,Pincon Life,significant event,AGM
+6,Pincon Life,has part,AGM
+7,Pincon Lifestyle,instance of,board meeting
+8,Pincon Lifestyle,has part,board meeting
+9,Pincon Lifestyle,has part,board meeting
+10,board meeting,part of,Pincon Lifestyle
+11,Pincon Life,instance of,board meeting
+12,Pincon Life,owned by,board
+13,Pincon Life,has part,board meeting
+14,Pincon Lifestyle,inception,"June 29, 2017"
+15,Pincon Lifestyle,end time,"June 29, 2017"
+16,Pincon Lifestyle,point in time,"June 29, 2017"
+17,Pincon Lifestyle,country,India
+18,Pincon,product or material produced,Lifestyle
+19,Pincon,product or material produced,Lifestyle
+20,Lifestyle,owned by,Pincon
+21,Pincon Life,inception,27.03.2017
+22,2017,point in time,2017
+23,Pincon Life,instance of,board meeting
+24,Maruti violence case,location,Gurugram
+25,Maruti violence case,court,Gurugram court
+26,Maruti violence case,court,Gurugram court convicts 31 &amp;amp; acquits 117
+27,Maruti,owned by,Tata Motors
+28,Maruti,parent organization,Tata Motors
+29,Tata Motors,subsidiary,Maruti
+30,Maruti,parent organization,Tata Motors
+31,Modi Udyog,inception,"February 13, 2017"
+32,Modi Udyog,end time,"February 13, 2017"
+33,Modi Udyog,"dissolved, abolished or demolished date","February 13, 2017"
+34,Udyog,chairperson,Modi
+35,Modi Udyog,instance of,board meeting
+36,Udyog,founded by,Modi
+37,Modi Udyog,inception,"Dec 19, 2016"
+38,Modi Udyog,inception,"December 19, 2016"
+39,Modi Udyog,"dissolved, abolished or demolished date","Dec 19, 2016"
+40,Modi Udyog,inception,"November 14, 2016"
+41,Modi Udyog,"dissolved, abolished or demolished date","November 14, 2016"
+42,Modi Udyog,end time,"November 14, 2016"
+43,Udyog,owned by,Modi
+44,Modi Udyog,revenue stream,77.96 crore
+45,Udyog,owned by,Modi Udyog
+46,Modi Udyog,instance of,AGM
+47,Udyog,chairperson,Modi
+48,Udyog,creator,Modi
+49,Modi Udyog,inception,"August 08, 2016"
+50,Modi Udyog,end time,"August 08, 2016"
+51,Modi Udyog,"dissolved, abolished or demolished date","August 08, 2016"
+52,Modi Udyog's AGM,point in time,"August 01, 2016"
+53,Modi Udyog,inception,"August 01, 2016"
+54,Modi Udyog,point in time,"August 01, 2016"
+55,State Bank of Mysore,owned by,Modi Udyog
+56,Modi Udyog,employer,State Bank of Mysore
+57,Modi Udyog,owned by,State Bank of Mysore
+58,Udyog,chairperson,Modi
+59,Modi Udyog,instance of,board meeting
+60,Udyog,founded by,Modi
+61,Modi Udyog,director,Raja Saha
+62,Modi Udyog,director,Raja Saha
+63,Modi Udyog's,director,Raja Saha

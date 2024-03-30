@@ -1,0 +1,61 @@
+,head,type,tail
+0,S R Ramakrishnan,employer,Nagarjuna Oil Refinery
+1,Nagarjuna Oil Refinery,owned by,S R Ramakrishnan
+2,S R Ramakrishnan,owner of,Nagarjuna Oil Refinery
+3,Nagarjuna Oil,inception,"August 09, 2017"
+4,Nagarjuna Oil,"dissolved, abolished or demolished date","August 09, 2017"
+5,Nagarjuna Oil,end time,"August 09, 2017"
+6,Nagarjuna Oil Refinery,inception,"May 26, 2017"
+7,Nagarjuna Oil Refinery,"dissolved, abolished or demolished date","May 26, 2017"
+8,Nagarjuna Oil Refinery,end time,"May 26, 2017"
+9,D Ranga Raju,employer,Nagarjuna Oil Refinery
+10,Nagarjuna Oil Refinery,owned by,D Ranga Raju
+11,Ranga Raju,employer,Nagarjuna Oil Refinery
+12,Nagarjuna Oil Refinery,inception,"February 09, 2017"
+13,Nagarjuna Oil Refinery,"dissolved, abolished or demolished date","February 09, 2017"
+14,Nagarjuna Oil Refinery,inception,"February 09, 2017"
+15,Nagarjuna Oil Refinery,inception,"February 09, 2017"
+16,Nagarjuna Oil Refinery,"dissolved, abolished or demolished date","February 09, 2017"
+17,Nagarjuna Oil Refinery,inception,"February 09, 2017"
+18,Nagarjuna Oil Refinery,product or material produced,oil
+19,Nagarjuna Oil Refinery,instance of,Oil Refinery
+20,Nagarjuna Oil Refinery,instance of,board meeting
+21,Nagarjuna Oil Refinery,inception,"Nov 08, 2016"
+22,Nagarjuna Oil Refinery,inception,"Nov 08, 2016"
+23,Nagarjuna Oil Refinery,service entry,"Nov 08, 2016"
+24,Nagarjuna Oil Refinery,inception,"November 08, 2016"
+25,Nagarjuna Oil Refinery,"dissolved, abolished or demolished date","November 08, 2016"
+26,Nagarjuna Oil Refinery,end time,"November 08, 2016"
+27,Nagarjuna Oil Refinery,product or material produced,oil
+28,Nagarjuna Oil Refinery,significant event,board meeting
+29,Nagarjuna Oil Refinery,participant in,board meeting
+30,Nagarjuna Oil Refinery,inception,"February 04, 2016"
+31,Nagarjuna Oil Refinery,"dissolved, abolished or demolished date","February 04, 2016"
+32,Nagarjuna Oil Refinery,inception,"February 04, 2016"
+33,Nagarjuna Oil Refinery,inception,"November 03, 2015"
+34,Nagarjuna Oil Refinery,inception,"November 03, 2015"
+35,Sagarjuna Oil Refinery,inception,"November 03, 2015"
+36,Petrochemical,instance of,regions
+37,Petrochemical region,country,India
+38,Petrochemical,subclass of,investment
+39,Lailtha Raghuram,employer,Nagarjuna Oil Refinery
+40,Nagarjuna Oil Refinery,owned by,Lailtha Raghuram
+41,Nagarjuna Oil Refinery,chairperson,Lailtha Raghuram
+42,Nagarjuna Oil Refinery,instance of,CO
+43,Ankita Mathur,employer,Nagarjuna Oil Refinery
+44,Nagarjuna Oil Refinery,owned by,Ankita Mathur
+45,Nagarjuna Oil Refinery,instance of,CO
+46,Ankita Mathur,employer,Nagarjuna Oil Refinery
+47,Nagarjuna Oil Refinery,owned by,Ankita Mathur
+48,Nagarjuna Oil,industry,0.01 crore
+49,Nagarjuna Oil,instance of,0.01 crore
+50,Nagarjuna Oil,revenue,0.01 crore
+51,Nagarjuna Oil Refinery,significant event,AGM
+52,Nagarjuna Oil Refinery,instance of,AGM
+53,Nagarjuna Oil Refinery,owned by,AGM
+54,Nagarjuna Oil Refinery,instance of,AGM
+55,Nagarjuna Oil Refinery,significant event,AGM
+56,Nagarjuna Oil Refinery,has part,AGM
+57,Nagarjuna Oil,profit margin,22.8 cr
+58,Nagarjuna Oil,revenue,22.8 cr
+59,Nagarjuna Oil,revenue,22.8

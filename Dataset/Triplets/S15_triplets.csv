@@ -1,0 +1,73 @@
+,head,type,tail
+0,SRS,inception,"November 14, 2017"
+1,SRS,point in time,"November 14, 2017"
+2,SRS,end time,"November 14, 2017"
+3,SRS,instance of,board meeting
+4,SRS,subclass of,board meeting
+5,SRS,has part,board meeting
+6,board meeting,part of,SRS
+7,SRS,instance of,board meeting
+8,SRS,subclass of,board meeting
+9,SRS,has part,board meeting
+10,board meeting,part of,SRS
+11,cinema business,owned by,SRS
+12,cinema,owned by,SRS
+13,cinema business,parent organization,SRS
+14,SRS,instance of,net loss
+15,SRS,loss,20.22cr
+16,SRS Q2 net loss,point in time,20.22cr
+17,SRS,instance of,board meeting
+18,SRS,subclass of,board meeting
+19,SRS,has part,board meeting
+20,board meeting,part of,SRS
+21,Outcome of AGM,applies to jurisdiction,SRS
+22,SRS,has part,AGM
+23,AGM,part of,SRS
+24,Outcome of AGM,facet of,SRS
+25,SRS subsidiary,headquarters location,Bareilly
+26,SRS,headquarters location,Bareilly
+27,5 screen multiplex,located in the administrative territorial entity,Bareilly
+28,SRS,instance of,board meeting
+29,SRS,subclass of,board meeting
+30,SRS,has part,board meeting
+31,board meeting,part of,SRS
+32,SRS,inception,"August 24, 2016"
+33,SRS' board meeting,point in time,"August 24, 2016"
+34,SRS,end time,"August 24, 2016"
+35,2016,point in time,2016
+36,SRS,inception,"July 13, 2016"
+37,SRS',inception,"July 13, 2016"
+38,SRS,instance of,board meeting
+39,SRS,subclass of,board meeting
+40,SRS,has part,board meeting
+41,board meeting,part of,SRS
+42,SRS,instance of,board meeting
+43,SRS,subclass of,board meeting
+44,SRS,has part,board meeting
+45,board meeting,part of,SRS
+46,revenue,has part,income
+47,income from operations,parent organization,SRS
+48,SRS,industry,"1,300.08 crore"
+49,SRS,instance of,board meeting
+50,SRS,subclass of,board meeting
+51,SRS,has part,board meeting
+52,board meeting,part of,SRS
+53,"board meeting on Feb 10, 2016",point in time,"Feb 10, 2016"
+54,SRS,significant event,"board meeting on Feb 10, 2016"
+55,SRS,significant event,"board meeting on Feb 10, 2016"
+56,"board meeting on Feb 10, 2016",participant,SRS
+57,Praveen Kumar Kapoor,employer,SRS
+58,SRS,chairperson,Praveen Kumar Kapoor
+59,Praveen Kumar Kapoor,occupation,director
+60,SRS,instance of,board meeting
+61,SRS,subclass of,board meeting
+62,SRS,has part,board meeting
+63,board meeting,part of,SRS
+64,SRS Group,instance of,stores
+65,SRS Group,industry,stores
+66,SRS Group,subsidiary,SRS Group
+67,SRS Group,parent organization,SRS Group
+68,Kolkata,country,India
+69,SRS,country,India
+70,Kolkata,country,India
+71,India,capital,Kolkata

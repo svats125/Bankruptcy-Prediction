@@ -1,0 +1,68 @@
+,head,type,tail
+0,Parabolic Drugs,instance of,board meeting
+1,Parabolic Drugs,has part,board meeting
+2,Parabolic Drugs,has part,board meeting
+3,board meeting,part of,Parabolic Drugs
+4,Parabolic Drugs,inception,"November 13, 2017"
+5,Parabolic Drugs,"dissolved, abolished or demolished date","November 13, 2017"
+6,Parabolic Drugs,end time,"November 13, 2017"
+7,Parabolic Drugs,inception,"September 29, 2017"
+8,Parabolic Drugs,point in time,"September 29, 2017"
+9,Parabolic Drugs,end time,"September 29, 2017"
+10,Parabolic Drugs,inception,"September 29, 2017"
+11,Parabolic Drugs,point in time,"September 29, 2017"
+12,Parabolic Drugs,end time,"September 29, 2017"
+13,Parabolic Drugs,instance of,board meeting
+14,Parabolic Drugs,has part,board meeting
+15,Parabolic Drugs,has part,board meeting
+16,board meeting,part of,Parabolic Drugs
+17,Parabolic Drugs,inception,"August 21, 2017"
+18,Parabolic Drugs,"dissolved, abolished or demolished date","August 21, 2017"
+19,Parabolic Drugs,end time,"August 21, 2017"
+20,Parabolic Drugs,inception,"Augusr 21, 2017"
+21,Parabolic Drugs,inception,2017
+22,Parabolic Drugs,end time,"Augusr 21, 2017"
+23,Parabolic Drugs,inception,"August 14, 2017"
+24,Parabolic Drugs,"dissolved, abolished or demolished date","August 14, 2017"
+25,Parabolic Drugs,end time,"August 14, 2017"
+26,Parabolic Drugs,inception,"May 29, 2017"
+27,Parabolic Drugs,end time,"May 29, 2017"
+28,Parabolic Drugs,"dissolved, abolished or demolished date","May 29, 2017"
+29,Parabolic Drugs,instance of,board meeting
+30,Parabolic Drugs,has part,board meeting
+31,Parabolic Drugs,has part,board meeting
+32,board meeting,part of,Parabolic Drugs
+33,Parabolic Drugs,inception,"May 10, 2017"
+34,Parabolic Drugs,end time,"May 10, 2017"
+35,Parabolic Drugs,point in time,"May 10, 2017"
+36,Parabolic Drugs,instance of,board meeting
+37,Parabolic Drugs,has part,board meeting
+38,Parabolic Drugs,has part,board meeting
+39,board meeting,part of,Parabolic Drugs
+40,Parabolic Drugs,inception,"February 09, 2017"
+41,Parabolic Drugs,"dissolved, abolished or demolished date","February 09, 2017"
+42,Parabolic Drugs,end time,"February 09, 2017"
+43,Parabolic Drugs,inception,"November 12, 2016"
+44,Parabolic Drugs,"dissolved, abolished or demolished date","November 12, 2016"
+45,Parabolic Drugs,end time,"November 12, 2016"
+46,Parabolic Drugs,inception,"August 13, 2016"
+47,Parabolic Drugs,"dissolved, abolished or demolished date","August 13, 2016"
+48,Parabolic Drugs,end time,"August 13, 2016"
+49,Parabolic Drugs,inception,"May 28, 2016"
+50,Parabolic Drugs,"dissolved, abolished or demolished date","May 28, 2016"
+51,Parabolic Drugs,end time,"May 28, 2016"
+52,Parabolic Drugs,instance of,board meeting
+53,Parabolic Drugs,has part,board meeting
+54,Parabolic Drugs,has part,board meeting
+55,board meeting,part of,Parabolic Drugs
+56,Parabolic Drugs,instance of,AGM
+57,Parabolic Drugs,has part,AGM
+58,Parabolic Drugs,has part,AGM
+59,AGM,part of,Parabolic Drugs
+60,Parabolic Drugs,instance of,AGM
+61,Parabolic Drugs,has part,AGM
+62,Parabolic Drugs,has part,AGM
+63,AGM,part of,Parabolic Drugs
+64,Parabolic Drugs,instance of,AGM
+65,Parabolic Drug,instance of,AGM
+66,Parabolic Drugs,has part,AGM

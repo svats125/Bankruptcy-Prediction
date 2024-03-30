@@ -1,0 +1,64 @@
+,head,type,tail
+0,Asian Paints,subsidiary,subsidiary
+1,subsidiary,parent organization,Asian Paints
+2,Asian Paints,subsidiary,GCPL
+3,GCPL,parent organization,Asian Paints
+4,Asian Paints,parent organization,GCPL
+5,competition,participant,Asian Paints
+6,competition flares up,participant,Asian Paints
+7,Asian Paints,participant in,competition
+8,Asian Paints,owned by,KR Choksey
+9,Accumulate Asian Paints,owned by,KR Choksey
+10,Accumulate Asian Paints,stock exchange,3460
+11,Neutral Asian Paints,owned by,Motilal Oswal
+12,Neutral Asian Paints,stock exchange,3340
+13,Asian Paints,owned by,Motilal Oswal
+14,Asian Paints,stock exchange,3490
+15,Asian Paints,owned by,Sharekhan
+16,Asian Paints,stock price,3490
+17,Asian Paints,chairperson,Amit Syngle
+18,Asian Paints,owned by,Amit Syngle
+19,Amit Syngle,employer,Asian Paints
+20,Asian Paints,instance of,Net profit
+21,Asian Paints,industry,Net profit
+22,Asian Paints,revenue stream,"1,475 crore"
+23,Asian Paints,owned by,Geojit
+24,Asian Paints,stock exchange,Geojit
+25,Paints,owned by,Asian Paints
+26,Asian Paints,owned by,ICICI Securities
+27,Asian Paints,stock exchange,ICICI Securities
+28,Reduce Asian Paints,owned by,ICICI Securities
+29,Asian Paints,owned by,Motilal Oswal
+30,Neutral Asian Paints,stock exchange,3120
+31,Neutral Asian Paints,owned by,Motilal Oswal
+32,Asian Paints,owned by,Sharekhan
+33,Asian Paints,owned by,shareskhan
+34,Asian Paints,stock exchange,3675
+35,Asian Paints,owned by,Religare Retail Research
+36,Asian Paints,stock exchange,Religare Retail Research
+37,Paints,owned by,Asian Paints
+38,Asian Paints,owned by,Prabhudas Lilladher
+39,Asia Paints,owned by,Prabhudas Lilladher
+40,Asian Paints,stock exchange,3527
+41,Asian Paints,country,India
+42,Asian Paints,industry,decorative
+43,Asian Paints,industry,decorative business
+44,Q1,point in time,Q1
+45,Asian Paints,owned by,Nirmal Bang
+46,Asian Paints,owned by,Nirmal Bang
+47,Nirmal Bang,owner of,Asian Paints
+48,Asian Paints,owned by,KR Choksey
+49,Accumulate Asian Paints,owned by,KR Choksey
+50,Paints,owned by,Asian Paints
+51,Asian Paints,owned by,KR Choksey
+52,Paints,owned by,Asian Paints
+53,Asian Paints,stock price,3564
+54,Neutral Asian Paints,owned by,Motilal Oswal
+55,Asian Paints,owned by,Motilal Oswal
+56,Neutral Asian Paints,stock exchange,Motilal Oswal
+57,Asian Paints,owned by,Sharekhan
+58,Asian Paints,stock exchange,3510
+59,Asian Paints,owned by,shareskhan
+60,Accumulate Asian Paints,owned by,Prabhudas Lilladher
+61,Asian Paints,owned by,Prabhudas Lilladher
+62,Paints,owned by,Asian Paints

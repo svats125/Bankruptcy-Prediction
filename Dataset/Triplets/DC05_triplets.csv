@@ -1,0 +1,66 @@
+,head,type,tail
+0,Diamond Power Infrastructure,instance of,bank fraud
+1,Diamond Power Infrastructure,significant event,"Rs 2,654-cr bank fraud"
+2,Diamond Power Infrastructure,significant event,"Rs 2,654-cr bank fraud"
+3,"Rs 2,654-cr bank fraud",participant,Diamond Power Infrastructure
+4,Diamond Power Infrastructure,owned by,Diamond Power Infrastructure
+5,Diamond Power Infrastructure,significant event,board meeting
+6,Diamond Power Infrastructure,parent organization,Diamond Power Infrastructure
+7,Diamond Power Infrastructure,owned by,Diamond Power Infrastructure
+8,Diamond Power Infrastructure,significant event,board meeting
+9,Diamond Power Infrastructure,instance of,board meeting
+10,Diamond Power Infrastructure,inception,"November 14, 2017"
+11,Diamond Power Infrastructure,"dissolved, abolished or demolished date","November 14, 2017"
+12,Diamond Power Infrastructure,point in time,"November 14, 2017"
+13,Diamond Power,instance of,board meeting
+14,Diamond Power,significant event,board meeting
+15,Diamond Power,has part,board meeting
+16,Diamond Power,instance of,board meeting
+17,Diamond Power,significant event,board meeting
+18,Diamond Power,has part,board meeting
+19,SDR,operator,Diamond Power
+20,SDR,owned by,Diamond Power
+21,Diamond Power,owned by,SDR
+22,equity,opposite of,debt
+23,debt,opposite of,equity
+24,equity,opposite of,debt
+25,debt,opposite of,equity
+26,Diamond Power Infrastructure,inception,"March 04, 2017"
+27,Diamond Power Infrastructure,"dissolved, abolished or demolished date","March 04, 2017"
+28,Diamond Power Infrastructure,inception,"March 4, 2017"
+29,Diamond Power Infrastructure,significant event,Q3 loss
+30,Diamond Power Infrastructure,significant event,Q3 loss widens to Rs 213 cr.
+31,Diamond Power Infrastructure,significant event,Q3 loss widens to Rs 213 cr.
+32,Q3 loss widens to Rs 213 cr.,participant,Diamond Power Infrastructure
+33,Diamond Power,instance of,board meeting
+34,Diamond Power,significant event,board meeting
+35,Diamond Power,has part,board meeting
+36,Diamond Power,significant event,"board meeting on Feb 14, 2017"
+37,Diamond Power,"dissolved, abolished or demolished date","Feb 14, 2017"
+38,Diamond Power,inception,"Feb 14, 2017"
+39,Diamond Power,inception,"Feb 03, 2017"
+40,Diamond Power,"dissolved, abolished or demolished date","Feb 03, 2017"
+41,Diamond Power,owned by,Diamond Power Management
+42,Diamond Power Infrastructure,inception,"Jan 23, 2017"
+43,Diamond Power Infrastructure's,inception,"Jan 23, 2017"
+44,Diamond Power Infrastructure,point in time,"Jan 23, 2017"
+45,equity,opposite of,debt
+46,debt,opposite of,equity
+47,debt,opposite of,equity
+48,equity,opposite of,debt
+49,Diamond Power Infrastructure,significant event,AGM
+50,Diamond Power Infrastructure,has effect,AGM
+51,Diamond Power Infrastructure,has part,AGM
+52,Diamond Power Infrastructure,instance of,board meeting
+53,Diamond Power Infrastructure,owned by,Diamond Power Infrastructure
+54,Diamond Power Infrastructure,has part,board meeting
+55,Diamond Power Infrastructure,instance of,board meeting
+56,Diamond Power Infrastructure,owned by,Diamond Power Infrastructure
+57,Diamond Power Infrastructure,has part,board meeting
+58,Diamond Power Infrastructure,inception,"November 15, 2016"
+59,Diamond Power Infrastructure,"dissolved, abolished or demolished date","November 15, 2016"
+60,Diamond Power Infrastructure,end time,"November 15, 2016"
+61,Diamond Power,owned by,Jiangsu Longzhe
+62,Jiangsu Longzhe,owner of,Diamond Power
+63,Diamond Power,owned by,Jiangsu Longzhe
+64,Jiangsu Longzhe,owner of,Diamond Power

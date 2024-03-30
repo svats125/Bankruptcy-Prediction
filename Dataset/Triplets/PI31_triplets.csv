@@ -1,0 +1,61 @@
+,head,type,tail
+0,Provogue,product or material produced,apparel
+1,Provogue,industry,apparel
+2,Provogue,parent organization,NCLT
+3,Provogue (India),country,India
+4,Provogue (India),applies to jurisdiction,India
+5,Provogue,country,India
+6,Provogue's AGM,point in time,"September 28, 2017"
+7,Provogue,inception,"September 28, 2017"
+8,Provogue's,instance of,AGM
+9,2016 election,point in time,2016
+10,Provogue,inception,"August 14, 2017"
+11,Provogue's,inception,"August 14, 2017"
+12,Provogue,subclass of,Outcome
+13,Provogue,subclass of,Outcome of board meeting
+14,Outcome of board meeting,subclass of,Provogue
+15,Provogue,inception,"May 27, 2016"
+16,2016 election,point in time,2016
+17,Provogue's,inception,"May 27, 2016"
+18,Provogue,instance of,net loss
+19,Provogue,has part,Q3 net loss
+20,Provogue,significant event,Q3 net loss
+21,strategic debt restructuring,facet of,Provogue lenders
+22,strategic debt restructuring,subclass of,Provogue lenders
+23,Provogue lenders,subclass of,strategic debt restructuring
+24,Vishant Shetty,employer,Provogue
+25,Vishant Shetty,position held,CO
+26,Vishant Shetty,occupation,CO
+27,Provogue India,country,India
+28,Provogue India,instance of,board meeting
+29,Provogue,country,India
+30,2013,point in time,2013
+31,2011,point in time,2011
+32,2013 sales,point in time,2013
+33,Sep '13,point in time,Sep '13
+34,2013,point in time,2013
+35,Sep '13 sales,point in time,Sep '13
+36,Provogue (India),country,India
+37,Provogue (India),applies to jurisdiction,India
+38,Provogue (India),subclass of,AGM
+39,Provogue (India),instance of,dividend
+40,Provogue,country,India
+41,Provogue (India),instance of,AGM
+42,Provogue,instance of,dividend payment
+43,Provogue,instance of,dividend
+44,Provogue,instance of,dividend payment date
+45,2013,point in time,2013
+46,Jun '13,point in time,Jun '13
+47,Jun '13 sales,point in time,Jun '13
+48,Provogue,instance of,dividend
+49,Provogue,product or material produced,dividend
+50,Provogue clarifies on dividend,instance of,dividend
+51,Provogue,country,India
+52,Provogue (India),country,India
+53,Provogue (India),instance of,dividend
+54,Salil Chaturvedi,occupation,non-executive director
+55,Salil Chaturvedi,position held,non-executive director
+56,Salil Chaturvedi,employer,Provogue
+57,May 29,point in time,May 29
+58,2018,point in time,2018
+59,2016 election,point in time,2016

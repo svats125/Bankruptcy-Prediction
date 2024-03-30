@@ -1,0 +1,70 @@
+,head,type,tail
+0,ServiceNow,industry,Gen-AI
+1,ServiceNow,field of work,Gen-AI
+2,HCLTech,subsidiary,ServiceNow
+3,HCL Technologies,owned by,Geojit
+4,HCL Technologies,stock exchange,Geojit
+5,HCL Technologies,owned by,Geojit
+6,Geojit,owner of,HCL Technologies
+7,HCL Tech,owned by,Emkay Global Financial
+8,HCL Tech,stock exchange,1700
+9,HCL Tech,stock price,1700
+10,HCL Technologies,owned by,Sharekhan
+11,HCL Technologies,stock exchange,1780
+12,HCL Technologies,stock price,1780
+13,HCL Technologies,owned by,Motilal Oswal
+14,HCL Technologies,owned by,Motilal Oswal
+15,Motilal Oswal,owner of,HCL Technologies
+16,HCL Technologies,stock exchange,Motilal Oswal
+17,Firstsource Solutions,parent organization,HCL Technologies
+18,HCL Technologies,subsidiary,Firstsource Solutions
+19,HCL Technologies,subsidiary,IRFC
+20,HCL Tech,area,4
+21,Q3 beat,named after,HCL Tech
+22,HCL Tech,has part,Q3 beat
+23,Q3 beat,part of,HCL Tech
+24,Australia,diplomatic relation,New Zealand
+25,New Zealand,diplomatic relation,Australia
+26,Australia,diplomatic relation,New Zealand
+27,HCLTech,country,Australia
+28,Cisco,subsidiary,HCLTech
+29,HCLTech,parent organization,Cisco
+30,HCLTech,parent organization,Cisco
+31,Cisco,subsidiary,HCLTech
+32,generative AI,part of,metaverse
+33,generative AI,subclass of,metaverse
+34,metaverse,facet of,generative AI
+35,Cricket Australia,subsidiary,HCL Tech
+36,HCL Tech,parent organization,Cricket Australia
+37,Cricket Australia,subsidiary,HCL Tech
+38,HCL Tech,sport,cricket
+39,Verizon,subsidiary,HCLTech
+40,HCLTech,parent organization,Verizon
+41,Verizon,subsidiary,HCLTech
+42,HCLTech,parent organization,Verizon
+43,Siddharth Bhamre,employer,Religare&rsquo;s
+44,Siddharth Bhamre,employer,Religare&rsquo;
+45,Siddharth Bhamre,employer,"Religare&rsquo;""s"
+46,HCL Technologies,owned by,Religare Retail Research
+47,HCL Technologies,country,India
+48,HCL Technologies,stock exchange,1333
+49,HCL Technologies,owned by,Motilal Oswal
+50,HCL Technologies,owned by,Motilal Oswal
+51,Motilal Oswal,owner of,HCL Technologies
+52,HCL Technologies,stock exchange,Motilal Oswal
+53,HCL Tech,owned by,Axis Securities
+54,Axis Securities,owner of,HCL Tech
+55,Axis Securities,subsidiary,HCL Tech
+56,HCL Technologies,owned by,Sharekhan
+57,HCL Technologies,stock price,1265
+58,HCL Technologies,stock exchange,1265
+59,HCL Technologies,owned by,ICICI Direct
+60,HCL Technologies,stock exchange,ICICI Direct
+61,HCL Technologies,owned by,ICICI Direct
+62,ICICI Direct,owner of,HCL Technologies
+63,HCL Tech,owned by,Emkay Global Financial
+64,HCL Tech,stock price,1150
+65,HCL Tech,stock exchange,1150
+66,HCL Technologies,owned by,Sharekhan
+67,HCL Technologies,stock price,1175
+68,HCL Technologies,owned by,shareskhan

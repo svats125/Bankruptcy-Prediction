@@ -1,0 +1,68 @@
+,head,type,tail
+0,Viceroy Hotels,inception,"September 14, 2017"
+1,Viceroy Hotels,"dissolved, abolished or demolished date","September 14, 2017"
+2,Viceroy Hotels,end time,"September 14, 2017"
+3,Viceroy Hotels,instance of,board meeting
+4,Viceroy Hotels,has part,board meeting
+5,Viceroy Hotels,owned by,board
+6,Viceroy Hotels,end time,"July 31, 2017"
+7,Viceroy Hotels,"dissolved, abolished or demolished date","July 31, 2017"
+8,Viceroy Hotels,inception,"July 31, 2017"
+9,Rajesh Katragadda,employer,Viceroy Hotel
+10,Viceroy Hotel,owned by,Rajesh Katragadda
+11,Viceroy Hotel,owned by,Rajesh Katragadda
+12,Rajesh Katragadda,owner of,Viceroy Hotel
+13,A. Purnachandra Rao,position held,Viceroy Hotels EID
+14,A. Purnachandra Rao,position held,Viceroy Hotels
+15,A. Purnachandra Rao,occupation,Viceroy Hotels EID
+16,Viceroy Hotels,instance of,AGM
+17,Viceroy Hotels AGM,point in time,"Sept 29, 2016"
+18,Viceroy Hotels AGM,point in time,2016
+19,Viceroy Hotels,instance of,board meeting
+20,Viceroy Hotels,has part,board meeting
+21,Viceroy Hotels,owned by,board
+22,Viceroy Hotels,"dissolved, abolished or demolished date","May 30, 2016"
+23,Viceroy Hotels,inception,"May 30, 2016"
+24,Viceroy Hotels,end time,"May 30, 2016"
+25,Viceroy Hotels,country,India
+26,Viceroy Hotels,revenue stream,32.82 crore
+27,Viceroy Hotels,end time,Dec '15
+28,Viceroy Hotels,inception,Sep '15
+29,Viceroy Hotels,revenue stream,29.10 crore
+30,Viceroy Hotels,industry,29.10 crore
+31,Viceroy Hotels,significant event,AGM
+32,Viceroy Hotels,has part,AGM
+33,Viceroy Hotels,has part,AGM
+34,AGM,part of,Viceroy Hotels
+35,Viceroy Hotels,instance of,AGM
+36,Viceroy Hotels,significant event,AGM
+37,Viceroy Hotels,has part,AGM
+38,AGM,part of,Viceroy Hotels
+39,Viceroy Hotels,country,India
+40,Viceroy Hotels,revenue stream,29.28 crore
+41,Viceroy Hotels,industry,29.28 crore
+42,Viceroy Hotels,revenue stream,28.38 crore
+43,Viceroy Hotels,industry,28.38 crore
+44,Viceroy Hotels,inception,Mar '15
+45,Viceroy Hotels,industry,28.90 crore
+46,Viceroy Hotels,revenue stream,28.90 crore
+47,Viceroy Hotels,country,India
+48,Viceroy Hotels,inception,Sep '14
+49,Viceroy Hotels,revenue stream,27.85 crore
+50,Viceroy Hotels,industry,27.85 crore
+51,Viceroy Hotels,significant event,AGM
+52,Viceroy Hotels,has part,AGM
+53,Viceroy Hotels,has part,AGM
+54,AGM,part of,Viceroy Hotels
+55,Viceroy Hotels,industry,26.70 crore
+56,Viceroy Hotels,revenue stream,26.70 crore
+57,Viceroy Hotels,end time,Dec '13
+58,Viceroy Hotels,subsidiary,JW Marriatt
+59,JW Marriatt,parent organization,Viceroy Hotels
+60,Viceroy Hotels,owner of,JW Marriatt
+61,JW Marriatt,owned by,Viceroy Hotels
+62,Viceroy Hotels,parent organization,JW Marriatt
+63,JW Marriatt,subsidiary,Viceroy Hotels
+64,Viceroy Hotels,inception,Sep '13
+65,Viceroy Hotels,revenue stream,27.28 crore
+66,Viceroy Hotels,end time,Sep '13

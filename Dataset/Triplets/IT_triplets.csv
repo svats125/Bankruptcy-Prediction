@@ -1,0 +1,71 @@
+,head,type,tail
+0,Salil Parekh,employer,Infosys
+1,Infosys,chairperson,Salil Parekh
+2,Infosys,chairperson,Salil Parekh
+3,Salil Parekh,employer,Infosys
+4,Infosys,owned by,Geojit
+5,Infosys,stock exchange,Geojit
+6,Infosys,country,India
+7,Infosys,owned by,KR Choksey
+8,Infosys,founded by,KR Choksey
+9,Accumulate Infosys,author,KR Choksey
+10,Infosys,country,India
+11,Infosys,owned by,Sharekhan
+12,Infosys,stock exchange,1850
+13,Infosys,country,India
+14,Infosys,owned by,Emkay Global Financial
+15,Infosys,stock exchange,1850
+16,Infosys,owned by,Motilal Oswal
+17,Infosys,owned by,Motilal Oswal
+18,Motilal Oswal,owner of,Infosys
+19,Infosys,stock exchange,Motilal Oswal
+20,Infosys,inception,1870
+21,Infosys,stock exchange,1870
+22,Infosys,end time,1870
+23,Infosys,subsidiary,TCS
+24,Infosys,subsidiary,TCS
+25,TCS,parent organization,Infosys
+26,TCS,parent organization,Infosys
+27,GAIL India,instance of,Hot Stocks
+28,GAIL India,part of,Hot Stocks
+29,JSW Energy,instance of,Hot Stocks
+30,GAIL India,instance of,Hot Stocks
+31,Q3 deal wins,winner,Infosys
+32,Infosys,significant event,Q3 deal wins
+33,Q3 deal wins,winner,Infosys
+34,Q3 deal wins,participant,Infosys
+35,Infosys,point in time,Q3
+36,Infosys,"dissolved, abolished or demolished date",Q3
+37,Q3,point in time,Q3
+38,Infosys,instance of,Net profit
+39,Infosys Q3 results,point in time,Q3
+40,Infosys,has part,Q3 results
+41,Nikhil Kamath,award received,Forbes Asia Heroes of Philanthropy List
+42,Nandan Nilekani,award received,Forbes Asia Heroes of Philanthropy List
+43,Nandan Nilekani,award received,Forbes Asia Heroes of Philanthropy List
+44,Nikhil Kamath,award received,Forbes Asia Heroes of Philanthropy List
+45,Infosys,country,India
+46,Infosys,headquarters location,Bangalore
+47,Infosys,significant event,10 days a month
+48,Andhra Pradesh,capital,Vizag
+49,Vizag,located in the administrative territorial entity,Andhra Pradesh
+50,Vizag,located in the administrative territorial entity,Andhra Pradesh
+51,Andhra Pradesh CM,officeholder,Jagan Mohan Reddy
+52,Jagan Mohan Reddy,position held,Andhra Pradesh CM
+53,Infosys,stock exchange,ADRs
+54,Infosys,stock exchange,New York
+55,Infosys,headquarters location,New York
+56,Infosys,parent organization,Liberty Global
+57,Infosys,parent organization,Liberty Global
+58,Liberty Global,subsidiary,Infosys
+59,Infosys,owned by,Liberty Global
+60,Infosys,owned by,KR Choksey
+61,Infosys,country,India
+62,Accumulate Infosys,author,KR Choksey
+63,Infosys,owned by,Motilal Oswal
+64,Infosys,owned by,Motilal Oswal
+65,Motilal Oswal,owner of,Infosys
+66,Infosys,country,India
+67,Infosys,owned by,Sharekhan
+68,Infosys,stock exchange,Sharekhan
+69,Infosys,country,India

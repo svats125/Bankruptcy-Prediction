@@ -1,0 +1,64 @@
+,head,type,tail
+0,Q3,point in time,Q3
+1,MC Graphixstory,industry,FMCG
+2,Q3,point in time,Q3 2016
+3,Hindustan Unilever,owned by,Motilal Oswal
+4,Unilever,owned by,Hindustan Unilever
+5,Hindustan Unilever,stock exchange,Motilal Oswal
+6,Hindustan Unilever,owned by,Sharekhan
+7,Unilever,owned by,Hindustan
+8,Hindustan Unilever,owned by,shareskhan
+9,Hindustan Unilever,owned by,Prabhudas Lilladher
+10,Unilever,owned by,Hindustan Unilever
+11,Hindustan Unilever,instance of,shares
+12,Rohit Jawa,employer,HUL
+13,HUL,owned by,Rohit Jawa
+14,HUL,founded by,Rohit Jawa
+15,HUL,instance of,Net profit
+16,HUL Q3 results,point in time,Q3
+17,HUL Q3 results,instance of,Q3 results
+18,HUL Q3,point in time,Q3
+19,HUL,point in time,Q3
+20,Q3,follows,HUL
+21,HUL,facet of,GST
+22,GST,participant,HUL
+23,HUL,industry,GST
+24,Hindustan Unilever,owned by,KR Choksey
+25,Unilever,owned by,Hindustan
+26,Unilever,owned by,Hindustan Unilever
+27,Unilever,country,Hindustan
+28,Hindustan Unilever,owned by,Religare Retail Research
+29,Hindustan Unilever,stock exchange,3068
+30,Hindustan Unilever,owned by,Motilal Oswal
+31,Unilever,owned by,Hindustan Unilever
+32,Unilever,subsidiary,Hindustan Unilever
+33,Hindustan Unilever,owned by,Sharekhan
+34,Unilever,owned by,Hindustan
+35,Hindustan Unilever,owned by,shareskhan
+36,Hindustan Unilever,owned by,Prabhudas Lilladher
+37,Unilever,owned by,Hindustan Unilever
+38,Hindustan Unilever,instance of,shares
+39,Hindustan Unilever,owned by,HDFC Securities
+40,Unilever,owned by,HDFC Securities
+41,Hindustan Unilever,stock exchange,HDFC Securities
+42,HUL,owned by,Jefferies
+43,Q1,point in time,Q1
+44,HUL,owned by,Jefferies
+45,Jefferies,owner of,HUL
+46,Rohit Jawa,employer,HUL
+47,Rohit Jawa,employer,HUL's
+48,Rohit Jawa,member of,HUL
+49,volumes,opposite of,price growth
+50,price growth,opposite of,volumes
+51,price growth,opposite of,volumes
+52,volumes,opposite of,price growth
+53,HUL Q1,point in time,Q1
+54,HUL,point in time,Q1
+55,HUL,has part,Q1
+56,Unilever,has part,Hindustan Unilever Q1 Preview
+57,Hindustan Unilever,industry,Net profit
+58,Hindustan Unilever Q1,instance of,Net profit
+59,Hindustan Unilever,owned by,Nirmal Bang
+60,Hindustan Unilever,owned by,Nirmal Bang
+61,Nirmal Bang,owner of,Hindustan Unilever
+62,Unilever,owned by,Nirmal Bang

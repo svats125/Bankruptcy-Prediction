@@ -1,0 +1,70 @@
+,head,type,tail
+0,Shri Lakshmi Co,instance of,AGM
+1,Shri Lakshmi,member of political party,Shri Lakshmi Co
+2,Shri Lakshmi Co,has part,AGM
+3,AGM,part of,Shri Lakshmi Co
+4,Lakshmi Cotsyn,spouse,Shri Lakshmi Cotsyn
+5,Lakshmi Cotsyn,father,Shri Lakshmi Cotsyn
+6,Lakshmi Cotsyn,spouse,Shri Lakshmi Cotsyn
+7,Shri Lakshmi Cotsyn,spouse,Lakshmi Cotsyn
+8,Lakshmi Cotsyn,spouse,Shri Lakshmi Cotsyn
+9,Lakshmi Cotsyn,position held,Shri
+10,Lakshmi Cotsyn,date of death,"November 14, 2016"
+11,Lakshmi Cotsyn,spouse,Shri Lakshmi Cotsyn
+12,Lakshmi Cotsyn,father,Shri Lakshmi Cotsyn
+13,Lakshmi Cotsyn,spouse,Shri Lakshmi Cotsyn
+14,Shri Lakshmi Cotsyn,spouse,Lakshmi Cotsyn
+15,Lakshmi Cotsyn,spouse,Shri Lakshmi Cotsyn
+16,Lakshmi Cotsyn,father,Shri Lakshmi Cotsyn
+17,Lakshmi Cotsyn,spouse,Shri Lakshmi Cotsyn
+18,Shri Lakshmi Cotsyn,spouse,Lakshmi Cotsyn
+19,Lakshmi Cotsyn,date of death,"May 30, 2016"
+20,Lakshmi Cotsyn,spouse,Shri Lakshmi Cotsyn
+21,Lakshmi Cotsyn,spouse,Shri Lakshmi Cotsyn
+22,Shri Lakshmi Cotsyn,spouse,Lakshmi Cotsyn
+23,Lakshmi Cotsyn,spouse,Shri Lakshmi Cotsyn
+24,Lakshmi Cotsyn,father,Shri Lakshmi Cotsyn
+25,Lakshmi Cotsyn,spouse,Shri Lakshmi Cotsyn
+26,Shri Lakshmi Cotsyn,spouse,Lakshmi Cotsyn
+27,Lakshmi Cotsyn,participant in,AGM
+28,Lakshmi Cotsyn,significant event,AGM
+29,Shri Lakshmi Cotsyn,participant in,AGM
+30,Lakshmi Cotsyn,spouse,Shri Lakshmi Cotsyn
+31,Lakshmi Cotsyn,father,Shri Lakshmi Cotsyn
+32,Lakshmi Cotsyn,spouse,Shri Lakshmi Cotsyn
+33,Shri Lakshmi Cotsyn,spouse,Lakshmi Cotsyn
+34,Lakshmi Cotsyn,spouse,Shri Lakshmi Cotsyn
+35,Lakshmi Cotsyn,father,Shri Lakshmi Cotsyn
+36,Lakshmi Cotsyn,spouse,Shri Lakshmi Cotsyn
+37,Shri Lakshmi Cotsyn,spouse,Lakshmi Cotsyn
+38,Lakshmi Cotsyn,spouse,Shri Lakshmi Cotsyn
+39,Lakshmi Cotsyn,father,Shri Lakshmi Cotsyn
+40,Lakshmi Cotsyn,spouse,Shri Lakshmi Cotsyn
+41,Shri Lakshmi Cotsyn,spouse,Lakshmi Cotsyn
+42,Lakshmi Cotsyn,date of death,"July 13, 2015"
+43,Shri Lakshmi Cotsyn,date of death,"July 13, 2015"
+44,Lakshmi Cotsyn,point in time,"July 13, 2015"
+45,Lakshmi Cotsyn,date of death,"May 30, 2015"
+46,Lakshmi Cotsyn,position held,ShriShri
+47,Lakshmi Cotsyn,spouse,ShriShri Lakshmi Cotsyn
+48,Lakshmi Cotsyn,participant in,AGM
+49,Lakshmi Cotsyn,significant event,AGM
+50,Shri Lakshmi Cotsyn,participant in,AGM
+51,Lakshmi Cotsyn,date of death,"March 15, 2014"
+52,Lakshmi Cotsyn,spouse,Shri Lakshmi Cotsyn
+53,Lakshmi Cotsyn,father,Shri Lakshmi Cotsyn
+54,Lakshmi Cotsyn,position held,Shri
+55,Lakshmi Cotsyn,participant in,EGM
+56,Lakshmi Cotsyn,spouse,Shri Lakshmi Cotsyn
+57,Lakshmi Cotsyn,spouse,Shri Lakshmi Cotsyn
+58,Lakshmi Cotsyn,member of political party,Shri Lakshmi Cotsyn
+59,Lakshmi Cotsyn,child,Shri Lakshmi Cotsyn
+60,Lakshmi Cotsyn,position held,EGM
+61,Shri Lakshmi Cotsyn,position held,EGM
+62,Lakshmi Cotsyn,spouse,Shri Lakshmi Cotsyn
+63,Lakshmi Cotsyn,participant in,AGM
+64,Lakshmi Cotsyn,significant event,AGM
+65,Shri Lakshmi Cotsyn,participant in,AGM
+66,Lakshmi Cotsyn,spouse,Shri Lakshmi Cotsyn
+67,Lakshmi Cotsyn,position held,Shri
+68,Lakshmi Cotsyn,father,Shri Lakshmi Cotsyn

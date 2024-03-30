@@ -1,0 +1,86 @@
+,head,type,tail
+0,Larsen and Toubro,subsidiary,Technology Services
+1,Technology Services,parent organization,Larsen and Toubro
+2,Larsen and Toubro Technology Services,owned by,YES Securities
+3,Larsen and Toubro Technology Services,industry,Technology Services
+4,Larsen and Toubro Technology Services,owned by,Motilal Oswal
+5,Larsen and Toubro,subsidiary,Technology Services
+6,Technology Services,parent organization,Larsen and Toubro
+7,Larsen and Toubro,owner of,Technology Services
+8,Technology Services,owned by,Larsen and Toubro
+9,L&amp;amp;T Tech,gain,3.5%
+10,L&amp;amp;T Tech,stock performance,3.5%
+11,T Tech,parent organization,L&amp;amp;T
+12,Larsen and Toubro Technology,owned by,HDFC Securities
+13,Larsen and Toubro,industry,Technology
+14,Larsen and Toubro Technology,stock exchange,HDFC Securities
+15,Larsen and Toubro Technology Services,owned by,Sharekhan
+16,Larsen and Toubro,subsidiary,Technology Services
+17,Technology Services,parent organization,Larsen and Toubro
+18,Larsen and Toubro,owner of,Technology Services
+19,Technology Services,owned by,Larsen and Toubro
+20,Larsen and Toubro Technology Services,owned by,Motilal Oswal
+21,Larsen and Toubro,subsidiary,Technology Services
+22,Technology Services,parent organization,Larsen and Toubro
+23,Larsen and Toubro,owner of,Technology Services
+24,Technology Services,owned by,Larsen and Toubro
+25,T Tech Services,parent organization,L&amp;amp;T Tech Services
+26,T Tech Services,owned by,L&amp;amp;T Tech Services
+27,L&amp;amp;T Tech Services,quarter of profit,Q4
+28,Larsen and Toubro Technology Services,owned by,Sharekhan
+29,Larsen and Toubro,subsidiary,Technology Services
+30,Technology Services,parent organization,Larsen and Toubro
+31,Larsen and Toubro,subsidiary,Technology Services
+32,Larsen and Toubro Technology Services,owned by,Motilal Oswal
+33,Larsen and Toubro,subsidiary,Technology Services
+34,Technology Services,parent organization,Larsen and Toubro
+35,Larsen and Toubro,owner of,Technology Services
+36,Technology Services,owned by,Larsen and Toubro
+37,Larsen and Toubro,subsidiary,Technology Services
+38,Technology Services,parent organization,Larsen and Toubro
+39,Larsen and Toubro Technology Services,owned by,YES Securities
+40,Larsen and Toubro Technology Services,owned by,Yes Securities
+41,Larsen and Toubro Technology Services,owned by,Motilal Oswal
+42,Larsen and Toubro,subsidiary,Technology Services
+43,Technology Services,parent organization,Larsen and Toubro
+44,Larsen and Toubro,owner of,Technology Services
+45,Technology Services,owned by,Larsen and Toubro
+46,Larsen and Toubro,subsidiary,Technology Services
+47,Technology Services,parent organization,Larsen and Toubro
+48,Larsen and Toubro Technology Services,owned by,YES Securities
+49,Larsen and Toubro Technology Services,industry,Technology Services
+50,Larsen and Toubro Technology Services,owned by,Sharekhan
+51,Larsen and Toubro,subsidiary,Technology Services
+52,Technology Services,parent organization,Larsen and Toubro
+53,Larsen and Toubro,owner of,Technology Services
+54,Technology Services,owned by,Larsen and Toubro
+55,Larsen and Toubro Technology Services,owned by,Motilal Oswal
+56,Larsen and Toubro,subsidiary,Technology Services
+57,Technology Services,parent organization,Larsen and Toubro
+58,Larsen and Toubro,owner of,Technology Services
+59,Technology Services,owned by,Larsen and Toubro
+60,Larsen and Toubro Technology Services,owned by,Sharekhan
+61,Larsen and Toubro,subsidiary,Technology Services
+62,Technology Services,parent organization,Larsen and Toubro
+63,Larsen and Toubro,owner of,Technology Services
+64,Technology Services,owned by,Larsen and Toubro
+65,Larsen and Toubro Technology Services,owned by,Arihant Capital
+66,Larsen and Toubro,subsidiary,Technology Services
+67,Technology Services,parent organization,Larsen and Toubro
+68,Larsen and Toubro,subsidiary,Technology Services
+69,Larsen and Toubro,industry,Technology Services
+70,Larsen and Toubro,subsidiary,Technology Services
+71,Technology Services,parent organization,Larsen and Toubro
+72,Larsen and Toubro Technology Services,industry,Accumulate
+73,Larsen and Toubro Technology Services,owned by,ICICI Securities
+74,Larsen and Toubro Technology Services,stock exchange,ICICI Securities
+75,Larsen and Toubro,subsidiary,Technology Services
+76,Technology Services,parent organization,Larsen and Toubro
+77,L&amp;amp;T Technology Services,instance of,Net profit
+78,T Technology Services,parent organization,L&amp;amp;T Technology Services
+79,L&amp;amp;T Technology Services,followed by,Q4 results
+80,Larsen and Toubro Technology Services,owned by,Motilal Oswal
+81,Larsen and Toubro,subsidiary,Technology Services
+82,Technology Services,parent organization,Larsen and Toubro
+83,Larsen and Toubro,owner of,Technology Services
+84,Technology Services,owned by,Larsen and Toubro

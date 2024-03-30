@@ -1,0 +1,63 @@
+,head,type,tail
+0,Euro Ceramics,instance of,board meeting
+1,Euro Ceramics,significant event,board meeting
+2,Euro Ceramics,has part,board meeting
+3,Euro Ceramics,inception,"March 30, 2017"
+4,Euro Ceramics,end time,"March 30, 2017"
+5,Euro Ceramics,point in time,"March 30, 2017"
+6,Mukund M. Modi,employer,Euro Ceramics
+7,Mukund M. Modi,owner of,Euro Ceramics
+8,Mukund M. Modi,member of,Euro Ceramics
+9,Euro Ceramics,instance of,board meeting
+10,Euro Ceramics,significant event,board meeting
+11,Euro Ceramics,has part,board meeting
+12,Euro Ceramics,inception,"September 30, 2016"
+13,Euro Ceramics,end time,"September 30, 2016"
+14,Euro Ceramics,"dissolved, abolished or demolished date","September 30, 2016"
+15,Usha Jaysheel Kotian,employer,Euro Ceramics
+16,Euro Ceramics,chairperson,Usha Jaysheel Kotian
+17,Usha Jaysheel Kotian,member of,Euro Ceramics
+18,Euro Ceramics,revenue stream,21.02 crore
+19,Euro Ceramics,industry,21.02 crore
+20,Euro Ceramics,revenue,21.02 crore
+21,Euro Ceramics,significant event,board meeting
+22,Euro Ceramics,participant in,board meeting
+23,Euro Ceramics,participant in,board meeting
+24,board meeting,participant,Euro Ceramics
+25,Euro Ceramics,revenue stream,26.76 crore
+26,Euro Ceramics,industry,26.76 crore
+27,Sep '13,point in time,Sep '13
+28,Euro Ceramics,instance of,AGM
+29,Euro Ceramics,significant event,AGM
+30,Euro Ceramics,has part,AGM
+31,Euro Ceramics,industry,16.28 crore
+32,Euro Ceramics,revenue stream,16.28 crore
+33,Euro Ceramics,revenue,16.28 crore
+34,Euro Ceramics,instance of,Board Meeting
+35,Euro Ceramics,has part,Board Meeting
+36,Board Meeting,part of,Euro Ceramics
+37,Euro Ceramics,has part,Board Meeting
+38,Euro Ceramics,significant event,AGM
+39,Euro Ceramics,instance of,AGM
+40,Euro Ceramics,has part,AGM
+41,Euro Ceramics,industry,18.95 crore
+42,Euro Ceramics,revenue stream,18.95 crore
+43,Euro Ceramics,revenue level,1895
+44,Talakshi Nandu,employer,Euro Ceramics
+45,Euro Ceramics,founded by,Talakshi Nandu
+46,Euro Ceramics,chairperson,Talakshi Nandu
+47,Manish Ghia,employer,Euro Ceramics
+48,Euro Ceramics,owned by,Manish Ghia
+49,Euro Ceramics,founded by,Manish Ghia
+50,Sep '12,manufacturer,Euro Ceramics
+51,Sep '12 sales,manufacturer,Euro Ceramics
+52,Euro Ceramics,industry,26.18 crore
+53,Euro Ceramics,significant event,AGM
+54,Euro Ceramics,instance of,AGM
+55,Euro Ceramics,has part,AGM
+56,Mar '12,manufacturer,Euro Ceramics
+57,Mar '12 sales,manufacturer,Euro Ceramics
+58,Euro Ceramics Mar '12,point in time,Mar '12
+59,Dec '10 sales,manufacturer,Euro Ceramics
+60,Euro Ceramics,industry,60.99 crore
+61,Euro Ceramics Dec '10 sales,industry,60.99 crore

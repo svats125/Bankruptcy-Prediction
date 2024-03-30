@@ -1,0 +1,64 @@
+,head,type,tail
+0,BS Limited,inception,"November 11, 2017"
+1,BS Limited,point in time,"November 11, 2017"
+2,BS Limited,"dissolved, abolished or demolished date","November 11, 2017"
+3,BS Limited,inception,"November 11, 2017"
+4,BS Limited,point in time,"November 11, 2017"
+5,BS Limited,"dissolved, abolished or demolished date","November 11, 2017"
+6,board meeting,point in time,"August 10, 2017"
+7,BS Limited,inception,"August 10, 2017"
+8,B.BS Limited,inception,"August 10, 2017"
+9,BS Limited,significant event,board meeting
+10,BS Limited,has part,board meeting
+11,BS Limited,has part,board meeting
+12,board meeting,part of,BS Limited
+13,AGM,applies to jurisdiction,BS
+14,AGM,location,BS
+15,AGM,participant,BS
+16,Mahesh Kumar Khera,position held,BS director
+17,Mahesh Kumar Khera,position held,director
+18,Mahesh Kumar Khera,occupation,director
+19,BS Limited,significant event,AGM
+20,BS Limited,instance of,AGM
+21,BS Limited,has part,AGM
+22,BS AGM,point in time,"Dec 29, 2016"
+23,BS AGM,point in time,2016
+24,BS AGM,point in time,"December 29, 2016"
+25,2016,point in time,2016
+26,2016 general election,point in time,2016
+27,2016 general election,point in time,November 2016
+28,BS Limited,significant event,board meeting
+29,BS Limited,has part,board meeting
+30,BS Limited,significant event,board meeting
+31,board meeting,participant,BS Limited
+32,BS Limited,significant event,board meeting
+33,BS Limited,has part,board meeting
+34,BS Limited,has part,board meeting
+35,board meeting,part of,BS Limited
+36,Kamesh Yalamarty,occupation,managing director
+37,Kamesh Yalamarty,position held,managing director
+38,Kamesh Yalamarty,position held,BS managing director
+39,BS Limited,industry,"1,034.83 crore"
+40,BS Limited,revenue stream,"1,034.83 crore"
+41,BS Limited,industry,"1,034.83"
+42,BS Limited,industry,"1,023.10 crore"
+43,BS Limited,revenue stream,"1,023.10 crore"
+44,BS Limited,industry,"1,023.10"
+45,BS Ltd,instance of,net profit
+46,BS Ltd's,instance of,net profit
+47,BBS Ltd,has part,Q2 net profit
+48,AGM,applies to jurisdiction,BS
+49,AGM,location,BS
+50,AGM,participant,BS
+51,2015,point in time,2015
+52,2015 general election,point in time,2015
+53,B.BS Ltd,"dissolved, abolished or demolished date","November 12, 2015"
+54,Dimple Kaul,occupation,independent director
+55,Dimple Kaul,employer,BS
+56,Dimple Kaul,member of,BS
+57,Gopalakrishnan Iyer,occupation,independent director
+58,A. Gopalakrishnan Iyer,occupation,independent director
+59,Gopalakrishnan Iyer,position held,independent director
+60,BS Limited,significant event,AGM
+61,BS Limited,instance of,AGM
+62,BS Limited,has part,AGM

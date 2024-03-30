@@ -1,0 +1,65 @@
+,head,type,tail
+0,Neutral Persistent Systems,owned by,Motilal Oswal
+1,Neutral Persistent Systems,owned by,Motilal Oswal
+2,Neutral Persistent Systems,owned by,Motilal Oswal
+3,Motilal Oswal,owner of,Neutral Persistent Systems
+4,Sharekhan,product or material produced,Buy Persistent Systems
+5,Sharekhan,industry,Buy Persistent Systems
+6,Sharekhan,has part,Buy Persistent Systems
+7,Neutral Persistent Systems,owned by,Motilal Oswal
+8,Neutral Persistent Systems,owned by,Motilal Oswal
+9,Motilal Oswal,owner of,Neutral Persistent Systems
+10,Neutral Persistent Systems,owned by,Motilal Oswal
+11,Sharekhan,industry,Buy Persistent Systems
+12,Sharekhan,product or material produced,Buy Persistent Systems
+13,Sharekhan,has part,Buy Persistent Systems
+14,Persistent Systems,owned by,ICICI Securities
+15,Buy Persistent Systems,owned by,ICICI Securities
+16,Persistent Systems,stock exchange,ICICI Securities
+17,Persistent Systems,owned by,HDFC Securities
+18,Buy Persistent Systems,owned by,HDFC Securities
+19,Persistent Systems,stock exchange,HDFC Securities
+20,Persistent Systems,owned by,ICICI Direct
+21,Buy Persistent Systems,owned by,ICICI Direct
+22,Buy Persistent Systems,stock exchange,ICICI Direct
+23,Neutral Persistent Systems,owned by,Motilal Oswal
+24,Neutral Persistent Systems,owned by,Motilal Oswal
+25,Neutral Persistent Systems,owned by,Motilal Oswal
+26,Motilal Oswal,owner of,Neutral Persistent Systems
+27,Persistent Systems,owned by,Emkay Global Financial
+28,Buy Persistent Systems,owned by,Emkay Global Financial
+29,Persistent Systems,country,India
+30,Buy Persistent Systems,product or material produced,Persistent Systems
+31,Sharekhan,industry,Buy Persistent Systems
+32,Buy Persistent Systems,facet of,Persistent Systems
+33,Persistent Systems,owned by,HDFC Securities
+34,Buy Persistent Systems,owned by,HDFC Securities
+35,Persistent Systems,stock price,5880
+36,Accumulate Persistent Systems,founded by,KR Choksey
+37,Accumulate Persistent Systems,owned by,KR Choksey
+38,Accumulate Persistent Systems,developer,KR Choksey
+39,Neutral Persistent Systems,owned by,Motilal Oswal
+40,Neutral Persistent Systems,owned by,Motilal Oswal
+41,Net Neutral Persistent Systems,owned by,Motilal Oswal
+42,Persistent Systems,owned by,Anand Rathi
+43,Buy Persistent Systems,owned by,Anand Rathi
+44,Buy Persistent Systems,author,Anand Rathi
+45,Persistent Systems,owned by,ICICI Direct
+46,Buy Persistent Systems,owned by,ICICI Direct
+47,Buy Persistent Systems,stock exchange,ICICI Direct
+48,Buy Persistent Systems,product or material produced,Persistent Systems
+49,Sharekhan,industry,Buy Persistent Systems
+50,Buy Persistent Systems,facet of,Persistent Systems
+51,Persistent Systems,owned by,HDFC Securities
+52,Buy Persistent Systems,owned by,HDFC Securities
+53,Persistent Systems,stock exchange,HDFC Securities
+54,Persistent Systems,owned by,Emkay Global Financial
+55,Buy Persistent Systems,owned by,Emkay Global Financial
+56,Persistent Systems,country,India
+57,Persistent Systems,owned by,Anand Rathi
+58,Buy Persistent Systems,owned by,Anand Rathi
+59,Persistent Systems,owned by,Anand Rathi
+60,Anand Rathi,owner of,Persistent Systems
+61,Persistent Systems,owned by,Sharekhan
+62,Sharekhan,owner of,Buy Persistent Systems
+63,Buy Persistent Systems,owned by,Sharekhan

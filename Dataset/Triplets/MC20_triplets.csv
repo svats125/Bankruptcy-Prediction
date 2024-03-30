@@ -1,0 +1,68 @@
+,head,type,tail
+0,Mindtree,owned by,Geojit
+1,Mindtree,stock exchange,Geojit
+2,Mindtree,owned by,Geojit
+3,Geojit,owner of,Mindtree
+4,Mindtree,owned by,ICICI Direct
+5,Mindtree,stock exchange,ICICI Direct
+6,Mindtree,parent organization,ICICI Direct
+7,Motilal Oswal,employer,Mindtree
+8,Mindtree,owned by,Motilal Oswal
+9,Motilal Oswal,employer,Neutral Mindtree
+10,Mindtree,owned by,KR Choksey
+11,Mindtree,owned by,KR Choksey
+12,KR Choksey,owner of,Mindtree
+13,Mindtree,country,India
+14,Mindtree,instance of,net profit
+15,Q2,point in time,Q2
+16,Mindtree,profit after tax,Q2
+17,Mindtree,owned by,KR Choksey
+18,Mindtree,owned by,KR Choksey
+19,KR Choksey,owner of,Mindtree
+20,Mindtree,country,India
+21,Mindtree,owned by,Emkay Global Financial
+22,Emkay Global Financial,owner of,Mindtree
+23,Emkay Global Financial,subsidiary,Mindtree
+24,Motilal Oswal,employer,Neutral Mindtree
+25,Motilal Oswal,employer,Mindtree
+26,Neutral Mindtree,owned by,Motilal Oswal
+27,Mindtree,owned by,ICICI Securities
+28,Mindtree,stock exchange,ICICI Securities
+29,Mindtree,owned by,ICICI Securities
+30,ICICI Securities,owner of,Mindtree
+31,Mindtree,owned by,Prabhudas Lilladher
+32,Mindtree,country,India
+33,Mindtree,stock exchange,4778
+34,MindTree,owned by,Arihant Capital
+35,Neutral MindTree,owned by,Arihant Capital
+36,MindTree,owned by,Arihant Capital
+37,Arihant Capital,owner of,MindTree
+38,Q4 results,publisher,Mindtree
+39,Mindtree,followed by,Q4 results
+40,Mindtree,industry,"2,897 crore"
+41,Mindtree,owned by,Motilal Oswal
+42,Motilal Oswal,owner of,Mindtree
+43,Motilal Oswal,employer,Mindtree
+44,MindTree,owned by,ICICI Direct
+45,MindTree,stock exchange,5055
+46,MindTree,stock price,5055
+47,Mindtree,owned by,KR Choksey
+48,Mindtree,owned by,KR Choksey
+49,KR Choksey,owner of,Mindtree
+50,Mindtree,stock exchange,5263
+51,Mindtree,owned by,Emkay Global Financial
+52,Mindtree,stock exchange,4550
+53,Emkay Global Financial,owner of,Mindtree
+54,Mindtree,country,India
+55,Mindtree,owned by,Prabhudas Lilladher
+56,Mindtree,stock exchange,5249
+57,MindTree,owned by,Arihant Capital
+58,Neutral MindTree,owned by,Arihant Capital
+59,MindTree,owned by,Arihant Capital
+60,Arihant Capital,owner of,MindTree
+61,Mindtree,instance of,TCV
+62,Mindtree,industry,$1.2 billion
+63,Mindtree,market,$1.2 billion
+64,Mindtree,owned by,Emkay Global Financial
+65,Mindtree,stock exchange,4450
+66,Emkay Global Financial,owner of,Mindtree

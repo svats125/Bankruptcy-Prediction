@@ -1,0 +1,73 @@
+,head,type,tail
+0,Pastel,parent organization,Bharti Airtel
+1,Pastel,owner of,Bharti Airtel
+2,Bharti Airtel,owned by,Pastel
+3,Pastel,subsidiary,Bharti Airtel
+4,Bharti Airtel,parent organization,Pastel
+5,GQG,founded by,Rajiv Jain
+6,Rajiv Jain,owner of,GQG
+7,GQG,owned by,Rajiv Jain
+8,Bharti Airtel,parent organization,GQG
+9,Balaji Amines,parent organization,Bharti Airtel
+10,Bharti Airtel,subsidiary,Balaji Amines
+11,Balaji Amines,parent organization,Bharti Airtel
+12,Bharti Airtel,owner of,Balaji Amines
+13,Balaji Amines,owned by,Bharti Airtel
+14,Sunil Mittal,owner of,Bharti Airtel
+15,Bharti Airtel,owned by,Sunil Mittal
+16,Bharti Airtel,owned by,Sunil Mittal
+17,Sunil Mittal,owner of,Bharti Airtel
+18,Airtel,product or material produced,5G
+19,Kolkata metro,operator,Airtel
+20,Kolkata metro,instance of,5G
+21,Chris Wood,member of sports team,Indian PSUs
+22,Chris Wood,member of sports team,India
+23,Modi government,subsidiary,Indian PSUs
+24,Bharti Airtel,has part,Q3 earnings
+25,Q3 earnings,part of,Bharti Airtel
+26,Bharti Airtel,notable event,Q3 earnings
+27,Q3 earnings,winner,Bharti Airtel
+28,Bharti Airtel,significant event,Q3 earnings
+29,Q3 earnings,winner,Bharti Airtel
+30,Bharti Hexacom,parent organization,Airtel
+31,Bharti Hexacom,owned by,Airtel
+32,Bharti Hexacom,instance of,OFS
+33,Union Budget 2024,point in time,2024
+34,Budget 2024,point in time,2024
+35,2024,point in time,2024
+36,Bharti Airtel,owned by,BofA Securities
+37,Bharti Airtel,stock exchange,BofA Securities
+38,Bharti Airtel,instance of,52-week high
+39,Bharti Airtel,owned by,Religare Retail Research
+40,Bharti Airtel,stock exchange,Religare Retail Research
+41,Bharti Airtel,stock exchange,1010
+42,Bharti Airtel,owned by,Emkay Global Financial
+43,Bharti Airtel,stock exchange,Emkay Global Financial
+44,Airtel,owned by,Bharti Airtel
+45,Bharti Airtel,owned by,Sharekhan
+46,Bharti Airtel,owned by,shareskhan
+47,Bharti Airtel,stock exchange,1010
+48,Bharti Airtel,owned by,ICICI Securities
+49,Bharti Airtel,stock exchange,1060
+50,Bharti Airtel,stock exchange,ICICI Securities
+51,Bharti Airtel,subsidiary,Airtel
+52,Airtel,parent organization,Bharti Airtel
+53,Bharti Airtel,owned by,Bharti Lilladher
+54,Bharti Airtel,owned by,Prabhudas Lilladher
+55,Bharti Airtel,instance of,Net profit
+56,Bharti Airtel Q1 results,point in time,Q1
+57,Bharti Airtel,significant event,Q1 results
+58,Bharti Airtel,product or material produced,spectrum
+59,Bharti Airtel,owner of,spectrum
+60,Bharti Airtel,owner of,spectrum dues
+61,Bharti Airtel,owned by,Prabhudas Lilladher
+62,Bharti Airtel,owned by,Prabhudas Lilladher
+63,Prabhudas Lilladher,owner of,Bharti Airtel
+64,Q1,winner,Bharti Airtel
+65,Bharti Airtel,owned by,Motilal Oswal
+66,Bharti Airtel,stock exchange,Motilal Oswal
+67,Bharti Airtel,owned by,Motilal Oswal
+68,Motilal Oswal,owner of,Bharti Airtel
+69,Bharti Airtel,owned by,Sharekhan
+70,Bharti Airtel,owned by,shareskhan
+71,Bharti Airtel,stock exchange,1010

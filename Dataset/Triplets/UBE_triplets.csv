@@ -1,0 +1,66 @@
+,head,type,tail
+0,J K Sardana,employer,UB Engineering
+1,UB Engineering,owned by,J K Sardana
+2,UB Engineering,chairperson,J K Sardana
+3,UB Engineering,instance of,AGM
+4,UB Engineering,parent organization,UB Engineering
+5,UB Engineering,has part,AGM
+6,AGM,part of,UB Engineering
+7,UB Engineering,instance of,AGM
+8,UB Engineering,parent organization,UB Engineering
+9,UB Engineering,has part,AGM
+10,AGM,part of,UB Engineering
+11,Kingfisher,parent organization,UB Engineering
+12,UB Engineering,parent organization,Kingfisher
+13,Kingfisher,parent organization,UB Engineering
+14,UB Engineering,subsidiary,Kingfisher
+15,UB Engineering,product or material produced,A G M
+16,A G M,manufacturer,UB Engineering
+17,A G M,developer,UB Engineering
+18,UB Engineering,revenue stream,57.57 crore
+19,UB Engineering,industry,57.57 crore
+20,UB Engineering,instance of,57.57 crore
+21,UB Engineering,owned by,UB Engineering
+22,UB Engineering,parent organization,UB Engineering
+23,UB Engineering,industry,Engineering
+24,UB Engineering,revenue stream,63.45 crore
+25,UB Engineering,inception,Sep '13
+26,UB Engineering,industry,63.45 crore
+27,UB Engineering,instance of,AGM
+28,Outcome of AGM,facet of,AGM
+29,UB Engineering,owned by,UB Engineering
+30,UB Engineering,instance of,AGM
+31,UB Engineering,member of,AGM
+32,UB Engineering,has part,AGM
+33,AGM,part of,UB Engineering
+34,UB Engineering,revenue stream,93.28 crore
+35,UB Engineering,industry,93.28 crore
+36,UB Engineering,instance of,93.28 crore
+37,JK Sardana,employer,UB Engineering
+38,JK Sardana,educated at,UB Engineering
+39,UB Engineering,owned by,JK Sardana
+40,UB Engineering,country,India
+41,UB Engineering,inception,Dec '12
+42,UB Engineering,end time,Dec '12
+43,UB Engineering,inception,Sep '12
+44,UB Engineering,country,India
+45,UB Engineering,end time,Sep '12
+46,United Breweries,parent organization,group
+47,group,subsidiary,United Breweries
+48,Breweries,owned by,United Breweries
+49,Breweries group,subsidiary,United Breweries
+50,UB Engineering,instance of,AGM
+51,UB Engineering,significant event,AGM
+52,UB Engineering,has part,AGM
+53,UB Engineering,country,India
+54,UB Engineering,end time,Dec '11
+55,UB Engineering,inception,Dec '11
+56,UB Engineering,inception,Sep '11
+57,UB Engineering,country,India
+58,UB Engineering,end time,Sep '11
+59,UB Engineering,country,India
+60,UB Engineering,inception,Jun '11
+61,UB Engineering,end time,Jun '11
+62,UB Engineering,country,India
+63,UB Engineering,inception,Mar '11
+64,Mar '11,manufacturer,UB Engineering

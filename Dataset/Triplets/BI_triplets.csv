@@ -1,0 +1,64 @@
+,head,type,tail
+0,Britannia Industries,owned by,KR Choksey
+1,Accumulate Britannia Industries,owned by,KR Choksey
+2,Britannia Industries,owned by,KR Choksey
+3,KR Choksey,owner of,Britannia Industries
+4,Britannia Q3 results,has part,Consolidated PAT
+5,Britannia Q3 results,has effect,Consolidated PAT
+6,Britannia Q3 results,point in time,Q3
+7,Q3,point in time,Q3
+8,Britannia Q3,point in time,Q3
+9,Q3,followed by,Q4
+10,Britannia Industries,owned by,Axis Securities
+11,Britannia Industries,stock exchange,5110
+12,Britannia Industries,stock price,5110
+13,Britannia Industries,owned by,Prabhudas Lilladher
+14,Britannia Industries,country,India
+15,Prabhudas Lilladher,owner of,Britannia Industries
+16,Britannia Industries,owned by,Sharekhan
+17,Britannia Industries,stock exchange,5415
+18,Britannia Industries,stock exchange,Sharekhan
+19,Neutral Britannia Industries,owned by,Motilal Oswal
+20,Neutral Britannia Industries,stock exchange,Motilal Oswal
+21,Britannia Industries,owned by,Motilal Oswal
+22,Britannia Industries,owned by,Emkay Global Financial
+23,Britannia Industries,country,India
+24,Britannia Industries,stock exchange,5550
+25,Britannia Q1 Results,instance of,Net profit
+26,Britannia Q1 Results,point in time,Q1
+27,Britannia Q1,instance of,Net profit
+28,Britannia Industries,owned by,Emkay Global Financial
+29,Britannia Industries,country,India
+30,Britannia Industries,stock exchange,5700
+31,Britannia Industries,owned by,KR Choksey
+32,Britannia Industries,stock exchange,5094
+33,Britannia Industries,country,India
+34,Britannia Industries,owned by,Sharekhan
+35,Britannia Industries,country,India
+36,Britannia Industries,stock exchange,Sharekhan
+37,Britannia Industries,owned by,HDFC Securities
+38,Britannia Industries,stock exchange,4150
+39,Britannia Industries,stock price,4150
+40,Britannia Industries,owned by,Prabhudas Lilladher
+41,Britannia Industries,parent organization,Prabhudas Lilladher
+42,Prabhudas Lilladher,owner of,Britannia Industries
+43,Britannia Industries,owned by,Sharekhan
+44,Britannia Industries,country,India
+45,Britannia Industries,stock exchange,Sharekhan
+46,Neutral Britannia Industries,owned by,Motilal Oswal
+47,Neutral Britannia Industries,stock exchange,Motilal Oswal
+48,Britannia Industries,owned by,Motilal Oswal
+49,Q4 topline,point in time,Q4
+50,Q4,point in time,Q4 2014
+51,Q4,point in time,Q4 2013
+52,Britannia,owned by,Nirmal Bang
+53,Britannia,owned by,Nirmal Bang
+54,Nirmal Bang,owner of,Britannia
+55,Q4,point in time,Q4
+56,Britannia,owned by,Nirmal Bang
+57,Britannia,owned by,Nirmal Bang
+58,Nirmal Bang,owner of,Britannia
+59,Q4,point in time,Q4
+60,Britannia Industries,owned by,KR Choksey
+61,Accumulate Britannia Industries,owned by,KR Choksey
+62,Accumulate Britannia Industries,stock exchange,5094

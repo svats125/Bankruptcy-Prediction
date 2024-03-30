@@ -1,0 +1,68 @@
+,head,type,tail
+0,Axis Bank,instance of,Hot Stocks
+1,GAIL India,instance of,Hot Stocks
+2,PNB,instance of,Hot Stocks
+3,Axis Bank,instance of,Hot Stocks
+4,GAIL India,instance of,Hot Stocks
+5,GAIL,owned by,Emkay Global Financial
+6,GAIL,country,India
+7,GAIL,stock exchange,Rs 145
+8,GAIL,country,India
+9,GAIL (India),owned by,Sharekhan
+10,GAIL (India),country,India
+11,GAIL (India),country,India
+12,GAIL,country,India
+13,GAIL (India),owned by,Prabhudas Lilladher
+14,GAIL,owned by,Motilal Oswal
+15,GAIL,stock exchange,Motilal Oswal
+16,GAIL,owned by,Motilal Oswal
+17,Motilal Oswal,owner of,GAIL
+18,Abu Dhabi,located in the administrative territorial entity,Abu Dhabi
+19,Abu Dhabi firm,product or material produced,LNG
+20,Abu Dhabi,product or material produced,LNG
+21,GAIL,owned by,Prabhudas Lilladher
+22,Q3,parent organization,GAIL
+23,GAIL,owned by,Prabhudas Lilladher
+24,Prabhudas Lilladher,owner of,GAIL
+25,GAIL (India) Ltd,instance of,Sharekhan
+26,GAIL,country,India
+27,GAIL (India),instance of,Sharekhan
+28,GAIL India,instance of,Hot Stocks
+29,GAIL India,industry,Hot Stocks
+30,GAIL India,stock exchange,Hot Stocks
+31,GAIL,country,India
+32,GAIL (India),owned by,HDFC Securities
+33,HDFC Securities,country,India
+34,LNG,country,Qatar
+35,GAIL,owner of,Qatar LNG
+36,Qatar LNG,owned by,GAIL
+37,Qatar LNG,operator,GAIL
+38,GAIL,owned by,Motilal Oswal
+39,GAIL,owned by,Motilal Oswal
+40,Motilal Oswal,owner of,GAIL
+41,GAIL,stock exchange,Motilal Oswal
+42,GAIL,country,India
+43,GAIL (India),owned by,Sharekhan
+44,GAIL (India),country,India
+45,GAIL,country,India
+46,GAIL (India),owned by,YES Securities
+47,GAIL (India),owned by,Yes Securities
+48,GAIL,country,India
+49,GAIL (India),owned by,Sharekhan
+50,GAIL (India),country,India
+51,GAIL,owned by,Motilal Oswal
+52,GAIL,owned by,Motilal Oswal
+53,Motilal Oswal,owner of,GAIL
+54,GAIL,stock exchange,Motilal Oswal
+55,GAIL,country,India
+56,GAIL (India),owned by,YES Securities
+57,GAIL (India),owned by,Yes Securities
+58,Kolkata Marathon,location,Kolkata
+59,Kolkata Marathon,country,India
+60,Kirloskar Motors,owned by,Kirloskar Group
+61,GAIL,instance of,Net Sales
+62,GAIL,end time,March 2023
+63,GAIL Standalone March 2023 Net Sales,point in time,March 2023
+64,GAIL,country,India
+65,GAIL (India),country,India
+66,GAIL (India),owned by,Prabhudas Lilladher

@@ -1,0 +1,69 @@
+,head,type,tail
+0,Oil India,owned by,ONGC
+1,Oil India,parent organization,ONGC
+2,ONGC,subsidiary,Oil India
+3,Oil India,parent organization,ONGC
+4,Q3 earnings,parent organization,ONGC
+5,ONGC,has part,Q3 earnings
+6,Q3 earnings,part of,ONGC
+7,ONGC,has part,Q3 earnings
+8,Q3 earnings,parent organization,ONGC
+9,ONGC Q3,point in time,Q3
+10,ONGC Q3 Results,point in time,Q3
+11,ONGC,instance of,Net profit
+12,Q3 net profit,point in time,Q3
+13,Q3 net profit,parent organization,ONGC
+14,ONGC,has part,Q3 net profit
+15,short positions,subclass of,hedge
+16,RIL,instance of,stock
+17,short positions,use,hedge
+18,DBS Bank,parent organization,Bank of Baroda
+19,Bank of Baroda,parent organization,DBS Bank
+20,DBS Bank,parent organization,Bank of Baroda
+21,Bank of Baroda,subsidiary,DBS Bank
+22,deep-water project,operator,ONGC
+23,$5 billion deep-water project,operator,ONGC
+24,deep-water project,owned by,ONGC
+25,sanctions on Venezuela,participant,ONGC
+26,sanctions,country,Venezuela
+27,ONGC,country,Venezuela
+28,ONGC,owned by,Motilal Oswal
+29,ONGC,stock exchange,Motilal Oswal
+30,ONGC,owned by,Motilal Oswal
+31,Motilal Oswal,owner of,ONGC
+32,Sharekhan,product or material produced,shares
+33,Oil and Natural Gas Corporation,owned by,Sharekhan
+34,Oil and Natural Gas Corporation,stock exchange,Sharekhan
+35,Buy Oil and Natural Gas Corporation,owned by,ICICI Securities
+36,Oil and Natural Gas Corporation,owned by,ICICI Securities
+37,Buy Oil and Natural Gas Corporation,stock exchange,ICICI Securities
+38,Oil and Natural Gas Corporation,owned by,Prabhudas Lilladher
+39,Buy Oil and Natural Gas Corporation,stock exchange,Rs 218
+40,Oil and Natural Gas Corporation,country,India
+41,ONGC Q1 results,instance of,Consolidated net profit
+42,ONGC Q1 results,followed by,"Consolidated net profit soars 102% to Rs 17,383 crore"
+43,ONGC Q1 results,has effect,"Consolidated net profit soars 102% to Rs 17,383 crore"
+44,ONGC,owned by,Motilal Oswal
+45,ONGC,stock exchange,Motilal Oswal
+46,ONGC,owned by,Motilal Oswal
+47,Motilal Oswal,owner of,ONGC
+48,Oil and Natural Gas Corporation,owned by,Sharekhan
+49,Sharekhan,product or material produced,shares
+50,Oil and Natural Gas Corporation,stock exchange,Sharekhan
+51,ONGC Videsh,country,Russia
+52,Russia,diplomatic relation,India
+53,ONGC Videsh,location of formation,Russia
+54,consolidated net profit,owned by,ONGC
+55,consolidated net profit,parent organization,ONGC
+56,ONGC,has part,Q4
+57,Q4,part of,ONGC
+58,ONGC,owned by,Emkay Global Financial
+59,ONGC,country,India
+60,ONGC,owned by,Emkay Global Financial
+61,Emkay Global Financial,owner of,ONGC
+62,Oil and Natural Gas Corporation,owned by,Sharekhan
+63,Sharekhan,product or material produced,shares
+64,Oil and Natural Gas Corporation,stock exchange,Sharekhan
+65,ONGC Q3,point in time,Q3
+66,ONGC,country,India
+67,ONGC Q3,country,India

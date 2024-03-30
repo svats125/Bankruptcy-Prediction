@@ -1,0 +1,70 @@
+,head,type,tail
+0,Indus Towers,parent organization,Vodafone Idea
+1,Vodafone Idea,subsidiary,Indus Towers
+2,Indus Towers,parent organization,Vodafone Idea
+3,Vodafone Idea,subsidiary,Indus Towers
+4,Indus Towers,owned by,Computer Age Management Services
+5,Astral,owned by,Computer Age Management Services
+6,Indus Towers,owned by,Astral
+7,Indus Towers,owned by,Motilal Oswal
+8,Neutral Indus Towers,owned by,Motilal Oswal
+9,Net Neutral Indus Towers,owned by,Motilal Oswal
+10,Indus Towers,owned by,BofA Securities
+11,BofA Securities,owner of,Indus Towers
+12,Indus Towers,owned by,BofA Securities
+13,Indus Towers,stock exchange,BofA Securities
+14,Indus Towers,owned by,Motilal Oswal
+15,Neutral Indus Towers,owned by,Motilal Oswal
+16,Indus Towers,owned by,Motilal Oswal
+17,Motilal Oswal,owner of,Indus Towers
+18,Indus Towers,owned by,Motilal Oswal
+19,Neutral Indus Towers,owned by,Motilal Oswal
+20,Indus Towers,owned by,Motilal Oswal
+21,Motilal Oswal,owner of,Indus Towers
+22,Indus Towers,owned by,Motilal Oswal
+23,Neutral Indus Towers,owned by,Motilal Oswal
+24,Indus Towers,owned by,Motilal Oswal
+25,Motilal Oswal,owner of,Indus Towers
+26,Indus Towers,owned by,Motilal Oswal
+27,Neutral Indus Towers,owned by,Motilal Oswal
+28,Net Neutral Indus Towers,owned by,Motilal Oswal
+29,Indus Towers,owned by,ICICI Direct
+30,Reduce Indus Towers,owned by,ICICI Direct
+31,Indus Towers,parent organization,ICICI Direct
+32,Bimal Dayal,employer,Indus Towers
+33,Bimal Dayal,occupation,MD
+34,Indus Towers,owned by,Bimal Dayal
+35,Indus Towers,owned by,Emkay Global Financial
+36,Indus Towers,stock exchange,Emkay Global Financial
+37,Indus Towers,country,India
+38,Indus Towers,owned by,ICICI Direct
+39,Indus Towers,stock exchange,ICICI Direct
+40,Indus Towers,owned by,ICICI Direct
+41,ICICI Direct,owner of,Indus Towers
+42,Indus Towers,instance of,net profit
+43,Indus Towers,profit margin,"1,829 crore"
+44,Indus Towers,revenue stream,"1,829 crore"
+45,Indus Towers,owned by,ICICI Direct
+46,Indus Towers,stock exchange,ICICI Direct
+47,Indus Towers,owned by,ICICI Direct
+48,ICICI Direct,owner of,Indus Towers
+49,Q3,followed by,Q4
+50,Indus Towers,owned by,ICICI Direct
+51,Indus Towers,stock exchange,ICICI Direct
+52,Indus Towers,instance of,net profit
+53,Indus Towers,instance of,revenue
+54,Indus Towers,profit after tax,Q2
+55,Q1,point in time,Q1
+56,Q1,followed by,Q2
+57,Q1,followed by,Q2
+58,Q2,follows,Q1
+59,Accumulate Indus Towers,owned by,Dolat Capital Market
+60,Indus Towers,owned by,Dolat Capital Market
+61,Accumulate Indus Towers,stock exchange,Dolat Capital Market
+62,Indus Towers,owned by,ICICI Direct
+63,Indus Towers,stock exchange,ICICI Direct
+64,Indus Towers,owned by,ICICI Direct
+65,ICICI Direct,owner of,Indus Towers
+66,Accumulate Indus Towers,owned by,Dolat Capital Market
+67,Indus Towers,owned by,Dolat Capital Market
+68,Accumulate Indus Towers,stock exchange,Dolat Capital Market

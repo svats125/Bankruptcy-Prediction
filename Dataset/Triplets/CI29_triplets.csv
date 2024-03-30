@@ -1,0 +1,65 @@
+,head,type,tail
+0,Gevra mine,operator,SECL
+1,Gevra mine,operator,SECL's
+2,Gevra mine,operator,Coal India
+3,ammonium nitrate plant,located in the administrative territorial entity,Odisha
+4,ammonium nitrate plant in Odisha,operator,BHEL
+5,ammonium nitrate plant in Odisha,operator,BHEL
+6,ammonium nitrate plant in Odisha,operator,BHEL
+7,Coal India,owned by,Motilal Oswal
+8,Coal India,stock exchange,Motilal Oswal
+9,Coal India,owned by,Motilal Oswal
+10,Motilal Oswal,owner of,Coal India
+11,Coal India,industry,E-auction
+12,E-auction,participant,Coal India
+13,E-auction,operator,Coal India
+14,Coal India,followed by,Q3 earnings
+15,Coal India,has part,Q3 earnings
+16,Coal India,has part,Q3 earnings
+17,Q3 earnings,part of,Coal India
+18,Coal India Q3 Results,point in time,Q3
+19,Coal India,profit margin,"9,094 crore"
+20,Coal India,industry,"9,094 crore"
+21,Coal India,instance of,fuel supply agreement
+22,coal supply agreement,participant,Coal India
+23,fuel supply agreement,participant,Coal India
+24,JSW Steel,owned by,Jefferies
+25,JSW Steel,stock exchange,Jefferies
+26,JSW Steel,maintained by,Jefferies
+27,Coal India,instance of,shares
+28,Coal India,instance of,shares gain
+29,Coal India shares gain as Dec production increases 8.2%,point in time,8.2%
+30,CIL,product or material produced,coal
+31,CIL's,product or material produced,coal
+32,coal output,operator,CIL
+33,Debasish Nanda,occupation,Business Development
+34,Debasish Nanda,employer,CIL
+35,Debasish Nanda,occupation,"Director, Business Development"
+36,Coal India,instance of,trade unions
+37,Coal India,instance of,trade union
+38,strike plan,participant,Coal India
+39,Coal India,industry,mining
+40,mining scrap,owned by,Coal India
+41,mining,product or material produced,scrap
+42,Coal India,owned by,ICICI Securities
+43,Coal India,stock exchange,ICICI Securities
+44,Coal India,country,India
+45,Coal India,instance of,capex
+46,Coal India,country,India
+47,capex,subclass of,spending
+48,Coal India,owned by,Motilal Oswal
+49,Coal India,country,India
+50,Coal India,owned by,Motilal Oswal
+51,Motilal Oswal,owner of,Coal India
+52,Coal India,owned by,Sharekhan
+53,Coal India,country,India
+54,Coal India,stock exchange,Sharekhan
+55,Coal India,instance of,net profit
+56,Coal India Q1,followed by,Q1FY24
+57,Coal India,point in time,Q1FY24
+58,Coal India output,point in time,July
+59,Coal India,product or material produced,53.6 MT
+60,Coal India output,area,53.6 MT
+61,Coal India,industry,mining
+62,Coal India,industry,overseas acquisition of critical mineral assets
+63,Coal India,industry,overseas acquisition

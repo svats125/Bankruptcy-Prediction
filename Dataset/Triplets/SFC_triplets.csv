@@ -1,0 +1,68 @@
+,head,type,tail
+0,Surana Corporation,stock exchange,SEBI
+1,Surana,stock exchange,SEBI
+2,Surana Corporation,owned by,SEBI
+3,Surana,instance of,board meeting
+4,Surana,located in the administrative territorial entity,Surana
+5,Surana,has part,board meeting
+6,board meeting,part of,Surana
+7,Surana Corporation,significant event,board meeting deferred
+8,Surana Corporation,significant event,board meeting deferred
+9,board meeting deferred,participant,Surana Corporation
+10,Surana Corporation,instance of,board meeting
+11,Surana Corp,inception,"September 27, 2017"
+12,Surana Corp,point in time,"September 27, 2017"
+13,Surana Corp,instance of,AGM
+14,Surana Corporation,significant event,board meeting
+15,Surana Corporation,instance of,board meeting
+16,Surana Corporation,has part,board meeting
+17,board meeting,part of,Surana Corporation
+18,Surana Corporation,inception,"February 08, 2017"
+19,Surana Corporation,point in time,"February 08, 2017"
+20,Surana Corporation,end time,"February 08, 2017"
+21,Surana Corporation,inception,"December 12, 2016"
+22,Surana Corporation,"dissolved, abolished or demolished date","December 12, 2016"
+23,Surana Corporation,end time,"December 12, 2016"
+24,Surana Corporation,significant event,board meeting
+25,Surana Corporation,instance of,board meeting
+26,Surana Corporation,has part,board meeting
+27,board meeting,part of,Surana Corporation
+28,Surana Corporation,inception,"May 26, 2016"
+29,Surana Corporation,end time,"May 26, 2016"
+30,Surana Corporation,"dissolved, abolished or demolished date","May 26, 2016"
+31,Surana Corporation,instance of,AGM
+32,Surana Corporation,inception,"Sept 22, 2015"
+33,Surana Corporation,significant event,AGM
+34,Surana Corporation,significant event,board meeting
+35,Surana Corporation,instance of,board meeting
+36,Surana Corporation,has part,board meeting
+37,board meeting,part of,Surana Corporation
+38,Surana Corporation,significant event,board meeting
+39,Surana Corporation,instance of,board meeting
+40,Surana Corporation,has part,board meeting
+41,board meeting,part of,Surana Corporation
+42,Surana Corporation,significant event,board meeting
+43,Surana Corporation,instance of,board meeting
+44,Surana Corporation,has part,board meeting
+45,board meeting,part of,Surana Corporation
+46,Surana,inception,Mar '15
+47,Surana Corp,inception,Mar '15
+48,Surana Corp,end time,Mar '15
+49,Surana Corporation,inception,"Nov 15, 2014"
+50,Surana Corporation,"dissolved, abolished or demolished date","Nov 15, 2014"
+51,Surana Corporation,end time,"Nov 15, 2014"
+52,Surana Corp,inception,Sep '13
+53,Surana,inception,Sep '13
+54,Surana Corp,end time,Sep '13
+55,Surana Corporation,significant event,AGM
+56,Surana Corporation,instance of,AGM
+57,Surana Corporation,has part,AGM
+58,Surana Corp,instance of,AGM
+59,Surana,instance of,AGM
+60,Surana Corp,has part,AGM
+61,Surana Corp,instance of,dividend
+62,Surana,owned by,Surana Corp
+63,Surana Corp,replaced by,Surana Corp
+64,Surana,end time,Dec '12
+65,Surana Corp,end time,Dec '12
+66,Surana Corp,industry,"2,300.52"

@@ -1,0 +1,65 @@
+,head,type,tail
+0,RIL,subsidiary,Alok Industries
+1,Alok Industries,parent organization,RIL
+2,Alok Industries,parent organization,RIL
+3,RIL,subsidiary,Alok Industries
+4,Alok Industries,instance of,net loss
+5,Alok Industries,significant event,Q4 net loss
+6,Alok Industries,instance of,Q4 net loss
+7,Alok Industries,stock exchange,NCLAT
+8,Alok Industries,owned by,NCLAT
+9,Alok Industries,member of,NCLAT
+10,Alok Industries,instance of,liquidation
+11,Alok Industries,number of employees,"12,000"
+12,Alok Industries,number of employees,"12,000 employees"
+13,Q2 results,manufacturer,Alok Industries
+14,Alok Industries,"dissolved, abolished or demolished date","December 13, 2016"
+15,Alok Industries,inception,"December 13, 2016"
+16,Alok Industries,significant event,AGM
+17,Alok Industries,has part,AGM
+18,Alok Industries,instance of,AGM
+19,Alok Industries,loss,"1,212 crore"
+20,Alok Industries,revenue stream,"1,212"
+21,Alok Industries,stock exchange,"1,212 crore"
+22,Alok Industries,inception,"Sept 12, 2016"
+23,Alok Industries,inception,"September 12, 2016"
+24,Alok Industries,significant event,Q1 results
+25,Q1 results,publisher,Alok Industries
+26,Alok Industries,industry,S4A
+27,Alok Industries,product or material produced,S4A
+28,S4A,has part,Alok Industries
+29,Alok Industries,inception,FY16
+30,Alok Industries,end time,"May 30, 2016"
+31,Alok Industries,inception,"May 30, 2016"
+32,Alok Industries,instance of,EGM
+33,Alok Industries,significant event,EGM
+34,Alok Industries,has effect,EGM
+35,Alok Industries,inception,"Mar 14, 2016"
+36,Alok Industries,instance of,EGM
+37,Alok Industries,point in time,"Mar 14, 2016"
+38,Alok Industries,instance of,EGM
+39,Alok Industries,significant event,EGM
+40,Alok Industries,has effect,EGM
+41,Alok Industries,inception,"Feb 12, 2016"
+42,Alok Industries,end time,"Feb 12, 2016"
+43,Alok Industries,point in time,"Feb 12, 2016"
+44,Alok Industries,"dissolved, abolished or demolished date","February 20, 2016"
+45,Alok Industries,inception,"February 20, 2016"
+46,Alok Industries,end time,"February 20, 2016"
+47,Alok Industries,"dissolved, abolished or demolished date","January 28, 2016"
+48,Alok Industries,inception,"January 28, 2016"
+49,Alok Industries,end time,"January 28, 2016"
+50,Alok Industries,significant event,board meeting
+51,Alok Industries,instance of,board meeting
+52,Alok Industries,has part,board meeting
+53,Q2 results,manufacturer,Alok Industries
+54,Alok Industries,inception,"December 17, 2015"
+55,Alok Industries,"dissolved, abolished or demolished date","December 17, 2015"
+56,Alok Industries,significant event,Q2 results
+57,Alok Industries,significant event,Q2 results
+58,Q2 results,participant,Alok Industries
+59,Alok Industries,has part,Q2 results
+60,Q2 results,part of,Alok Industries
+61,Alok Industries,inception,"Nov 09, 2015"
+62,Q2 results,manufacturer,Alok Industries
+63,Alok Industries,"dissolved, abolished or demolished date","Nov 09, 2015"

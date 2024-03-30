@@ -1,0 +1,72 @@
+,head,type,tail
+0,Sun Pharma,headquarters location,Ankleshwar
+1,Sun Pharma,subsidiary,Ankleshwar
+2,Ankleshwar,parent organization,Sun Pharma
+3,Sun Pharma,subsidiary,Ankleshwar
+4,India,shares border with,US
+5,India,shares border with,US
+6,US,shares border with,India
+7,Indian pharma,country,India
+8,Diabetes,drug used for treatment,BP
+9,diabetes,drug used for treatment,BP
+10,BP,medical condition treated,diabetes
+11,Diabetes,drug used for treatment,BP
+12,BP,medical condition treated,Diabetes
+13,nutraceuticals,instance of,regulations
+14,nutraceuticals,subclass of,regulations&nbsp;around them
+15,nutraceuticals,part of,regulations&nbsp;around them
+16,Lupin,owned by,Sun Pharma
+17,Lupin,parent organization,Sun Pharma
+18,Alkem,subsidiary,Lupin
+19,Sun Pharma,owned by,Motilal Oswal
+20,Sun Pharma,owned by,Motilal Oswal
+21,Motilal Oswal,owner of,Sun Pharma
+22,Sun Pharma,stock exchange,Motilal Oswal
+23,Sun Pharma,owned by,ICICI Securities
+24,Sun Pharma,stock price,1400
+25,Sun Pharma,stock exchange,1400
+26,Sun Pharmaceutical Industries,owned by,Prabhudas Lilladher
+27,Sun Pharmaceutical Industries,stock price,1640
+28,Sun Pharmaceutical Industries,parent organization,Prabhudas Lilladher
+29,Taro,owned by,Sun Pharma
+30,Taro,parent organization,Sun Pharma
+31,Sun Pharma,subsidiary,Taro
+32,Taro,parent organization,Sun Pharma
+33,Sun Pharma,subsidiary,Lyndra Therapeutics
+34,Lyndra Therapeutics,parent organization,Sun Pharma
+35,Sun Pharma,owner of,Lyndra Therapeutics
+36,Lyndra Therapeutics,owned by,Sun Pharma
+37,Sun Pharma,subsidiary,Lyndra Therapeutics
+38,Ilumetri,instance of,specialty product
+39,Ilumetri,manufacturer,Sun Pharma
+40,Ilumetri,owned by,Sun Pharma
+41,Sun Pharma,subsidiary,Glenmark
+42,Glenmark,subsidiary,Sun Pharma
+43,Sun Pharma,parent organization,Glenmark
+44,Sun Pharma,instance of,Net profit
+45,Sun Pharma Q2 results,point in time,Q2
+46,Sun Pharma,significant event,Q2 results
+47,Zydus,parent organization,Sun Pharma
+48,Zydus,medical condition treated,CKD
+49,CKD,drug used for treatment,Zydus
+50,Zydus,product or material produced,CKD treatment drug
+51,Sun Pharmaceutical Industries,owned by,Prabhudas Lilladher
+52,Sun Pharmaceutical Industries,stock price,1265
+53,Sun Pharmaceutical Industries,parent organization,Prabhudas Lilladher
+54,Sun Pharma,owned by,Motilal Oswal
+55,Sun Pharma,owned by,Motilal Oswal
+56,Motilal Oswal,owner of,Sun Pharma
+57,Sun Pharma,stock exchange,Motilal Oswal
+58,Sun Pharma,instance of,Net profit
+59,Sun Pharma,significant event,Q1 results
+60,Sun Pharma,industry,Net profit
+61,Taro,manufacturer,Sun Pharma
+62,Taro,owned by,Sun Pharma
+63,Sun Pharma,product or material produced,Taro
+64,Sun Pharma,owned by,Nirmal Bang
+65,Sun Pharma,owned by,Nirmal Bang
+66,Nirmal Bang,owner of,Sun Pharma
+67,Q1,point in time,Q1
+68,Sun Pharmaceutical Industries,owned by,KR Choksey
+69,Sun Pharmaceutical Industries,stock price,1172
+70,Sun Pharmaceutical Industries,stock exchange,1172

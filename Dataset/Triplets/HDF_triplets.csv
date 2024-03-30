@@ -1,0 +1,66 @@
+,head,type,tail
+0,HDFC Life,owned by,HDFC
+1,HDFC Life,parent organization,HDFC
+2,HDFC,subsidiary,HDFC Life
+3,HDFC Life,parent organization,HDFC
+4,HDFC,instance of,net profit
+5,HDFC,has part,NII
+6,HDFC net profit,point in time,Q4
+7,Q4,point in time,Q4 2016
+8,HDFC,has part,net interest income
+9,net interest income,part of,HDFC
+10,biggest ever rupee bond issue,participant,HDFC
+11,HDFC,product or material produced,rupee bond
+12,HDFC,owner of,rupee bond issue
+13,rupee bond issue,owned by,HDFC
+14,HDFC,owned by,Motilal Oswal
+15,HDFC,stock exchange,Motilal Oswal
+16,HDFC,owned by,Motilal Oswal
+17,Motilal Oswal,owner of,HDFC
+18,Housing Development Finance Corporation,owned by,Sharekhan
+19,Housing Development Finance Corporation,stock exchange,Sharekhan
+20,Buy Housing Development Finance Corporation,stock exchange,3025
+21,HDFC,owned by,Prabhudas Lilladher
+22,HDFC,country,India
+23,HDFC,owned by,HDFC Ltd.
+24,HDFC,product or material produced,bonds
+25,HDFC,instance of,bonds
+26,HDFC to issue 10-year bonds,instance of,bonds
+27,Housing Development Finance Corporation,owned by,Sharekhan
+28,Housing Development Finance Corporation,stock exchange,Sharekhan
+29,Buy Housing Development Finance Corporation,stock exchange,3025
+30,HDFC,owned by,ICICI Direct
+31,HDFC,stock exchange,ICICI Direct
+32,HDFC,owned by,ICICI Direct
+33,ICICI Direct,owner of,HDFC
+34,Buy Housing Development Finance Corporation,stock exchange,Sharekhan
+35,Buy Housing Development Finance Corporation,owned by,Sharekhan
+36,Sharekhan,stock exchange,3025
+37,HDFC,owned by,Prabhudas Lilladher
+38,HDFC,country,India
+39,HDFC,parent organization,Prabhudas Lilladher
+40,Buy Housing Development Finance Corporation,stock exchange,Sharekhan
+41,Buy Housing Development Finance Corporation,owned by,Sharekhan
+42,Housing Development Finance Corporation,stock exchange,Sharekhan
+43,HDFC Q3 results,instance of,Net profit
+44,HDFC,instance of,Net profit
+45,HDFC Q3 results,followed by,3rd quarter
+46,HDFC Q3,has part,Net profit
+47,HDFC Q3,instance of,Net profit
+48,HDFC Q3,has part,Net profit
+49,Net profit,part of,HDFC Q3
+50,Buy Housing Development Finance Corporation,stock exchange,Sharekhan
+51,Buy Housing Development Finance Corporation,owned by,Sharekhan
+52,Housing Development Finance Corporation,stock exchange,Sharekhan
+53,HDFC,product or material produced,bonds
+54,HDFC,instance of,bonds
+55,bonds,use,"raise Rs 3,000 crore"
+56,HDFC Q2 profit,point in time,Q2
+57,HDFC Q2 profit,increase,32%
+58,HDFC Q2 profit,instance of,"32% to Rs 3,780.5 crore"
+59,Maruti Suzuki India,instance of,Hot Stocks
+60,Dixon Technologies,instance of,Hot Stocks
+61,Maruti Suzuki India,part of,Hot Stocks
+62,HDFC Q1 results,instance of,Net profit
+63,HDFC,instance of,Net profit
+64,HDFC Q1 results,has part,Net profit

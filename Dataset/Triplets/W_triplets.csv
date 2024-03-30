@@ -1,0 +1,71 @@
+,head,type,tail
+0,Wipro,owned by,Kotak Equities
+1,Wipro,stock exchange,Kotak Equities
+2,Wipro,owned by,Kotak Equities
+3,Kotak Equities,owner of,Wipro
+4,Aggne Global,owned by,Wipro
+5,Aggne Global,parent organization,Wipro
+6,Wipro,owner of,Aggne Global
+7,Aggne Global,owned by,Wipro
+8,Wipro,owned by,Sharekhan
+9,Sharekhan,owner of,Wipro
+10,Wipro,instance of,shares
+11,Wipro,stock exchange,505
+12,Wipro,stock price,505
+13,Wipro,stock exchange,Rs 505
+14,Wipro,owned by,Motilal Oswal
+15,Motilal Oswal,owner of,Wipro
+16,Wipro,owned by,Motilal Oswal
+17,Motilal Oswal,owner of,Wipro
+18,Wipro,instance of,ADRs
+19,Q3 results,parent organization,Wipro
+20,Q3 results,follows,Wipro
+21,Wipro,industry,AI
+22,AI,developer,Wipro
+23,Wipro,product or material produced,AI
+24,Wipro,instance of,Net profit
+25,Wipro Q3 results,point in time,Q3
+26,Wipro,followed by,Q3 results
+27,Q3 revenue,instance of,QoQ
+28,Q3 revenue,manufacturer,Wipro
+29,Q3 revenue,participant,Wipro
+30,Chartist Talks,presenter,Sameet Chavan
+31,Bank Nifty,part of,IT index
+32,Chartist Talks,author,Sameet Chavan
+33,Wipro,instance of,Hot Stocks
+34,Wipro,instance of,Hot Stocks
+35,Clean Science,instance of,Hot Stocks
+36,Crompton Greaves,instance of,Hot Stocks
+37,Clean Science,instance of,Hot Stocks
+38,Wipro,owned by,Religare Retail Research
+39,Wipro,stock exchange,Religare Retail Research
+40,Wipro,parent organization,Religare Retail Research
+41,Wipro,owned by,Sharekhan
+42,Sharekhan,owner of,Wipro
+43,Wipro,owned by,shareskhan
+44,Wipro,owned by,Motilal Oswal
+45,Motilal Oswal,employer,Wipro
+46,Wipro,owned by,Motilal Oswal
+47,Motilal Oswal,owner of,Wipro
+48,Wipro,owned by,Axis Securities
+49,Axis Securities,subsidiary,Wipro
+50,Axis Securities,owner of,Wipro
+51,Wipro,owned by,Motilal Oswal
+52,Motilal Oswal,employer,Wipro
+53,Wipro,owned by,Motilal Oswal
+54,Motilal Oswal,owner of,Wipro
+55,Wipro,owned by,Sharekhan
+56,Sharekhan,owner of,Wipro
+57,Wipro,owned by,shareskhan
+58,Wipro,owned by,KR Choksey
+59,Wipro,parent organization,Wipro
+60,Wipro,owned by,KR Choksey
+61,KR Choksey,owner of,Wipro
+62,Wipro,owned by,Motilal Oswal
+63,Motilal Oswal,employer,Wipro
+64,Wipro,owned by,Motilal Oswal
+65,Motilal Oswal,owner of,Wipro
+66,Wipro,owned by,ICICI Direct
+67,Wipro,stock exchange,ICICI Direct
+68,Wipro,owned by,ICICI Direct
+69,ICICI Direct,owner of,Wipro

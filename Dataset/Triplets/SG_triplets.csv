@@ -1,0 +1,65 @@
+,head,type,tail
+0,Sterlite copper plant,owned by,Vedanta
+1,Sterlite copper plant,operator,Vedanta
+2,Sterlite copper plant reopening,operator,Vedanta
+3,Vedanta,owned by,CLSA
+4,CLSA,owner of,Vedanta
+5,Vedanta,owned by,CLSA
+6,CLSA,owner of,Vedanta
+7,Vedanta block deal,participant,GQG
+8,GQG,owned by,Vedanta
+9,GQG,parent organization,Vedanta
+10,Vedanta,owned by,GQG
+11,GQG,subsidiary,Vedanta
+12,Vedanta,parent organization,GQG
+13,Neutral Vedanta,owned by,Motilal Oswal
+14,Motilal Oswal,industry,Vedanta
+15,Neutral Vedanta,stock exchange,Motilal Oswal
+16,Vedanta,instance of,shares
+17,Vedanta,significant event,$3.2-billion bonds recast
+18,Vedanta,significant event,$3.2-billion bonds recast
+19,$3.2-billion bonds recast,participant,Vedanta
+20,Vedanta,product or material produced,copper
+21,Vedanta's arm,country,Saudi Arabia
+22,Vedanta's,product or material produced,copper
+23,Vedanta,owned by,India Ratings
+24,debt instruments,owned by,Vedanta
+25,Vedanta's,owned by,India Ratings
+26,near-term debt crisis,point in time,near-term
+27,near-term debt crisis,has cause,Vedanta split
+28,near-term debt crisis,has cause,Vedanta
+29,demerger,participant,Vedanta
+30,Vedanta&rsquo;s,significant event,demerger
+31,demerger,participant,Vedanta&rsquo;s
+32,Vedanta,instance of,Equity
+33,Vedanta,stock exchange,Equity99
+34,Vedanta,instance of,Equity99
+35,Neutral Vedanta,owned by,Motilal Oswal
+36,Motilal Oswal,owner of,Neutral Vedanta
+37,Neutral Vedanta,stock exchange,Motilal Oswal
+38,Vedanta,instance of,Net profit
+39,Vedanta,significant event,Q1 Results
+40,Vedanta,has part,Net profit
+41,Vedanta,has part,June quarter
+42,Vedanta,has part,June quarter earnings
+43,Vedanta,notable work,June quarter earnings
+44,YJ Chen,employer,Vedanta
+45,YJ Chen,occupation,CEO
+46,YJ Chen,position held,CEO
+47,Vedanta,owned by,Anil Agarwal
+48,Vedanta,founded by,Anil Agarwal
+49,Anil Agarwal,owner of,Vedanta
+50,Vedanta,owned by,Anil Agarwal
+51,Sonal Shrivastava,occupation,CFO
+52,Sonal Shrivastava,employer,Vedanta
+53,Sonal Shrivastava,employer,Vedanta
+54,Sonal Shrivastava,occupation,CFO
+55,Neutral Vedanta,owned by,Motilal Oswal
+56,Motilal Oswal,owner of,Neutral Vedanta
+57,Neutral Vedanta,stock exchange,Motilal Oswal
+58,Vedanta,instance of,Net profit
+59,Vedanta,has part,Net profit
+60,Vedanta,notable work,Q4 result
+61,Steve Moore,employer,Cairn Oil &amp;amp;Gas
+62,Steve Moore,occupation,COO
+63,Cairn Oil &amp;amp;Gas,office held by head of the organization,COO

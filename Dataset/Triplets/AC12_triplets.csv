@@ -1,0 +1,61 @@
+,head,type,tail
+0,Assam Company,inception,"November 28, 2017"
+1,Assam Company,end time,"November 28, 2017"
+2,Assam Company,point in time,"November 28, 2017"
+3,Assam Company,significant event,AGM
+4,Assam Company,instance of,AGM
+5,Assam Company,has part,AGM
+6,Assam Company,inception,"September 7, 2017"
+7,Assam Company,end time,"September 7, 2017"
+8,Assam Company,"dissolved, abolished or demolished date","September 7, 2017"
+9,Assam Company,inception,"August 30, 2017"
+10,Assam Company,point in time,"August 30, 2017"
+11,Assam Company's,point in time,"August 30, 2017"
+12,Assam Company India,instance of,AGM
+13,Assam Company India,significant event,AGM
+14,Assam Company India,has part,AGM
+15,Assam Company,instance of,AGM
+16,Assam Company,inception,"September 23, 2016"
+17,Assam Company's,instance of,AGM
+18,Assam Company,headquarters location,Assam
+19,Assam Company,revenue stream,35.85 crore
+20,Assam Company,industry,35.85 crore
+21,Assam Company India,country,India
+22,Assam Company India,owned by,board
+23,Assam Company India,owned by,Assam Company India board
+24,Assam Company,headquarters location,Assam
+25,Assam Company,revenue stream,106.32 crore
+26,Assam Company,industry,106.32 crore
+27,Assam Company India,"dissolved, abolished or demolished date","February 12, 2016"
+28,Assam Company,country,India
+29,Assam Company India,inception,"February 12, 2016"
+30,Assam Company,revenue stream,99.48 crore
+31,Assam Company,inception,Sep '15
+32,Assam Company,end time,Sep '15
+33,Assam Company,revenue stream,31.79 crore
+34,Assam Company,industry,31.79 crore
+35,Assam Company,revenue,31.79
+36,Assam Company,revenue stream,26.89 crore
+37,Assam Company,industry,26.89 crore
+38,Assam Company,revenue received,26.89 crore
+39,Assam Company,significant event,board meeting
+40,Assam Company,instance of,board meeting
+41,Assam Company,has part,board meeting
+42,Assam Company,inception,"February 27, 2015"
+43,Assam Company,end time,"February 27, 2015"
+44,Assam Company,point in time,"February 27, 2015"
+45,Assam Company,significant event,board meeting
+46,Assam Company,instance of,board meeting
+47,Assam Company,has part,board meeting
+48,Assam Company India,country,India
+49,Assam Company India,"dissolved, abolished or demolished date",2015
+50,Assam Company India,owned by,Assam Company India
+51,Assam Company,inception,"January 15, 2015"
+52,Assam Company,"dissolved, abolished or demolished date","January 15, 2015"
+53,Assam Company's,inception,"January 15, 2015"
+54,Assam Company,significant event,board meeting
+55,Assam Company,participant in,board meeting
+56,Assam Company,has part,board meeting
+57,Assam Company India,country,India
+58,India,contains administrative territorial entity,Assam
+59,Assam Company India,significant event,board meeting

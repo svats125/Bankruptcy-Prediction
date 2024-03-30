@@ -1,0 +1,71 @@
+,head,type,tail
+0,State Bank of India,subsidiary,Raymond
+1,State Bank of India,owner of,Raymond
+2,Raymond,owned by,State Bank of India
+3,State Bank of India,subsidiary,Raymond
+4,Raymond,parent organization,State Bank of India
+5,DLF,headquarters location,Gurugram
+6,DLF,location of formation,Gurugram
+7,DLF,owner of,Gurugram land parcel
+8,Gurugram land parcel,owned by,DLF
+9,Cyclicals,has part,consumer staples
+10,Cyclicals,part of,Q3 earnings
+11,Cyclicals,has part,consumer staples
+12,consumer staples,part of,Cyclicals
+13,DLF,owned by,Motilal Oswal
+14,Motilal Oswal,member of political party,DLF
+15,DLF,owned by,Motilal Oswal
+16,Motilal Oswal,owner of,DLF
+17,2014 Indian elections,point in time,2014
+18,India,part of,North America
+19,India,part of,North America
+20,North America,has part,India
+21,DLF,owned by,Motilal Oswal
+22,Motilal Oswal,industry,DLF
+23,Neutral DLF,owned by,Motilal Oswal
+24,DLF,owned by,HDFC Securities
+25,HDFC Securities,owner of,DLF
+26,HDFC Securities,stock exchange,Buy DLF
+27,DLF,chairperson,Rajiv Singh
+28,DLF,owned by,Rajiv Singh
+29,DLF,owned by,Rajiv Singh
+30,Rajiv Singh,owner of,DLF
+31,DLF,owned by,Motilal Oswal
+32,Motilal Oswal,field of work,DLF
+33,DLF,owned by,Motilal Oswal
+34,Motilal Oswal,owner of,DLF
+35,DLF,owned by,HDFC Securities
+36,HDFC Securities,owner of,DLF
+37,HDFC Securities,stock exchange,Buy DLF
+38,DLF,owned by,YES Securities
+39,DLF,owned by,Yes Securities
+40,DLF,stock exchange,YES Securities
+41,DLF,owned by,Motilal Oswal
+42,Motilal Oswal,field of work,DLF
+43,Neutral DLF,owned by,Motilal Oswal
+44,DLF,owned by,Motilal Oswal
+45,Motilal Oswal,industry,DLF
+46,Motilal Oswal,field of work,DLF
+47,DLF,owned by,Motilal Oswal
+48,Motilal Oswal,member of political party,DLF
+49,Motilal Oswal,field of work,DLF
+50,DLF,headquarters location,New Delhi
+51,DLF,location of formation,New Delhi
+52,New Delhi mall,owned by,DLF
+53,DLF,owned by,YES Securities
+54,DLF,owned by,Yes Securities
+55,DLF,stock exchange,YES Securities
+56,DLF,owned by,Motilal Oswal
+57,Motilal Oswal,member of political party,DLF
+58,Motilal Oswal,field of work,DLF
+59,DLF,owned by,Motilal Oswal
+60,DLF,owned by,Motilal Oswal
+61,Motilal Oswal,owner of,DLF
+62,Motilal Oswal,field of work,DLF
+63,New Delhi,country,India
+64,New Delhi,country,India
+65,India,capital,New Delhi
+66,New Delhi,located in the administrative territorial entity,Delhi
+67,revenue,has part,profit
+68,Q3 profit,point in time,Q3
+69,profit,different from,income

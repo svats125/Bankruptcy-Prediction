@@ -1,0 +1,68 @@
+,head,type,tail
+0,NTPC,owned by,Sharekhan
+1,NTPC,stock exchange,Sharekhan
+2,Sharekhan,owner of,NTPC
+3,Maharashtra State Power Generation Company,instance of,green subsidiary
+4,NTPC,replaced by,Maharashtra State Power Generation Company
+5,Maharashtra State Power Generation Company,replaces,NTPC
+6,NTPC,subsidiary,Maharashtra State Power Generation Company
+7,power sector growth,country,India
+8,power sector growth and investor optimism in India,country,India
+9,In charts,facet of,charts
+10,JSW Energy,subsidiary,PowerGrid
+11,PowerGrid,owned by,JSW Energy
+12,NTPC,subsidiary,JSW Energy
+13,Torrent Power,parent organization,Tata Power
+14,Torrent Power,owned by,Tata Power
+15,Tata Power,owner of,Torrent Power
+16,Torrent Power,owned by,Tata Power
+17,Kotak,instance of,PSU
+18,Kotak,instance of,stock
+19,Kotak,industry,PSU
+20,NTPC,owned by,Sharekhan
+21,NTPC,stock exchange,Sharekhan
+22,NTPC,owned by,Sharekhan
+23,Sharekhan,owner of,NTPC
+24,NTPC Q3 results,instance of,Net profit
+25,NTPC,instance of,Net profit
+26,NTPC,has part,Net profit
+27,Q3 power sector earnings preview,point in time,Q3
+28,Q3 power sector earnings preview,main subject,power sector
+29,Q3 power sector earnings preview,facet of,power sector
+30,NTPC,subsidiary,Premier Energies
+31,Premier Energies,parent organization,NTPC
+32,NTPC,owner of,Premier Energies
+33,NTPC,instance of,flat
+34,NTPC,country,India
+35,NTPC,industry,GST
+36,NTPC,owned by,Axis Securities
+37,NTPC,stock exchange,Axis Securities
+38,Axis Securities,subsidiary,NTPC
+39,NTPC,parent organization,Axis Securities
+40,Zetwerk,product or material produced,solar PV
+41,NTPC,industry,solar PV
+42,Zetwerk,industry,solar PV
+43,NTPC,product or material produced,solar module
+44,Waaree Energies,parent organization,NTPC
+45,Waaree Energies,parent organization,NTPC
+46,NTPC,subsidiary,Waaree Energies
+47,NTPC,product or material produced,coal
+48,coal output in first half of this fiscal,operator,NTPC
+49,coal output,operator,NTPC
+50,kendriya vidyalaya,located in the administrative territorial entity,Arunachal
+51,kendriya,subclass of,vidyalaya
+52,Arunachal,country,India
+53,India,contains administrative territorial entity,Arunachal
+54,NTPC,industry,mining
+55,NTPC,subsidiary,mining arm
+56,mining arm,parent organization,NTPC
+57,NTPC mining arm,product or material produced,battery minerals
+58,NTPC,owned by,Sharekhan
+59,NTPC,stock exchange,Sharekhan
+60,Sharekhan,owner of,NTPC
+61,NTPC,owned by,Sharekhan
+62,NTPC,stock exchange,Sharekhan
+63,Sharekhan,owner of,NTPC
+64,Net profit,owned by,NTPC
+65,NTPC,instance of,Net profit
+66,Net profit,parent organization,NTPC

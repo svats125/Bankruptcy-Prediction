@@ -1,0 +1,66 @@
+,head,type,tail
+0,Avenue Supermarts,owned by,Geojit
+1,Avenue Supermarts,owned by,Geojit
+2,Geojit,owner of,Avenue Supermarts
+3,Buy Avenue Supermarts,owned by,Geojit
+4,Buy Avenue Supermarts,headquarters location,IN
+5,Buy Avenue Supermarts,located in the administrative territorial entity,IN
+6,Buy Avenue Supermarts,owned by,DMART IN
+7,Revenue Supermarts,parent organization,D-Mart
+8,revenue,has part,net profit
+9,Revenue Supermarts,parent organization,D-Mart
+10,D-Mart,subsidiary,Revenue Supermarts
+11,Revenue Supermarts,parent organization,DMart
+12,Revenue Supermarts,parent organization,DMart
+13,DMart,subsidiary,Revenue Supermarts
+14,Q3,followed by,Q4
+15,Q3 net profit rises 17% on festive demand,parent organization,DMart
+16,Q3 net profit,parent organization,DMart
+17,Q3 net profit rises 17% on festive demand,follows,DMart
+18,Q3,point in time,Q3
+19,Q3 business update,publisher,DMart
+20,DMart,point in time,Q3
+21,Avenue Supermarts,owned by,Motilal Oswal
+22,Motilal Oswal,owner of,Avenue Supermarts
+23,Motilal Oswal,employer,Avenue Supermarts
+24,Avenue Supermarts,owned by,Prabhudas Lilladher
+25,Prabhudas Lilladher,employer,Avenue Supermarts
+26,Prabhudas Lilladher,owner of,Avenue Supermarts
+27,Sell Avenue Supermarts,owned by,HDFC Securities
+28,Sell Avenue Supermarts,stock exchange,HDFC Securities
+29,HDFC Securities,product or material produced,shares
+30,Hold Avenue Supermarts,owned by,ICICI Securities
+31,ICICI Securities,product or material produced,shares
+32,Hold Avenue Supermarts,stock price,3700
+33,Avenue Supermarts,owned by,Prabhudas Lilladher
+34,Prabhudas Lilladher,employer,Avenue Supermarts
+35,Prabhudas Lilladher,owner of,Avenue Supermarts
+36,DMart,instance of,Net profit
+37,DMart,industry,Net profit
+38,DMart,significant event,Q1 result
+39,Avenue Supermarts,owned by,Motilal Oswal
+40,Motilal Oswal,owner of,Avenue Supermarts
+41,Motilal Oswal,employer,Avenue Supermarts
+42,Neutral Avenue Supermarts,owned by,Motilal Oswal
+43,Neutral Avenue,instance of,Supermarts
+44,Neutral Avenue Supermarts,instance of,Supermarts
+45,Avenue Supermarts,owned by,Prabhudas Lilladher
+46,Avenue Supermarts,owned by,Prabhudas Lilladher
+47,Prabhudas Lilladher,owner of,Avenue Supermarts
+48,Avenue Supermarts,country,India
+49,DMart,instance of,Net profit
+50,DMart,industry,Net profit
+51,DMart,followed by,Q4 Results
+52,Avenue Supermarts,owned by,Prabhudas Lilladher
+53,Avenue Supermarts,country,India
+54,Avenue Supermarts,stock exchange,Rs 4699
+55,Hold Avenue Supermarts,owned by,ICICI Direct
+56,Hold Avenue Supermarts,stock exchange,ICICI Direct
+57,Hold Avenue Supermarts,parent organization,ICICI Direct
+58,Avenue Supermarts,owned by,Prabhudas Lilladher
+59,Avenue Supermarts,country,India
+60,Avenue Supermarts,owned by,Prabhudas Lilladher
+61,Prabhudas Lilladher,owner of,Avenue Supermarts
+62,Q3 profit,manufacturer,DMart
+63,DMart,has part,Q3 profit
+64,DMart,revenue,590 crore

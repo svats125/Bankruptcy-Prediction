@@ -1,0 +1,64 @@
+,head,type,tail
+0,Tulsa Extrusions,inception,"December 13, 2017"
+1,Tulsi Extrusions,inception,"December 13, 2017"
+2,Tulsa Extrusions,work period (start),"December 13, 2017"
+3,Tulsa Extrusion,instance of,AGM
+4,Tulsa Extrusion,location,Tulsa
+5,Tulsa Extrusion,located in the administrative territorial entity,Tulsa
+6,Tulsa Extrusion,inception,"September 27, 2017"
+7,Tulsa Extrusion,point in time,"September 27, 2017"
+8,Tulsa Extrusion,end time,"September 27, 2017"
+9,Tulsa Extrusions,instance of,board meeting
+10,Tulsi Extrusions,instance of,board meeting
+11,Tulsa Extrusions,location,Tulsa
+12,Tulsa Extrusions,instance of,board meeting
+13,Tulsi Extrusions,instance of,board meeting
+14,Tulsa Extrusions,location,Tulsa
+15,Chetna Rajendra Nannavare,employer,Tulsi Extrusions
+16,Chetna Rajendra Nannavare,member of,Tulsi Extrusions
+17,Chetna Rajendra Nannavare,employer,Tulsa Extrusions
+18,Tulsa Extrusions,instance of,board meeting
+19,Tulsi Extrusions,instance of,board meeting
+20,Tulsa Extrusions,location,Tulsa
+21,Tulsa Extrusion,instance of,board meeting
+22,Tulsa Extrusion,location,Tulsa
+23,Tulsi Extrusion,instance of,board meeting
+24,Tulsi Extrusion,end time,Dec '13
+25,Tulsi Extrusion,inception,Dec '13
+26,Tulsi Extrusion,revenue stream,23.01 crore
+27,Tulsa Extrusions,"dissolved, abolished or demolished date","Nov 22, 2013"
+28,Tulsi Extrusions,"dissolved, abolished or demolished date","Nov 22, 2013"
+29,Tulsa Extrusions,end time,"Nov 22, 2013"
+30,Tulsa Extrusions,headquarters location,"Tulsa, Oklahoma"
+31,2014,point in time,2014
+32,Tulsa Extrusions,headquarters location,Tulsa
+33,Tulsi Extrusions,director,Gopal Das Maheshwari
+34,Tulsa Extrusions,director,Gopal Das Maheshwari
+35,Tulsi Extrusions,director,Gopal Das Maheshwari
+36,Gopal Das Maheshwari,notable work,Tulsi Extrusions
+37,Tulsa Extrusions,instance of,AGM
+38,Tulsa Extrusions,has part,AGM
+39,Tulsa Extrusions,has part,AGM
+40,AGM,part of,Tulsa Extrusions
+41,Tulsa Extrusions,instance of,AGM
+42,Outcome of AGM,facet of,Tulsa Extrusions
+43,Tulsa Extrusions,has part,AGM
+44,AGM,part of,Tulsa Extrusions
+45,Tulsa Extrusions,instance of,AGM
+46,Tulsa Extrusions,member of,AGM
+47,Tulsa Extrusions,has part,AGM
+48,Tulsi Extrusion,inception,Jun '13
+49,Tulsi Extrusion,revenue stream,23.12 crore
+50,Tulsi Extrusion,industry,23.12 crore
+51,Tulsa Extrusion,inception,"March 19, 2013"
+52,Tulsa Extrusion,headquarters location,"Tulsa, Oklahoma"
+53,Tulsa Extrusion,inception,2013
+54,Tulsi Extrusion,end time,Dec '12
+55,Tulsi Extrusion,inception,Dec '12
+56,Tulsi Extrusion,revenue stream,40.08 crore
+57,2013,point in time,2013
+58,Tulsa Extrusion,point in time,2013
+59,Tulsa Extrusion,inception,2013
+60,Tulsa Extrusions,inception,"Feb 08, 2013"
+61,Tulsa Extrusions,inception,2013
+62,Tulsi Extrusions,inception,"Feb 08, 2013"

@@ -1,0 +1,67 @@
+,head,type,tail
+0,NCLT,located in the administrative territorial entity,Mumbai
+1,RCom,headquarters location,Mumbai
+2,RCom,owned by,NCLT Mumbai
+3,Coronavirus impact,country,India
+4,Coronavirus impact,facet of,Indian billionaires
+5,Coronavirus impact,has effect,Indian billionaires
+6,committee of creditors,parent organization,Reliance Communications
+7,Reliance Communications,owned by,Reliance Communications' committee of creditors
+8,Reliance Communications,owned by,Reliance Communications'
+9,TDSAT,owned by,RCom
+10,TDSAT,parent organization,RCom
+11,RCom,owned by,TDSAT
+12,RCom,owned by,Anil Ambani
+13,Anil Ambani,owner of,RCom
+14,RCom,owned by,Anil Ambani
+15,Anil Ambani,owner of,RCom
+16,RCom,owned by,RCom's committee of creditors
+17,RCom's,owned by,RCom's committee of creditors
+18,RCom,member of,RCom's committee of creditors
+19,GCX,instance of,undersea cable
+20,GCX,product or material produced,undersea cable
+21,GCX,parent organization,RCom
+22,Reliance ADAG,parent organization,RCom
+23,Reliance ADAG,owned by,RCom
+24,Reliance,subsidiary,ADAG
+25,ADAG,parent organization,Reliance
+26,2008 general election,point in time,2008
+27,RCom,subsidiary,RCom lenders
+28,RCom,owner of,RCom lenders
+29,RCom,parent organization,Ericsson
+30,RCom,owned by,Ericsson
+31,Ericsson,subsidiary,RCom
+32,RCom,parent organization,Ericsson
+33,Q4 net loss,point in time,Q4
+34,Q4 net loss,parent organization,RCom
+35,Q4 net loss,country,RCom
+36,RCom,owned by,Anil Ambani
+37,Anil Ambani,owner of,RCom
+38,RCom,owned by,Anil Ambani
+39,RCom,owned by,Anil Ambani's
+40,bankruptcy proceedings,court,NCLT
+41,NCLT,field of work,bankruptcy proceedings
+42,RCom,significant event,bankruptcy proceedings
+43,Reliance Communications versus Ericsson case,participant,Ericsson
+44,Reliance Communications versus Ericsson case,participant,Reliance Communications
+45,Reliance Communications,subsidiary,Ericsson
+46,Reliance Communications,owned by,Lenders
+47,Reliance Communications,stock exchange,12
+48,Reliance Communications,owner of,Lenders sell 12 cr share of Reliance Communications
+49,RCom,owned by,Anil Ambani
+50,RCom,owned by,Anil Ambani
+51,Anil Ambani,owner of,RCom
+52,Anil Ambani,owner of,RCom
+53,Reliance Communications,owned by,Anil Ambani
+54,Anil Ambani,owner of,Reliance Communications
+55,Reliance Communications,owned by,Anil Ambani
+56,Reliance Communications,founded by,Anil Ambani
+57,Consolidated December 2018 Net Sales,owned by,Reliance Comm
+58,Reliance Comm,end time,December 2018
+59,Consolidated December 2018 Net Sales,parent organization,Reliance Comm
+60,NCD,owned by,RCoM
+61,NCD,maintained by,RCoM
+62,NCD holders,owned by,RCoM
+63,December 2018 quarter,point in time,December 2018
+64,December 2018,point in time,December 2018
+65,RCom,has part,December 2018 quarter

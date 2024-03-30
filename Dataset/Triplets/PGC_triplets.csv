@@ -1,0 +1,63 @@
+,head,type,tail
+0,Power Grid Corporation,country,India
+1,Power Grid Corporation,instance of,investments
+2,Power Grid Corporation,area,656
+3,Power Grid,stock rally,stock rally
+4,Power Grid,instance of,stock
+5,Power Grid,significant event,stock rally
+6,Q3 net profit rises 10%,publisher,PowerGrid
+7,Q3 net profit rises 10%,parent organization,PowerGrid
+8,PowerGrid,follows,Q3 net profit
+9,Power Grid Q3,point in time,Q3
+10,Power Grid Q3 preview,point in time,Q3
+11,Power Grid,point in time,Q3
+12,winning inter-state transmission project,operator,Power Grid Corporation
+13,winning inter-state transmission project,participant,Power Grid Corporation
+14,Power Grid Corporation,significant event,winning inter-state transmission project
+15,bonds,subclass of,securities
+16,Power Grid,product or material produced,bonds
+17,bonds,opposite of,equity
+18,Power Grid Corporation of India,country,India
+19,Sharekhan,country,India
+20,Buy Power Grid Corporation of India,country,India
+21,Power Grid Corporation of India,country,India
+22,Sharekhan,country,India
+23,Buy Power Grid Corporation of India,country,India
+24,Power Grid Q1 profit,point in time,Q1
+25,Power Grid,has part,Q1 profit
+26,Power Grid,significant event,Q1 profit
+27,Power Grid Corporation of India,country,India
+28,Sharekhan,country,India
+29,Buy Power Grid Corporation of India,country,India
+30,Power Grid,instance of,Consolidated net profit
+31,Power Grid,instance of,Consolidated
+32,Power Grid,industry,Consolidated net profit
+33,Power Grid Corporation of India,country,India
+34,Sharekhan,country,India
+35,Buy Power Grid Corporation of India,country,India
+36,Power Grid Corporation,product or material produced,bonds
+37,Power Grid Corporation,instance of,bonds
+38,Power Grid Corporation,country,India
+39,Power Grid Corp,country,India
+40,Power Grid Corporation,country,India
+41,Power Grid,country,India
+42,Power Grid Corporation,owned by,Emkay Global Financial
+43,Buy Power Grid Corporation,owned by,Emkay Global Financial
+44,Power Grid Corporation,stock exchange,Emkay Global Financial
+45,Power Grid Corporation of India,country,India
+46,Sharekhan,country,India
+47,Buy Power Grid Corporation of India,country,India
+48,Power Grid Corporation of India,country,India
+49,Sharekhan,country,India
+50,Buy Power Grid Corporation of India,country,India
+51,Powergrid,owned by,ICICI Direct
+52,Powergrid,stock exchange,ICICI Direct
+53,Powergrid,owned by,ICICI Direct
+54,ICICI Direct,owner of,Powergrid
+55,Power Grid Corporation,instance of,Asset capitalisation
+56,Power Grid Corporation,industry,Asset capitalisation
+57,Power Grid Corporation,subsidiary,&ndash
+58,&ndash,parent organization,Power Grid Corporation
+59,Power Grid Corporation of India,country,India
+60,Sharekhan,country,India
+61,Buy Power Grid Corporation of India,country,India

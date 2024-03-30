@@ -1,0 +1,62 @@
+,head,type,tail
+0,MCA,industry,deposit-holders
+1,MCA,owner of,deposit-holders
+2,deposit-holders,owned by,MCA
+3,MCA,product or material produced,deposit-holders
+4,Pratibha Industries,significant event,board meeting
+5,2008 general election,point in time,2008
+6,Pratibha Industries,instance of,board meeting
+7,Pratibha Industries,"dissolved, abolished or demolished date","November 14, 2017"
+8,Pratibha Industries,inception,"November 14, 2017"
+9,Pratibha Industries,end time,"November 14, 2017"
+10,Pratibha Industries,significant event,AGM
+11,Pratibha Industries,instance of,AGM
+12,Pratibha Industries,has part,AGM
+13,Pratibha Industries,significant event,AGM
+14,Pratibha Industries,instance of,AGM
+15,Pratibha Industries,has part,AGM
+16,Pratibha Industries,significant event,board meeting
+17,Pratibha Industries,instance of,board meeting
+18,Pratibha Industries,has part,board meeting
+19,Pratibha Industries,significant event,board meeting
+20,Pratibha Industries,instance of,board meeting
+21,Pratibha Industries,has part,board meeting
+22,Pratibha Industries,inception,"January 07, 2017"
+23,Pratibha Industries,"dissolved, abolished or demolished date","January 07, 2017"
+24,Pratibha Industries,end time,"January 07, 2017"
+25,Pratibha Industries,inception,"Jan 04, 2017"
+26,Pratibha Industries,"dissolved, abolished or demolished date","Jan 04, 2017"
+27,Pratibha Industries,end time,"Jan 04, 2017"
+28,Pratibha Ind,instance of,shares
+29,Pratibha Ind,product or material produced,shares
+30,Pratibha Ind,instance of,allotment of shares
+31,Pratibha Industries,significant event,board meeting
+32,Pratibha Industries,instance of,board meeting
+33,Pratibha Industries,has part,board meeting
+34,Pratibha Industries,significant event,board meeting
+35,Pratibha Industries,instance of,board meeting
+36,Pratibha Industries,has part,board meeting
+37,Pratibha Ind,end time,Dec '15
+38,Pratibha Ind,revenue,989.78
+39,Pratibha Ind,revenue stream,989.78 crore
+40,Pratibha Industries,"dissolved, abolished or demolished date","February 12, 2016"
+41,Pratibha Industries,inception,"February 12, 2016"
+42,Pratibha Industries,end time,"February 12, 2016"
+43,Pratibha Ind,inception,Sep '15
+44,Pratibha Ind,end time,Sep '15
+45,Pratibha Ind,revenue stream,Rs 950.32 crore
+46,Telangana govt,subsidiary,Pratibha Ind
+47,Telangana govt,owner of,Pratibha Ind
+48,Pratibha Ind,owned by,Telangana govt
+49,Pratibha Industries,country,India
+50,Pratibha Industries,industry,1023.62cr
+51,Pratibha Industries,work period (start),1023.62
+52,Pratibha Industries,"dissolved, abolished or demolished date","November 07, 2015"
+53,Pratibha Industries,inception,"November 07, 2015"
+54,Pratibha Industries,end time,"November 07, 2015"
+55,Pankaj S Chourasia,employer,Pratibha Industries
+56,Pratibha Industries,owned by,Pankaj S Chourasia
+57,Pratibha Industries,chairperson,Pankaj S Chourasia
+58,Pratibha Industries,instance of,AGM
+59,Pratibha Industries,significant event,AGM
+60,Pratibha Industries,has part,AGM

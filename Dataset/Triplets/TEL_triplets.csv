@@ -1,0 +1,75 @@
+,head,type,tail
+0,Tata Motors,owned by,Sharekhan
+1,Tata Motors,country,India
+2,Tata Motors,owned by,Tata Motors
+3,Tata Motors,owned by,ICICI Securities
+4,Tata Motors,stock exchange,ICICI Securities
+5,Tata Motors,owned by,Tata Motors
+6,Tata Motors,instance of,shares
+7,Tata Motors,significant event,7.5% rally
+8,Tata Motors,significant event,7.5% rally
+9,7.5% rally,participant,Tata Motors
+10,Tata Motors,owned by,Motilal Oswal
+11,Tata Motors,stock exchange,Motilal Oswal
+12,Tata Motors,owned by,Motilal Oswal
+13,Motilal Oswal,owner of,Tata Motors
+14,Tata Motors,owned by,Emkay Global Financial
+15,Tata Motors,country,India
+16,Tata Motors,stock exchange,Emkay Global Financial
+17,Tata Motors,inception,Jan
+18,Tata Motors,instance of,shares
+19,Tata Motors,stock exchange,shares
+20,Tata Motors,owned by,CLSA
+21,Tata Motors,owner of,CLSA
+22,Tata Motors,subsidiary,LeadIT
+23,Tata Motors,subsidiary,LeadIT
+24,LeadIT,parent organization,Tata Motors
+25,Tata Motors,member of,LeadIT
+26,Tata Motors,significant event,Q3 profit
+27,Q3 profit,winner,Tata Motors
+28,Tata Motors,significant event,Q3 profit
+29,Tata Motors,follows,Q3 profit
+30,Q3 profit,followed by,Tata Motors
+31,Tata Motors,instance of,net profit
+32,Tata Motors,has part,net profit
+33,Tata Motors,industry,net profit
+34,Tata Motors,subsidiary,JLR
+35,JLR,parent organization,Tata Motors
+36,Tata Motors,owner of,JLR
+37,JLR,owned by,Tata Motors
+38,Tata Motors,subsidiary,JLR
+39,Tata Motors,instance of,record high
+40,Tata Motors,significant event,Q3 earnings
+41,Tata Motors,instance of,new record high
+42,Tata Motors,owner of,Maruti Suzuki
+43,Maruti Suzuki,owned by,Tata Motors
+44,Maruti Suzuki,parent organization,Tata Motors
+45,Tata Motors,subsidiary,Maruti Suzuki
+46,Maruti Suzuki,parent organization,Tata Motors
+47,Tata Motors,subsidiary,JLR
+48,JLR,parent organization,Tata Motors
+49,Tata Motors,owner of,JLR
+50,JLR,owned by,Tata Motors
+51,Tata Motors,subsidiary,JLR
+52,JLR,owned by,Tata Motors
+53,Kings of consistency,part of,Nifty
+54,Nifty,instance of,benchmark
+55,Kings of consistency,facet of,Nifty
+56,Tata Motors,instance of,lifetime high
+57,Tata Motors,instance of,new lifetime high
+58,Tata Motors,instance of,sales
+59,Tata Motors,industry,retail sales
+60,Tata Motors,product or material produced,retail sales
+61,Tata Motors,has part,retail sales in November
+62,Tata Motors,product or material produced,commercial vehicle
+63,Tata Motors,owner of,HDFC Bank
+64,HDFC Bank,owned by,Tata Motors
+65,Tata Motors,subsidiary,HDFC Bank
+66,October,point in time,October
+67,Tata Motors,product or material produced,sales
+68,Tata Motors,industry,sales
+69,Tata Motors,subsidiary,Mahindra
+70,Mahindra,parent organization,Tata Motors
+71,Tata Motors,subsidiary,Mahindra
+72,Tata Motors,subsidiary,Mahindra
+73,Mahindra,owned by,Tata Motors

@@ -1,0 +1,65 @@
+,head,type,tail
+0,RTI Act,author,RBI
+1,RTI Act,legislated by,RBI
+2,RTI Act,authority,RBI
+3,Gitanjali Gems,owned by,Morgan Stanley
+4,Morgan Stanley,owner of,Gitanjali Gems
+5,Gitanjali Gems,owned by,Morgan Stanley
+6,Morgan Stanley,owner of,Gitanjali Gems
+7,Mehul Choksi,industry,jewellery
+8,Mehul Choksi,field of work,jewellery
+9,jewellery,owned by,Mehul Choksi
+10,midcaps,subclass of,&amp;amp;
+11,midcaps,opposite of,Small &amp;amp;midcaps
+12,midcaps,subclass of,Small &amp;amp;
+13,Gitanjali Gems,stock exchange,NSE
+14,Gitanjali Gems,owned by,NSE
+15,Gitanjali Gems,stock exchange,NSE
+16,Gitanjali Gems,stock exchange,NSE
+17,PNB Fraud,participant,PNB
+18,PNB Fraud,participant,RBI
+19,PNB Fraud,country,India
+20,PNB scam fallout,participant,Mehul Choksi
+21,Mehul Choksi,significant event,PNB scam fallout
+22,PNB scam fallout,participant,Nirav Modi
+23,PNB scam fallout,participant,Mehul Choksi
+24,Mehul Choksi,owner of,Gitanjali Gems
+25,Gitanjali Gems,owned by,Mehul Choksi
+26,Gitanjali Gems,owned by,Mehul Choksi
+27,Mehul Choksi,owner of,Gitanjali Gems
+28,PNB scam,participant,Gitanjali
+29,PNB scam,location,Gitanjali
+30,PNB scam,headquarters location,Gitanjali
+31,PNB fraud,participant,Nirav Modi
+32,Nirav Modi,significant event,PNB fraud
+33,PNB fraud,participant,ED
+34,Gitanjali,headquarters location,Hyderabad
+35,Gitanjali,location of formation,Hyderabad
+36,I-T,located in the administrative territorial entity,Hyderabad
+37,Gitanjali Gems,product or material produced,jewellery
+38,Gitanjali Gems,industry,jewellery
+39,Gitanjali Gems fiasco,product or material produced,jewellery
+40,Gitanjali,occupation,CFO
+41,Gitanjali,office held by head of the organization,CFO
+42,Gitanjali,parent organization,&amp;amp;
+43,PNB fraud,participant,Gitanjali Gems
+44,Gitanjali Gems,significant event,PNB fraud
+45,PNB fraud,has effect,Gitanjali Gems
+46,PNB fraud PMLA case,court,ED
+47,Nirav Modi,significant event,PNB fraud PMLA case
+48,PNB fraud PMLA case,participant,ED
+49,Exit Gitanjali Gems,author,Prakash Gaba
+50,Gitanjali Gems,owned by,Prakash Gaba
+51,Prakash Gaba,employer,Gitanjali Gems
+52,Gitanjali Gems,headquarters location,Nakshatra
+53,Gitanjali Gems,location of formation,Nakshatra
+54,Nakshatra,parent organization,Gitanjali Gems
+55,Gitanjali Gems,inception,"November 14, 2017"
+56,Gitanjali Gems,inception,2017
+57,2017,point in time,2017
+58,Gitanjali Gems,inception,"September 28, 2017"
+59,Gitanjali Gems,end time,"September 28, 2017"
+60,Gitanjali Gems,"dissolved, abolished or demolished date","September 28, 2017"
+61,Gitanjali Gems,instance of,board meeting
+62,Gitanjali Gems,significant event,board meeting
+63,Gitanjali Gems,has part,board meeting

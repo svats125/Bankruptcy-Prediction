@@ -1,0 +1,70 @@
+,head,type,tail
+0,Videocon Industries,industry,IRP
+1,Videocon Industries,member of,IRP
+2,Videocon Industries,parent organization,group companies
+3,group companies,subsidiary,Videocon Industries
+4,Videocon,court,NCLT
+5,Videocon,subsidiary,Bhushan Steel
+6,Videocon,owned by,NCLT
+7,Videocon case,participant,ICICI Bank
+8,Videocon case,participant,SEBI
+9,Videocon case,participant,ICICI Bank
+10,Videocon case,participant,SEBI
+11,Videocon bankruptcy,instance of,bankruptcy
+12,Videocon bankruptcy,participant,Creditors
+13,Videocon bankruptcy,country,India
+14,Q3,followed by,Q4
+15,Videocon Industries,"dissolved, abolished or demolished date",Q3
+16,Q3,followed by,Q4
+17,Q4,follows,Q3
+18,IL&amp;amp;FS Group,stock exchange,NSE
+19,IL&amp,stock exchange,NSE
+20,IL&amp;amp;FS,stock exchange,NSE
+21,Blackstone,owned by,Goldman Sachs
+22,Videocon&rsquo;s,industry,electronics
+23,Videocon&rsquo;s,product or material produced,electronics
+24,Videocon,instance of,insolvency resolution process
+25,Videocon,significant event,insolvency resolution process
+26,Videocon,instance of,insolvency resolution
+27,Gemini Communication,parent organization,Videocon Industries
+28,Gemini Communication,instance of,restricted trading segment
+29,Gemini Communication,owned by,Videocon Industries
+30,Videocon Industries,significant event,Q1 net loss
+31,Videocon Industries,inception,Q1
+32,Videocon Industries,has part,Q1 net loss
+33,Videocon Industries,significant event,Q4 net loss
+34,Videocon Industries,has part,Q4 net loss
+35,Videocon Industries,significant event,Q4 net loss
+36,Q4 net loss,participant,Videocon Industries
+37,Videocon,instance of,insolvency proceedings
+38,Videocon,significant event,insolvency proceedings
+39,Videocon,instance of,insolvency
+40,SBI,subsidiary,Videocon
+41,SBI,subsidiary,Videocon
+42,Videocon,parent organization,SBI
+43,SBI,owner of,Videocon
+44,Videocon,owned by,SBI
+45,NuPower,owned by,Deepak Kochhar
+46,NuPower,owned by,Deepak Kochhar&rsquo;s
+47,Deepak Kochhar,owner of,NuPower
+48,NuPower,owned by,Deepak Kochhar
+49,ICICI Bank,owned by,RBI
+50,ICICI Bank,parent organization,RBI
+51,ICICI Bank,member of,RBI
+52,Liberty Videocon General Insurance,owned by,Videocon
+53,Liberty Videocon General Insurance,parent organization,Videocon
+54,Liberty Videocon General Insurance,parent organization,Videocon
+55,Liberty Videocon General Insurance,parent organization,Videocon
+56,Videocon Industries,industry,insurance
+57,Videocon Industries,industry,insurance business
+58,Videocon Industries,product or material produced,insurance
+59,Videocon,instance of,bank
+60,Videocon,instance of,banks
+61,Bank of America,owned by,Merrill Lynch
+62,Bombay HC,part of,NCLT
+63,NCLT,has part,Bombay HC
+64,Videocon Industries,court,Bombay HC
+65,Videocon,subsidiary,JP Associates
+66,Videocon,owner of,JP Associates
+67,JP Associates,owned by,Videocon
+68,Videocon,owner of,JP Associates

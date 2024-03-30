@@ -1,0 +1,69 @@
+,head,type,tail
+0,Moser Baer India,court,NCLT
+1,Moser Baer India,owned by,NCLT
+2,Moser Baer India,country,India
+3,Surender Kumar Mata,employer,Moser Baer
+4,Surender Kumar Mata,occupation,Company Secretary
+5,Surender Kumar Mata,employer,Moser Baer's
+6,Yogesh Bahadur Mathur,employer,Moser Baer
+7,Yogesh Bahadur Mathur,employer,Moser Baer's
+8,Moser Baer,owned by,Yogesh Bahadur Mathur
+9,Surender Kumar Mata,employer,Moser Baer's
+10,Surender Kumar Mata,employer,Moser Baer
+11,Surender Kumar Mata,occupation,Company Secretary
+12,Moser Baer,participant in,board meeting
+13,Moser Baer,participant in,board meeting
+14,board meeting,participant,Moser Baer
+15,Moser Baer,significant event,board meeting
+16,Moser Baer,inception,"May 23, 2017"
+17,Moser Baer,end time,"May 23, 2017"
+18,Moser Baer,"dissolved, abolished or demolished date","May 23, 2017"
+19,Moser Baer India,instance of,AGM
+20,2014 AGM,point in time,2014
+21,Moser Baer,country,India
+22,Moser Baer India,instance of,AGM
+23,2014 AGM,point in time,2014
+24,Moser Baer,country,India
+25,Moser Baer India AGM,point in time,2016
+26,Moser Baer India AGM,point in time,"Sept 30, 2016"
+27,Moser Baer India,instance of,AGM
+28,Moser Baer India,inception,"August 11, 2016"
+29,Moser Baer India,"dissolved, abolished or demolished date","August 11, 2016"
+30,Moser Baer India,end time,"August 11, 2016"
+31,Moser Baer,"dissolved, abolished or demolished date","May 25, 2016"
+32,Moser Baer,inception,"May 25, 2016"
+33,Moser Baer,end time,"May 25, 2016"
+34,Moser Baer,country,India
+35,Q2 net loss,parent organization,Moser Baer India
+36,Q2 net loss,publisher,Moser Baer India
+37,India,owned by,Moser Baer
+38,Moser Baer India,country,India
+39,Moser Baer India,instance of,board meeting
+40,Outcome of AGM,facet of,Moser Baer
+41,Outcome of AGM,participant,Moser Baer
+42,Moser Baer,significant event,AGM
+43,Samrish Bhanja,employer,Moser Baer India
+44,Samrish Bhanja,employer,Moser Baer
+45,Moser Baer,country,India
+46,Moser Baer,participant in,board meeting
+47,Moser Baer,participant in,board meeting
+48,board meeting,participant,Moser Baer
+49,Moser Baer,significant event,board meeting
+50,photo voltaic restore,manufacturer,Moser Baer
+51,photo voltaic restore,developer,Moser Baer
+52,Moser Baer,product or material produced,photo voltaic restore
+53,Moser Baer India,owner of,Microgreon Electronics
+54,Microgreon Electronics,owned by,Moser Baer India
+55,Moser Baer India,subsidiary,Microgreon Electronics
+56,Microgreon Electronics,parent organization,Moser Baer India
+57,Microgreon Electronics,owned by,Moser Baer India
+58,Moser Baer,owner of,snapdeal
+59,snapdeal,owned by,Moser Baer
+60,Moser Baer,owner of,snapdeal.com
+61,snapdeal.com,owned by,Moser Baer
+62,Moser Baer,subsidiary,snapdeal
+63,snapdeal,parent organization,Moser Baer
+64,Moser Baer,participant in,board meeting
+65,Moser Baer,participant in,board meeting
+66,board meeting,participant,Moser Baer
+67,Moser Baer,significant event,board meeting

@@ -1,0 +1,62 @@
+,head,type,tail
+0,JVL Agro,instance of,board meeting
+1,JVL Agro,industry,Agro
+2,JVL Agro,significant event,board meeting
+3,JVL Agro Ind,industry,Agro
+4,JVL Agro Ind,instance of,board meeting
+5,JVL Agro Ind,parent organization,Agro Ind
+6,Agro Ind,subsidiary,JVL Agro Ind
+7,JVL Agro Industries,industry,Agro Industries
+8,JVL Agro Industries,significant event,board meeting
+9,JVL Agro Industries,instance of,board meeting
+10,JVL Agro Industries,instance of,AGM
+11,JVL Agro Industries,instance of,AGM
+12,JVL Agro Industries,significant event,AGM
+13,JVL Agro Industries,inception,"November 12, 2016"
+14,JVL Agro Industries,inception,"November 12, 2016"
+15,VJL Agro Industries,inception,"November 12, 2016"
+16,JVL Agro Industries,"dissolved, abolished or demolished date","March 31, 2016"
+17,JVL Agro Industries,inception,"March 31, 2016"
+18,JVL Agro Industries,"dissolved, abolished or demolished date","March 31, 2016"
+19,JVL Agro Industries,owned by,Sunidhi Sec.
+20,JVL Agro Industries,owned by,Sunidhi Sec
+21,Sunidhi Sec,owner of,JVL Agro Industries
+22,JVL Agro Industries,industry,Agro Industries
+23,JVL Agro Industries,significant event,board meeting
+24,JVL Agro Industries,instance of,board meeting
+25,JVL Agro,industry,Agro
+26,JVL Agro,industry,Agro
+27,JVL Agro,product or material produced,Agro
+28,JVL Agro,industry,Agro
+29,JVL Agro,industry,Agro
+30,JVL Agro,product or material produced,Agro
+31,JVL Agro Industries,instance of,AGM
+32,JVL Agro Industries,instance of,AGM
+33,JVL Agro Industries,significant event,AGM
+34,JVL Agro Industries,instance of,AGM
+35,JVL Agro Industries,instance of,AGM
+36,VJL Agro Industries,instance of,AGM
+37,JVL Agro Industries,industry,Agro Industries
+38,JVL Agro Industries,significant event,board meeting
+39,JVL Agro Industries,instance of,board meeting
+40,JVL Agro Industries,inception,"August 26, 2013"
+41,JVL Agro Industries,inception,"August 26, 2013"
+42,VJL Agro Industries,inception,"August 26, 2013"
+43,JVL Agro,industry,Agro
+44,JVL Agro,industry,Agro
+45,JVL Agro,product or material produced,Agro
+46,JVL Agro Industries,industry,Agro Industries
+47,JVL Agro Industries,instance of,dividend
+48,JVL Agro Industries,owned by,board
+49,JVL Agro Industries,owned by,board
+50,JVL Agro Industries,instance of,dividend
+51,JVL Agro Industries,industry,Agro Industries
+52,JVL Agro,member of,CARE
+53,JVL Agro,owned by,CARE
+54,JVL Agro,BBB rating,BBB
+55,JVL Agro,industry,Agro
+56,JVL Agro,product or material produced,Agro
+57,JVL Agro,industry,Agro
+58,JVL Agro,instance of,promoter
+59,VJL Agro,instance of,promoter
+60,JVL Agro,owned by,promoter

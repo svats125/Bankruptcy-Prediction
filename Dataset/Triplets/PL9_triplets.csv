@@ -1,0 +1,65 @@
+,head,type,tail
+0,ICICI Bank,owner of,Punj Lloyd
+1,Punj Lloyd,owned by,ICICI Bank
+2,ICICI Bank,significant event,insolvency plea
+3,ICICI Bank,subsidiary,Punj Lloyd
+4,Punj Lloyd Q3 net loss,point in time,Q3
+5,Punj Lloyd,has part,Q3 net loss
+6,Punj Lloyd,has part,Q3 net loss
+7,Q3 net loss,part of,Punj Lloyd
+8,Punj Lloyd,court,NCLT
+9,Punj Lloyd,owned by,IFC
+10,IFC,subsidiary,Punj Lloyd
+11,Punj Lloyd,parent organization,IFC
+12,Punj Lloyd,instance of,net loss
+13,Punj Lloyd Q1 net loss,point in time,Q1
+14,Punj Lloyd,has part,Q1 net loss
+15,NHAI,located in the administrative territorial entity,Odisha
+16,Punj Lloyd,member of sports team,NHAI
+17,Punj Lloyd,employer,NHAI
+18,Punj Lloyd,inception,"February 14, 2018"
+19,2018,point in time,2018
+20,Punj Lloyd,"dissolved, abolished or demolished date","February 14, 2018"
+21,Punj Lloyd Q2 net loss,point in time,Q2
+22,Punj Lloyd,has part,Q2 net loss
+23,Punj Lloyd,significant event,Q2 net loss
+24,Punj Lloyd,position held,AGM
+25,Punj Lloyd,instance of,AGM
+26,Outcome of AGM,facet of,Punj Lloyd
+27,Punj Lloyd,product or material produced,truck scanners
+28,Pune,country,India
+29,Punj Lloyd,industry,truck scanners
+30,Punj Lloyd,owned by,Avinnash Gorakssakar
+31,Punj Lloyd,has part,Avinnash Gorakssakar
+32,Punj Lloyd,owned by,Avinnash Gorakssakar
+33,Avinnash Gorakssakar,owner of,Punj Lloyd
+34,Punj Lloyd,instance of,order
+35,order,manufacturer,Punj Lloyd
+36,Punj Lloyd,award received,Rs 870 crore
+37,Punj Lloyd Q1 net loss,point in time,Q1
+38,Q1 net loss,season of club or team,Punj Lloyd
+39,Q1 net loss,winner,Punj Lloyd
+40,Punj Lloyd,inception,"August 12, 2017"
+41,Punj Lloyd,"dissolved, abolished or demolished date","August 12, 2017"
+42,Punj Lloyd's,inception,"August 12, 2017"
+43,Punj Lloyd,"dissolved, abolished or demolished date","August 12, 2017"
+44,Punj Lloyd,inception,"August 12, 2017"
+45,Punj Lloyd,end time,"August 12, 2017"
+46,2017,point in time,2017
+47,Punj Lloyd,end time,"May 27, 2017"
+48,Punj Lloyd,inception,"May 27, 2017"
+49,Punj Lloyd,headquarters location,Madhya Pradesh
+50,Punj Lloyd,location of formation,Madhya Pradesh
+51,Punj Lloyd,product or material produced,small arms
+52,Punj Lloyd arm,country,Saudi Arabia
+53,Punj Lloyd,country of citizenship,Saudi Arabia
+54,Punj Lloyd,country,Saudi Arabia
+55,Punj Lloyd,country,Saudi Arabia
+56,Punj Lloyd,country of citizenship,Saudi Arabia
+57,Saudi Arabia,owned by,Punj Lloyd
+58,Punj Lloyd,country,Saudi Arabia
+59,Punj Lloyd,country of citizenship,Saudi Arabia
+60,Saudi Arabia,owned by,Punj Lloyd
+61,2008 general election,point in time,2008
+62,2008 Indian general election,point in time,2008
+63,2014 Indian general election,point in time,2014

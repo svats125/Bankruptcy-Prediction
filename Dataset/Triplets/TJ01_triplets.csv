@@ -1,0 +1,64 @@
+,head,type,tail
+0,Akash,subclass of,Jain
+1,Avoid Tara Jewels,religion,Akash Jain
+2,Tara Jewels,religion,Akash Jain
+3,Tara Jewels,inception,"August 10, 2017"
+4,Tara Jewels,"dissolved, abolished or demolished date","August 10, 2017"
+5,Tara Jewels,end time,"August 10, 2017"
+6,Tara Jewels,inception,"February 10, 2017"
+7,Tara Jewels,"dissolved, abolished or demolished date","February 10, 2017"
+8,Tara Jewels,end time,"February 10, 2017"
+9,Tara Jewels,significant event,AGM
+10,Outcome of AGM,facet of,Tara Jewels
+11,Tara Jewels,instance of,AGM
+12,Tara Jewels,instance of,board meeting
+13,Tara Jewels,significant event,board meeting
+14,Tara Jewels,has part,board meeting
+15,Tara Jewels,instance of,AGM
+16,Tara Jewels,significant event,AGM
+17,Tara Jewels,inception,"September 19, 2016"
+18,Tara Jewels,instance of,board meeting
+19,Tara Jewels,significant event,board meeting
+20,Tara Jewels,has part,board meeting
+21,Tara Jewels,inception,"May 23, 2016"
+22,Tara Jewels,"dissolved, abolished or demolished date","May 23, 2016"
+23,Tara Jewels,end time,"May 23, 2016"
+24,Tara Jewels,end time,Dec '15
+25,Tara Jewels,inception,Dec '15
+26,Tara Jewels,significant event,Dec '15 sales
+27,Tara Jewels,instance of,board meeting
+28,Tara Jewels,significant event,board meeting
+29,Tara Jewels,has part,board meeting
+30,Tara Jewels,inception,"February 11, 2016"
+31,Tara Jewels,"dissolved, abolished or demolished date","February 11, 2016"
+32,Tara Jewels,end time,"February 11, 2016"
+33,Tara Jewels,inception,Sep '15
+34,Tara Jewels,end time,Sep '15
+35,Tara Jewels,significant event,Sep '15 sales
+36,Tara Jewels,inception,"November 10, 2015"
+37,Tara Jewels,"dissolved, abolished or demolished date","November 10, 2015"
+38,Tara Jewels,end time,"November 10, 2015"
+39,Tara Jewels,parent organization,Walmart
+40,Tara Jewels,parent organization,Walmart
+41,Walmart,subsidiary,Tara Jewels
+42,Tara Jewels,owned by,Walmart
+43,Tara Jewels,parent organization,Walmart
+44,Tara Jewels,parent organization,Walmart
+45,Walmart,subsidiary,Tara Jewels
+46,Tara Jewels,owned by,Walmart
+47,Tara Jewels,inception,Jun '15
+48,Tara Jewels,end time,Jun '15
+49,Tara Jewels,significant event,Jun '15 sales
+50,Tara Jewels,inception,"Sept 29, 2015"
+51,Tara Jewels,inception,"September 29, 2015"
+52,Tara Jewels,inception,2013
+53,Tara Jewels,inception,Mar '15
+54,Tara Jewels,end time,Mar '15
+55,Mar '15 sales,manufacturer,Tara Jewels
+56,Tara Jewels,instance of,Board Meeting
+57,Tara Jewels,has part,Board Meeting
+58,Board Meeting,part of,Tara Jewels
+59,Tara Jewels,has part,Board Meeting
+60,Tara Jewels,end time,Dec '14
+61,Tara Jewels,inception,Dec '14
+62,2014,point in time,2014

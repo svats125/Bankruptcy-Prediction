@@ -1,0 +1,63 @@
+,head,type,tail
+0,Jaypee Infratech,significant event,Q2 loss
+1,Jaypee Infratech,loss received,Q2 loss widens to Rs 613.87 crore
+2,Jaypee Infra,member of,NCLAT
+3,Jaypee Infra,court,NCLAT
+4,Jaypee Infra,court,NCLAT
+5,Jaypee Infra,court,NCLAT
+6,Q3 loss widens to Rs 427 cr.,parent organization,Jaypee Infratech
+7,Jaypee Infratech,loss of,Q3 loss
+8,Jaypee Infratech,loss of control,Q3 loss
+9,Jaypee Infratech,owned by,Yamuna Expressway
+10,Yamuna Expressway,owned by,Jaypee Infratech
+11,Yamuna Expressway,operator,Jaypee Infratech
+12,Jaypee Infra,inception,June 2019
+13,Jaypee Infra,end time,June 2019
+14,Jaypee Infra,instance of,Net Sales
+15,Jaypee Infra,headquarters location,Jaiprakash
+16,Jaypee Infra,headquarters location,Jaiprakash's
+17,Jaypee Infra,location of formation,Jaiprakash
+18,Jaypee homebuyers matter,court,SC
+19,Jaypee homebuyers matter,participant,Centre
+20,Jaypee homebuyers matter,applies to jurisdiction,Centre
+21,Jaypee Infra,instance of,insolvency
+22,Jaypee Infra insolvency,participant,NBCC
+23,Jaypee Infra,significant event,insolvency
+24,Jaypee Infratech,owned by,Adani Group
+25,Jaypee Infratech,parent organization,Adani Group
+26,Adani Group,owner of,Jaypee Infratech
+27,Jaypee Infratech,owned by,Adani Group
+28,non-binding,subclass of,IRP
+29,IRP,facet of,non-binding
+30,non-binding,instance of,IRP
+31,Jaypee insolvency case,participant,IDBI
+32,Jaypee insolvency case,has cause,IDBI
+33,Jaypee insolvency case,participant,IDBI
+34,IDBI,participant in,Jaypee insolvency case
+35,Jaypee Infratech,owned by,Suraksha Group
+36,Jaypee Infratech,owned by,NBCC
+37,Suraksha Group,subsidiary,Jaypee Infratech
+38,Jaypee Infratech,parent organization,Suraksha
+39,Jaypee Infratech,owned by,Suraksha
+40,Jaypee Infratech,parent organization,NBCC
+41,2014 Indian general election,point in time,2014
+42,2009 Indian general election,point in time,2009
+43,Jaypee Infratech,instance of,lenders
+44,Q3 net loss,point in time,Q3
+45,Jaypee Infratech,significant event,Q3 net loss
+46,Q3 net loss narrows to Rs 326 cr.,main subject,Jaypee Infratech
+47,Jaypee Infratech,instance of,lenders
+48,Jaypee Infratech,owned by,lenders
+49,Jaypee Infratech,parent organization,lenders
+50,Jaypee Infratech,instance of,bankruptcy
+51,Jaypee Infratech,significant event,bankruptcy
+52,Jaypee Infratech,"dissolved, abolished or demolished date",2015
+53,Jaypee Infratech,industry,home buyers
+54,Jaypee Infratech,instance of,bankruptcy
+55,Jaypee Infratech,industry,bankruptcy process
+56,Jaypee Infratech,instance of,independent director
+57,2008 general election,point in time,2008
+58,Jaypee Infratech,parent organization,Jaypee Infratech Limited
+59,Kolkata Stock Exchange,instance of,stock exchange
+60,Jaypee Infratech,parent organization,Jaypee Infratech Limited
+61,Jaypee Infratech,owned by,Jaypee Infratech Limited

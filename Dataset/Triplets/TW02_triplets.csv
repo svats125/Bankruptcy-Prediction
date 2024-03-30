@@ -1,0 +1,67 @@
+,head,type,tail
+0,Todays Writing Instruments,inception,"November 30, 2017"
+1,Todays Writing Instruments,end time,"November 30, 2017"
+2,Todays Writing Instruments,point in time,"November 30, 2017"
+3,Todays Writing,main subject,Outcome of Board Meeting
+4,Todays Writing,has part,Outcome of Board Meeting
+5,Outcome of Board Meeting,part of,Todays Writing
+6,Todays Writing,instance of,Writing
+7,Todays Writing,main subject,Outcome of board meeting
+8,Outcome of board meeting,published in,Todays Writing
+9,Todays Writing,has part,Outcome of board meeting
+10,Outcome of board meeting,part of,Todays Writing
+11,Rajiv Drolia,employer,Todays Writing Instruments
+12,Todays Writing Instruments,owned by,Rajiv Drolia
+13,Rajiv Drolia,occupation,CFO
+14,Todays Writing Instruments,inception,"August 07, 2015"
+15,Today Writing Instruments,inception,"August 07, 2015"
+16,Today's Writing Instruments,inception,"August 07, 2015"
+17,Todays Writing Instruments,parent organization,ICICI Bank
+18,ICICI Bank,subsidiary,Todays Writing Instruments
+19,Todays Writing Instruments,parent organization,ICICI Bank
+20,Today Writing Instruments,parent organization,ICICI Bank
+21,ICICI Bank,subsidiary,Today Writing Instruments
+22,Bhavika Shah,employer,Writing Instruments
+23,Bhavika Shah,position held,CO
+24,Bhavika Shah,member of,Writing Instruments
+25,Todays Writing Instruments,instance of,board meeting
+26,Todays Writing Instruments,instance of,writing instrument
+27,Today's Writing Instruments,publisher,Todays Writing Instruments
+28,Todays Writing,instance of,AGM
+29,Todays Writing's,instance of,AGM
+30,Todays Writing's AGM,instance of,AGM
+31,2013,point in time,2013
+32,2012,point in time,2012
+33,2011,point in time,2011
+34,Todays Writing Instruments,instance of,board meeting
+35,Todays Writing Instruments,instance of,writing instrument
+36,Today's Writing Instruments,publisher,Todays Writing Instruments
+37,Todays Writing Instruments,instance of,AGM
+38,Todays Writing Instruments,has part,AGM
+39,Todays Writing Instruments,has part,AGM
+40,AGM,part of,Todays Writing Instruments
+41,Todays Writing Instruments,instance of,AGM
+42,Today's Writing Instruments,publisher,Todays Writing Instruments
+43,Todays Writing Instruments,has part,AGM
+44,Todays Writing Instruments,instance of,AGM
+45,Today's Writing Instruments,instance of,AGM
+46,Todays Writing Instruments,has part,AGM
+47,2013,point in time,2013
+48,Todays Writing,inception,Jun '13
+49,Todays Writing,revenue level,11.09
+50,Todays Writing,instance of,compliance officer
+51,Todays Writing,instance of,company secretary
+52,Todays Writing,occupation,compliance officer
+53,2012,point in time,2012
+54,2011,point in time,2011
+55,2012,point in time,12
+56,Shreedhar M. Parande,employer,Todays Writing
+57,Todays Writing,founded by,Shreedhar M. Parande
+58,Today's Writing,director,Shreedhar M. Parande
+59,2012,point in time,2012
+60,Sep '12,point in time,12.68 crore
+61,Todays Writing Sep '12,point in time,Sep '12
+62,Todays Writing,instance of,AGM
+63,Todays Writing,has part,AGM
+64,Todays Writing,has part,AGM
+65,AGM,part of,Todays Writing

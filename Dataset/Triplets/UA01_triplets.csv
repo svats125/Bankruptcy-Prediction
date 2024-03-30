@@ -1,0 +1,64 @@
+,head,type,tail
+0,Usher Agro,owned by,Ajay Sharma
+1,Usher Agro,founded by,Ajay Sharma
+2,Usher Agro,owned by,Ajay Sharma
+3,Ajay Sharma,owner of,Usher Agro
+4,Usher Agro,inception,"February 14, 2017"
+5,Usher Agro,end time,"February 14, 2017"
+6,Usher Agro,"dissolved, abolished or demolished date","February 14, 2017"
+7,Usher Agro,instance of,board meeting
+8,Usher Agro,significant event,board meeting
+9,Usher Agro,has part,board meeting
+10,Usher Agro,"dissolved, abolished or demolished date","December 08, 2016"
+11,Usher Agro,end time,"December 08, 2016"
+12,Usher Agro,inception,"December 08, 2016"
+13,Usher Agro,instance of,board meeting
+14,Usher Agro,significant event,board meeting
+15,Usher Agro,has part,board meeting
+16,Usher Agro,"dissolved, abolished or demolished date","July 20, 2016"
+17,Usher Agro,end time,"July 20, 2016"
+18,Usher Agro,inception,"July 20, 2016"
+19,Usher Agro,inception,"June 20, 2016"
+20,Usher Agro,"dissolved, abolished or demolished date","June 20, 2016"
+21,Usher Agro,end time,"June 20, 2016"
+22,Usher Agro,"dissolved, abolished or demolished date","May 30, 2016"
+23,Usher Agro,inception,"May 30, 2016"
+24,Usher Agro,end time,"May 30, 2016"
+25,Usher Agro,owned by,Al Mada Project Management Company
+26,Usher Agro,parent organization,Al Mada Project Management Company
+27,Usher Agro,parent organization,Sohar Food Cluster Company LLC
+28,Usher Agro,end time,Dec '13
+29,Usher Agro,inception,Dec '13
+30,Usher Agro,industry,Rs 277.79 crore
+31,Swati Maheshwari,employer,Usher Agro
+32,Usher Agro,owned by,Swati Maheshwari
+33,Swati Maheshwari,employer,Usher Agro's
+34,Usher Agro,instance of,AGM
+35,Usher Agro,significant event,AGM
+36,Usher Agro,has part,AGM
+37,AGM,part of,Usher Agro
+38,Usher Agro,instance of,board meeting
+39,Usher Agro,significant event,board meeting
+40,Usher Agro,has part,board meeting
+41,Usher Agro,instance of,dividend
+42,Usher Agro,owned by,board
+43,Usher Agro,owner of,board to consider dividend
+44,Usher Agro,inception,Mar '13
+45,Usher Agro,end time,Mar '13
+46,Usher Agro,country,India
+47,Usher Agro,stock exchange,46
+48,Usher Agro,price range,46
+49,Usher Agro,market value,46
+50,Usher Agro,end time,Dec '12
+51,Usher Agro,inception,Dec '12
+52,Usher Agro,industry,Rs 248.51 crore
+53,Usher Agro,product or material produced,rice
+54,flour milling,subclass of,pulse milling
+55,rice,subclass of,&amp;amp; allied products
+56,Usher Agro,area,1.5
+57,Usher Agro,country,India
+58,Usher Agro,stock exchange,1.5
+59,Usher Agro,instance of,Dividend
+60,Usher Agro,owner of,Dividend &amp;amp; AGM
+61,Dividend &amp;amp; AGM,owned by,Usher Agro
+62,Usher Agro,stock exchange,Dividend &amp;amp; AGM

@@ -1,0 +1,62 @@
+,head,type,tail
+0,Splendid Metal Product,instance of,board meeting
+1,Outcome of board meeting,facet of,Splendid Metal Product
+2,Outcome of board meeting,main subject,Splendid Metal Product
+3,Splendid Metal,end time,"September 29, 2017"
+4,Splendid Metal,instance of,AGM
+5,Splendid Metal,point in time,"September 29, 2017"
+6,Sujana Metal Products,inception,"February 13, 2017"
+7,Sujana Metal Products,end time,"February 13, 2017"
+8,Sujana Metal Products,"dissolved, abolished or demolished date","February 13, 2017"
+9,Sujana Metal Products,significant event,board meeting
+10,Sujana Metal Products,instance of,board meeting
+11,Sujana Metal Products,owned by,Sujana Metal Products
+12,Sujana Metal Products,instance of,AGM
+13,Sujana Metal Products,significant event,AGM
+14,Sujana Metal Products,has part,AGM
+15,Sujana Metal Products,instance of,AGM
+16,Sujana Metal Products AGM,point in time,"Sept 30, 2016"
+17,Sujana Metal Products,inception,"Sept 30, 2016"
+18,Sujana Metal Products,significant event,board meeting
+19,Sujana Metal Products,instance of,board meeting
+20,Sujana Metal Products,owned by,Sujana Metal Products
+21,preferential basis,subclass of,equity shares
+22,preferential,subclass of,equity shares
+23,Sujana Metal Products,owned by,Yalamanchili Finance
+24,Sujana Metal Products,significant event,board meeting
+25,Sujana Metal Products,instance of,board meeting
+26,Sujana Metal Products,owned by,Sujana Metal Products
+27,Sujana Metal Products,inception,"Dec 28, 2015"
+28,Sujana Metal Products,inception,"December 28, 2015"
+29,Sujana Metal Products,owned by,Sujana Metal Products
+30,Sujana Metal Products,instance of,AGM
+31,Sujana Metal Products,significant event,AGM
+32,Sujana Metal Products,has part,AGM
+33,Sujana Metal Products,significant event,board meeting
+34,Sujana Metal Products,instance of,board meeting
+35,Sujana Metal Products,owned by,Sujana Metal Products
+36,Sujana Metal Products,significant event,board meeting
+37,Sujana Metal Products,instance of,board meeting
+38,Sujana Metal Products,owned by,Sujana Metal Products
+39,Sujana Metal Products,instance of,registered office
+40,Sujana Metal Products,headquarters location,registered office
+41,Suzana Metal Products,instance of,registered office
+42,Sujana Metal Products,significant event,board meeting
+43,Sujana Metal Products,instance of,board meeting
+44,Sujana Metal Products,owned by,Sujana Metal Products
+45,Sujana Metal Products,significant event,board meeting
+46,Sujana Metal Products,instance of,board meeting
+47,Sujana Metal Products,owned by,Sujana Metal Products
+48,Sujana Metal,end time,Dec '13
+49,Sujana Metal,revenue stream,764.91
+50,Sujana Metal,industry,764.91 crore
+51,Sujana Metal,has part,management committee
+52,Sujana Metal,has part,management committee meeting
+53,Sujana Metal,has part,management committee
+54,management committee,part of,Sujana Metal
+55,Sujana Metal,end time,Sep '13
+56,Sujana Metal,inception,Sep '13
+57,Sujana Metal,"dissolved, abolished or demolished date",Sep '13
+58,Sujana Metal Products,instance of,AGM
+59,Sujana Metal Products,significant event,AGM
+60,Sujana Metal Products,has part,AGM

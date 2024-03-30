@@ -1,0 +1,72 @@
+,head,type,tail
+0,2018,point in time,2018
+1,2018 FIFA World Cup,point in time,2018
+2,PSL,inception,"August 09, 2018"
+3,2013,point in time,2013
+4,PSL,owned by,PSL
+5,PSL,has part,board meeting
+6,board meeting,part of,PSL
+7,2009,point in time,2009
+8,PSL,owned by,PSL
+9,PSL,has part,board meeting
+10,board meeting,part of,PSL
+11,2009,point in time,2009
+12,PSL,owned by,PSL
+13,PSL,has part,board meeting
+14,board meeting,part of,PSL
+15,board meeting,point in time,"May 9, 2017"
+16,2017,point in time,2017
+17,"board meeting on May 9, 2017",point in time,"May 9, 2017"
+18,2017,point in time,2017
+19,2017 FIFA World Cup,point in time,2017
+20,PSL,organizer,USL
+21,2009,point in time,2009
+22,PSL,owned by,PSL
+23,PSL,has part,board meeting
+24,board meeting,part of,PSL
+25,2009,point in time,2009
+26,PSL,owned by,PSL
+27,PSL,has part,board meeting
+28,board meeting,part of,PSL
+29,PSL,has part,AGM
+30,AGM,part of,PSL
+31,PSL,has part,AGM
+32,PSL,organizer,PSL
+33,Shashi Ranjan,occupation,Company Secretary
+34,PSL,office held by head of the organization,Company Secretary
+35,Shashi Ranjan,member of sports team,PSL
+36,PSL,owned by,Prakash Vinayak Apte
+37,PSL,chairperson,Prakash Vinayak Apte
+38,Prakash Vinayak Apte,employer,PSL
+39,Geeta Poojary,member of sports team,PSL
+40,Geeta Poojary,occupation,nominee director
+41,PSL,office held by head of the organization,nominee director
+42,subsidiary company,league,PSL
+43,PSL,subsidiary,subsidiary company
+44,subsidiary company,parent organization,PSL
+45,PSL,owner of,subsidiary company
+46,subsidiary company,owned by,PSL
+47,AGM,organizer,PSL
+48,PSL,has part,AGM
+49,AGM,part of,PSL
+50,PSL,has part,AGM
+51,PSL,industry,77.74 crore
+52,PSL,revenue stream,77.74 crore
+53,PSL,revenue received,77.74 crore
+54,2009,point in time,2009
+55,PSL,owned by,PSL
+56,PSL,has part,board meeting
+57,board meeting,part of,PSL
+58,PSL,inception,2013
+59,PSL,inception,"Oct 30, 2013"
+60,2013,point in time,2013
+61,PSL,organizer,ICICI Bank
+62,PSL,owned by,ICICI Bank
+63,ICICI Bank,part of,PSL
+64,2013,point in time,2013
+65,PSL standalone,inception,Jun '13
+66,PSL,industry,Rs 203.20 crore
+67,PSL,organizer,PSL
+68,PSL,has part,financial year
+69,financial year,part of,PSL
+70,PSL,organizer,USL

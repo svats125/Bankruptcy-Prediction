@@ -1,0 +1,64 @@
+,head,type,tail
+0,Bajaj Auto,instance of,stock
+1,Bajaj Auto,instance of,stock falls 4%
+2,Bajaj Auto,significant event,stock falls 4%
+3,Bajaj Auto,owned by,KR Choksey
+4,Bajaj Auto,country,India
+5,Bajaj Auto,owned by,Bajaj Auto
+6,Bajaj Auto,stock exchange,Motilal Oswal
+7,Bajaj Auto,owned by,Motilal Oswal
+8,Q3,winner,Bajaj Auto
+9,Bajaj Auto,owned by,Sharekhan
+10,Bajaj Auto,stock exchange,7567
+11,Bajaj Auto,owned by,Bajaj Auto
+12,Q3,winner,Bajaj Auto
+13,Q3,manufacturer,Bajaj Auto
+14,Q3 beats estimates,manufacturer,Bajaj Auto
+15,December sales,manufacturer,Bajaj Auto
+16,Bajaj Auto,has part,December sales
+17,Bajaj Auto,has part,December sales
+18,December sales,part of,Bajaj Auto
+19,Bajaj Auto,point in time,November
+20,sales grow 31% in November,manufacturer,Bajaj Auto
+21,Bajaj Auto,subsidiary,Bajaj Auto Sales
+22,September sales,manufacturer,Bajaj Auto
+23,September sales down 1%,manufacturer,Bajaj Auto
+24,September sales down 1%,publisher,Bajaj Auto
+25,Bajaj Auto,"dissolved, abolished or demolished date",July
+26,sales dip 10% in July,point in time,July
+27,Bajaj Auto,significant event,Bajaj Auto sales dip 10% in July
+28,Bajaj Auto,owned by,KR Choksey
+29,Bajaj Auto,country,India
+30,Bajaj Auto,owned by,KR Choksey
+31,KR Choksey,owner of,Bajaj Auto
+32,Bajaj Auto,owned by,LKP Research
+33,Bajaj Auto,owned by,Bajaj Auto
+34,Bajaj Auto,stock exchange,LKP Research
+35,Bajaj Auto,owned by,Motilal Oswal
+36,Bajaj Auto,stock exchange,Motilal Oswal
+37,Bajaj Auto,owned by,Motilal Oswal
+38,Motilal Oswal,owner of,Bajaj Auto
+39,Bajaj Auto,owned by,Emkay Global Financial
+40,Bajaj Auto,stock exchange,Emkay Global Financial
+41,Bajaj Auto,parent organization,Emkay Global Financial
+42,Bajaj Auto,owned by,HDFC Securities
+43,Bajaj Auto,stock exchange,HDFC Securities
+44,Bajaj Auto,stock exchange,4438
+45,Bajaj Auto,owned by,Sharekhan
+46,Bajaj Auto,country,India
+47,Bajaj Auto,owned by,Bajaj Auto
+48,Bajaj Auto,owned by,Axis Securities
+49,Axis Securities,owner of,Bajaj Auto
+50,Axis Securities,subsidiary,Bajaj Auto
+51,Bajaj Auto,country,India
+52,Bajaj Auto,owned by,Prabhudas Lilladher
+53,Bajaj Auto,owned by,Bajaj Auto Ltd
+54,Bajaj Auto,owned by,Sharekhan
+55,Bajaj Auto,stock exchange,5600
+56,Bajaj Auto,owned by,shareskhan
+57,Rakesh Sharma,employer,Bajaj Auto
+58,Bajaj Auto,owned by,Rakesh Sharma
+59,Bajaj Auto,founded by,Rakesh Sharma
+60,April total sales,manufacturer,Bajaj Auto
+61,April,point in time,April 2013
+62,Bajaj Auto,point in time,April

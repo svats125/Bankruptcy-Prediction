@@ -1,0 +1,72 @@
+,head,type,tail
+0,Ban on products,participant,RBI&rsquo;s
+1,Ban on products,participant,RBI&rsquo;
+2,Bajaj Finance,owned by,Bajaj Investment Bank
+3,Bajaj Finance,owned by,KR Choksey
+4,Bajaj Finance,stock exchange,8600
+5,Bajaj Finance,owned by,KR Choksey
+6,KR Choksey,owner of,Bajaj Finance
+7,Bajaj Finance,product or material produced,NII
+8,Bajaj Finance,industry,NII
+9,Bajaj Finance,has part,Bajaj Finance Q3 Preview
+10,Pennant Technologies,owned by,Bajaj Finance
+11,Bajaj Finance,owner of,Pennant Technologies
+12,Pennant Technologies,owned by,Bajaj Finance
+13,Bajaj Finance,subsidiary,Pennant Technologies
+14,Pennant Technologies,parent organization,Bajaj Finance
+15,Bajaj Finance,owned by,Motilal Oswal
+16,Bajaj Finance,owned by,Motilal Oswal
+17,Motilal Oswal,owner of,Bajaj Finance
+18,Bajaj Finance,stock exchange,Motilal Oswal
+19,Bajaj Finance,owned by,Geojit
+20,Bajaj Finance,stock exchange,Geojit
+21,Bajaj Finance,owned by,Geojit
+22,Geojit,owner of,Bajaj Finance
+23,Bajaj Finance,owned by,Motilal Oswal
+24,Bajaj Finance,owned by,Motilal Oswal
+25,Motilal Oswal,owner of,Bajaj Finance
+26,Bajaj Finance,stock exchange,Motilal Oswal
+27,Bajaj Finance,owned by,Sharekhan
+28,Bajaj Finance,stock exchange,Sharekhan
+29,Sharekhan,owner of,Bajaj Finance
+30,Bajaj Finance,owned by,KR Choksey
+31,Bajaj Finance,owned by,KR Choksey
+32,KR Choksey,owner of,Bajaj Finance
+33,Bajaj Finance,country,India
+34,Bajaj Finance,owned by,Sharekhan
+35,Bajaj Finance,stock exchange,Sharekhan
+36,Bajaj Finance,owned by,shareskhan
+37,Bajaj Finance,owned by,ICICI Direct
+38,Bajaj Finance,stock exchange,ICICI Direct
+39,Bajaj Finance,owned by,ICICI Direct
+40,ICICI Direct,owner of,Bajaj Finance
+41,Bajaj Finance,owned by,Motilal Oswal
+42,Bajaj Finance,owned by,Motilal Oswal
+43,Motilal Oswal,owner of,Bajaj Finance
+44,Bajaj Finance,stock exchange,Motilal Oswal
+45,Bajaj Finance,owned by,YES Securities
+46,Bajaj Finance,stock exchange,YES Securities
+47,Bajaj Finance,owned by,Yes Securities
+48,Bajaj Finance,owned by,Prabhudas Lilladher
+49,Bajaj Finance,stock exchange,7835
+50,Bajaj Finance,stock price,7835
+51,Bajaj Finance,instance of,Net profit
+52,Bajaj Finance,has part,Q4 earnings
+53,Bajaj Finance,stock exchange,"3,158 crore"
+54,Bajaj Finance,owned by,KR Choksey
+55,Bajaj Finance,stock price,8030
+56,Bajaj Finance,stock exchange,8030
+57,Bajaj Finance,owned by,Sharekhan
+58,Bajaj Finance,stock exchange,Sharekhan
+59,Bajaj Finance,owned by,shareskhan
+60,Bajaj Finance,owned by,ICICI Direct
+61,Bajaj Finance,stock exchange,ICICI Direct
+62,Bajaj Finance,owned by,ICICI Direct
+63,ICICI Direct,owner of,Bajaj Finance
+64,Bajaj Finance,owned by,Prabhudas Lilladher
+65,Bajaj Finance,stock exchange,7835
+66,Bajaj Finance,stock price,7835
+67,Bajaj Finance,owned by,Motilal Oswal
+68,Bajaj Finance,owned by,Motilal Oswal
+69,Motilal Oswal,owner of,Bajaj Finance
+70,Bajaj Finance,stock exchange,Motilal Oswal

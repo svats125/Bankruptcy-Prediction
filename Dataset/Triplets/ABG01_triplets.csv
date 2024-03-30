@@ -1,0 +1,38 @@
+,head,type,tail
+0,ABG Shipyard,significant event,board meeting
+1,ABG Shipyard,participant in,board meeting
+2,ABG Shipyard,has part,board meeting
+3,ABG Shipyard,significant event,AGM
+4,ABG Shipyard,participant in,AGM
+5,ABG Shipyard,has effect,AGM
+6,ABG Shipyard,instance of,shipyard
+7,ABG Shipyard,has part,committee meeting
+8,ABG Shipyard,has part,committee meeting
+9,committee meeting,part of,ABG Shipyard
+10,ABG Shipyard,instance of,debt
+11,ABG Shipyard,owned by,ABG Shipyard board
+12,ABG Shipyard,significant event,restructuring of debt
+13,Ashish Pandey,employer,ABG Shipyard
+14,ABG Shipyard,owned by,Ashish Pandey
+15,ABG Shipyard,chairperson,Ashish Pandey
+16,ABG Shipyard,significant event,Q4 net loss
+17,ABG Shipyard,has part,Q4 net loss
+18,ABG Shipyard,loss of profit,Q4 net loss
+19,ABG Shipyard,significant event,board meeting
+20,ABG Shipyard,participant in,board meeting
+21,ABG Shipyard,has part,board meeting
+22,ABG Shipyard,"dissolved, abolished or demolished date","May 30, 2016"
+23,ABG Shipyard,inception,"May 30, 2016"
+24,ABG Shipyard,end time,"May 30, 2016"
+25,ABG Shipyard,instance of,Shipyard
+26,ABG Shipyard,instance of,strategic investor
+27,ABG Shipyard,industry,strategic investor
+28,bidding war,industry,ship-builders
+29,bidding war,industry,ship-builder
+30,messy bidding war,industry,ship-builders
+31,ABG Shipyard,instance of,Shipyard
+32,ABG Shipyard,instance of,shipyard
+33,ABG Shipyard,owned by,ABG Shipyard
+34,Dheeraj Sharma,employer,ABG Shipyard
+35,ABG Shipyard,owned by,Dheeraj Sharma
+36,ABG Shipyard,office held by head of the organization,CO

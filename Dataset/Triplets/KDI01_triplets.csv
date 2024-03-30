@@ -1,0 +1,66 @@
+,head,type,tail
+0,Bank of India,instance of,bank
+1,Bank of India,instance of,banks
+2,Kwality,owned by,Bank of India
+3,Kwality insolvency,court,NCLT
+4,NCLT,has part,Kwality insolvency
+5,NCLT,has effect,Kwality insolvency
+6,Kwality,industry,dairy
+7,Kwality,industry,dairy firm
+8,KKR,owner of,Kwality
+9,Kwality,owned by,KKR
+10,Kwality,owned by,KR Choksey
+11,Kwality,owned by,KR Choksey
+12,KR Choksey,owner of,Kwality
+13,Kolkata,country,India
+14,Kwality,instance of,company
+15,Kwality,owned by,Kwality
+16,Kwality,owned by,Kwality Ltd.
+17,milk,part of,cow's
+18,milk,subclass of,cow's
+19,cow's milk,subclass of,nutrition
+20,Kwality,instance of,net profit
+21,Kwality,number of episodes,20
+22,Kwality,loss of profit,Q3
+23,Kwality,inception,"November 14, 2017"
+24,Kwality's,inception,"November 14, 2017"
+25,Kwality,point in time,"November 14, 2017"
+26,Kuldeep Sharma,employer,Kwality
+27,Kuldeep Sharma,member of,Kwality
+28,Kolkata,country,India
+29,Kwality,director,Satyendra Kumar Bhalla
+30,Kwality's,director,Satyendra Kumar Bhalla
+31,Kwality,director,Satyendra Kumar Bhalla
+32,Satyendra Kumar Bhalla,notable work,Kwality
+33,Kwality,author,Scrutinizer's Report
+34,Scrutinizer's Report,author,Kwality
+35,Kwality,author,Scrutinizer
+36,Kwality,instance of,board meeting
+37,Kwality,instance of,board
+38,Kwality,has part,board meeting
+39,board meeting,part of,Kwality
+40,Holy Cow!,main subject,dairy stocks
+41,Holy Cow,main subject,dairy stocks
+42,Holy Cow,main subject,dairy
+43,Kwality,inception,"May 26, 2017"
+44,Kwality,point in time,"May 26, 2017"
+45,Kwality,end time,"May 26, 2017"
+46,Kwality,inception,"May 26, 2017"
+47,Kwality,point in time,"May 26, 2017"
+48,Kwality's,inception,"May 26, 2017"
+49,Kwality,owned by,KR Choksey
+50,KR Choksey,employer,Kwality Ltd.
+51,Kwality Ltd,owned by,KR Choksey
+52,Kwality,instance of,net profit
+53,Q3 net profit,point in time,Q3
+54,Kwality,has part,Q3 net profit
+55,Kwality,owned by,KR Choksey
+56,Buy Kwality,owned by,KR Choksey
+57,Kwality,owned by,KR Choksey
+58,KR Choksey,owner of,Kwality
+59,Haryana,manufacturer,Kwality
+60,Haryana,manufacturer,Kwality's
+61,Haryana,owned by,Kwality
+62,Softa,located in the administrative territorial entity,Haryana
+63,Softa plant,located in the administrative territorial entity,Haryana
+64,Kwality,headquarters location,Softa

@@ -1,0 +1,69 @@
+,head,type,tail
+0,Tata Elxsi,owned by,Sharekhan
+1,Tata Elxsi,stock exchange,7500
+2,Tata Elxsi,owned by,Tata Elxsi
+3,Tata Elxsi,owned by,KR Choksey
+4,Tata Elxsi,owner of,Elxsi
+5,Elxsi,owned by,Tata Elxsi
+6,Tata Elxsi,subsidiary,Elxsi
+7,Elxsi,parent organization,Tata Elxsi
+8,Tata Elxsi,instance of,Net profit
+9,Tata Elxsi Q1 results,parent organization,Tata Elxsi
+10,Tata Elxsi,significant event,Q1 results
+11,Tata Elxsi,owned by,Sharekhan
+12,Tata Elxsi,stock exchange,7500
+13,Tata Elxsi,owned by,Tata Elxsi
+14,Tata Elxsi,stock exchange,6185
+15,Tata Elxsi,owned by,Sharekhan
+16,Tata Elxsi,stock exchange,Sharekhan
+17,Tata Elxsi,stock exchange,7500
+18,Tata Elxsi,subsidiary,Elxsi
+19,Elxsi,parent organization,Tata Elxsi
+20,Tata Elxsi,parent organization,Elxsi
+21,Tata Elxsi,owned by,Sharekhan
+22,Tata Elxsi,stock exchange,9750
+23,Tata Elxsi,stock price,9750
+24,Tata Elxsi,owned by,Sharekhan
+25,Tata Elxsi,stock exchange,Sharekhan
+26,Tata Elxsi,owned by,Tata Elxsi
+27,Tata Elxsi,owned by,KR Choksey
+28,Tata Elxsi,owned by,Tata
+29,Tata Elxsi,subsidiary,Elxsi
+30,Elxsi,parent organization,Tata Elxsi
+31,Tata Elxsi,stock exchange,6755
+32,Tata Elxsi,stock price,6755
+33,Tata Elxsi,owned by,Choice Equity Broking
+34,Tata Elxsi,owned by,Sharekhan
+35,Tata Elxsi,country,India
+36,Tata Elxsi,stock exchange,Sharekhan
+37,Tata Elxsi,owned by,Sharekhan
+38,Tata Elxsi,stock exchange,Sharekhan
+39,Tata Elxsi,country,India
+40,Tata Elxsi,significant event,Q1 profit
+41,Tata Elxsi,significant event,Q1 profit
+42,Q1 profit,winner,Tata Elxsi
+43,Tata Elxsi,profit received,Q1 profit up over 64% to Rs 113.4 crore
+44,Tata Elxsi,instance of,Hot Stocks
+45,Tata Elxsi,instance of,Hot Stocks
+46,CSB Bank,instance of,Hot Stocks
+47,CCL Products,instance of,Hot Stocks
+48,Tata Elxsi,part of,Hot Stocks
+49,Tata Elxsi,owned by,Sharekhan
+50,Tata Elxsi,stock exchange,Sharekhan
+51,Tata Elxsi,owned by,Tata Elxsi
+52,Tata Elxsi,owned by,Sharekhan
+53,Tata Elxsi,stock exchange,Sharekhan
+54,Tata Elxsi,owned by,Tata Elxsi
+55,Tata Elxsi,owned by,Sharekhan
+56,Tata Elxsi,stock exchange,2850
+57,Tata Elxsi,owned by,Tata Elxsi
+58,Tata Elxsi,owned by,Sharekhan
+59,Tata Elxsi,stock exchange,2315
+60,Tata Elxsi,owned by,Tata Elxsi
+61,Tata Elxsi,owned by,Tata
+62,Tata Elxsi,stock exchange,1064
+63,Tata Elxsi,owner of,Elxsi
+64,Elxsi,owned by,Tata Elxsi
+65,Tata Elxsi,instance of,net profit
+66,Tata Elxsi,significant event,Q1 net profit
+67,Tata Elxsi,has part,Q1 net profit

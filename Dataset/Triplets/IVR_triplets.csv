@@ -1,0 +1,67 @@
+,head,type,tail
+0,Q2 net loss,point in time,Q2
+1,Q2,point in time,Q2
+2,IIRCL,loss of money,Q2
+3,IVRCL,instance of,Resolution professional
+4,Resolution professional,field of this occupation,IVRCL
+5,IVRCL,practiced by,Resolution professional
+6,IVRCL,field of work,Resolution professional
+7,IVRCL,product or material produced,arms
+8,IVRCL,owned by,Singapore
+9,IVRCL,owned by,Singapore
+10,Singapore,owner of,IVRCL
+11,Srcs,parent organization,RBI
+12,Srcs,part of,RBI
+13,second list of about 40 loan defaulters,subclass of,insolvency proceedings
+14,IVRCL,inception,"August 14, 2017"
+15,VIRCL,inception,"August 14, 2017"
+16,IRIRCL,inception,"August 14, 2017"
+17,Q3 net loss,point in time,Q3
+18,IVRCL,has part,Q3 net loss
+19,Q2,point in time,Q2
+20,Q2 net loss,point in time,Q2
+21,IIRCL,loss of money,Q2
+22,IVRCL,parent organization,Essel Infraprojects
+23,IVRCL,parent organization,Essel Infraprojects
+24,Essel Infraprojects,subsidiary,IVRCL
+25,Essel Infraprojects,subsidiary,IVRCL
+26,IVRCL,instance of,AGM
+27,IVRCL,has part,AGM
+28,AGM,part of,IVRCL
+29,2014,point in time,2014
+30,Bank of Nova Scotia,owner of,IVRCL
+31,Bank of Nova Scotia,subsidiary,IVRCL
+32,IVRCL,owned by,Bank of Nova Scotia
+33,IVRCL,inception,"May 30, 2016"
+34,VIRCL,inception,"May 30, 2016"
+35,IVRCL,end time,"May 30, 2016"
+36,EGM,facet of,IVRCL
+37,EGM,applies to jurisdiction,IVRCL
+38,IVRCL,has part,EGM
+39,EGM,part of,IVRCL
+40,Lenders,product or material produced,equity
+41,loan,different from,equity
+42,equity,different from,loan
+43,IVRCL,parent organization,IVRCL
+44,India Inc,product or material produced,shares
+45,7-year high,facet of,India Inc
+46,shares reach 7-year high of Rs 2 lakh cr.,owned by,India Inc
+47,IVRCL,country,India
+48,IVRCL,industry,Rs 350.96cr
+49,IVRCL,product or material produced,Rs 350.96cr
+50,IVRCL EGM,point in time,"Jan 18, 2016"
+51,"IVRCL EGM on Jan 18, 2016",point in time,"Jan 18, 2016"
+52,IVRCL,inception,"Jan 18, 2016"
+53,IVRCL,instance of,float
+54,IVRCL,instance of,float two separate companies
+55,IVRCL,parent organization,IVRCL
+56,IVRCL board meeting,point in time,"Dec 19, 2015"
+57,IVRCL,inception,"Dec 19, 2015"
+58,IVRCL,inception,"December 19, 2015"
+59,IVRCL,owned by,IDBI Bank
+60,IVRCL,parent organization,IDBI Bank
+61,IDBI Bank,owner of,IVRCL
+62,IVRCL,owned by,IDBI Bank
+63,IVRCL,inception,"November 13, 2015"
+64,VIRCL,inception,"November 13, 2015"
+65,IRIRCL,inception,"November 13, 2015"

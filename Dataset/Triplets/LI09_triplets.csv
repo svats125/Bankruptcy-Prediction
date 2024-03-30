@@ -1,0 +1,70 @@
+,head,type,tail
+0,Eurolife FFH,subsidiary,LTIMindtree
+1,LTIMindtree,parent organization,Eurolife FFH
+2,LTIMindtree,parent organization,Eurolife FFH
+3,Eurolife FFH,subsidiary,LTIMindtree
+4,LTIMindtree,owned by,Motilal Oswal
+5,LTIMindtree,owned by,Motilal Oswal
+6,Motilal Oswal,owner of,LTIMindtree
+7,LTIMindtree,stock exchange,Motilal Oswal
+8,LTIMindtree,owned by,Sharekhan
+9,Sharekhan,owner of,LTIMindtree
+10,Sharekhan,subsidiary,LTIMindtree
+11,LTIMindtree,owned by,YES Securities
+12,LTIMindtree,owned by,Yes Securities
+13,LTIMindtree,stock exchange,7585
+14,LTIMindtree,instance of,Net profit
+15,LTIMindtree,revenue level,"1,169"
+16,LTIMindtree,stock exchange,"1,169 crore"
+17,LTIMindtree,shares,14%
+18,LTIMindtree,drop in price,14%
+19,LTIMindtree,stock performance,14%
+20,Infineon Tech,subsidiary,SAP
+21,SAP,parent organization,Infineon Tech
+22,Infineon Tech,subsidiary,SAP
+23,Infineon Tech,owner of,SAP
+24,SAP,owned by,Infineon Tech
+25,LTIMindtree,owned by,Motilal Oswal
+26,LTIMindtree,owned by,Motilal Oswal
+27,Motilal Oswal,owner of,LTIMindtree
+28,LTIMindtree,stock exchange,Motilal Oswal
+29,LTIMindtree,owned by,YES Securities
+30,LTIMindtree,owned by,Yes Securities
+31,LTIMindtree,stock exchange,6190
+32,LTIMindtree,owned by,HDFC Securities
+33,LTIMindtree,stock exchange,5820
+34,LTIMindtree,stock price,5820
+35,LTIMindtree,instance of,Net profit
+36,LTIMindtree,stock exchange,"1,152 crore"
+37,LTIMindtree,revenue level,"1,152"
+38,Q1,point in time,Q1
+39,LTIMindtree,point in time,Q1
+40,LTIMindtree,instance of,revenue growth
+41,LTIMindtree,owned by,Sharekhan
+42,Sharekhan,owner of,LTIMindtree
+43,LTIMindtree,stock exchange,Sharekhan
+44,LTIMindtree,owned by,Motilal Oswal
+45,LTIMindtree,owned by,Motilal Oswal
+46,Motilal Oswal,owner of,LTIMindtree
+47,LTIMindtree,stock exchange,Motilal Oswal
+48,LTIMindtree,owned by,ICICI Direct
+49,LTIMindtree,stock exchange,ICICI Direct
+50,LTIMindtree,owned by,ICICI Direct
+51,ICICI Direct,owner of,LTIMindtree
+52,LTIMindtree,owned by,Sharekhan
+53,Sharekhan,owner of,LTIMindtree
+54,Sharekhan,subsidiary,LTIMindtree
+55,LTIMindtree,owned by,Motilal Oswal
+56,LTIMindtree,owned by,Motilal Oswal
+57,Motilal Oswal,owner of,LTIMindtree
+58,LTIMindtree,stock exchange,Motilal Oswal
+59,LTIMindtree,owned by,Emkay Global Financial
+60,LTIMindtree,stock exchange,Emkay Global Financial
+61,LTIMindtree,owned by,Emkay Global Financial
+62,Emkay Global Financial,owner of,LTIMindtree
+63,LTIMindtree,owned by,Anand Rathi
+64,Anand Rathi,employer,LTIMindtree
+65,Anand Rathi,owner of,LTIMindtree
+66,LTIMindtree,owned by,Sharekhan
+67,LTIMindtree,stock exchange,Sharekhan
+68,LTIMindtree,owned by,shareskhan

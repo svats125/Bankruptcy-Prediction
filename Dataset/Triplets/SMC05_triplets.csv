@@ -1,0 +1,61 @@
+,head,type,tail
+0,SEL Manufacturing Company,inception,"November 14, 2017"
+1,SEL Manufacturing Company,"dissolved, abolished or demolished date","November 14, 2017"
+2,SEL Manufacturing Company,point in time,"November 14, 2017"
+3,SEL Manufacturing Company,inception,"August 12, 2017"
+4,SEL Manufacturing Company,"dissolved, abolished or demolished date","August 12, 2017"
+5,SEL Manufacturing Company,point in time,"August 12, 2017"
+6,SEL Manufacturing Company,inception,"May 30, 2017"
+7,SEL Manufacturing Company,"dissolved, abolished or demolished date","May 30, 2017"
+8,SEL Manufacturing Company,end time,"May 30, 2017"
+9,SEL Manufacturing Company,inception,"September 12, 2016"
+10,SEL Manufacturing Company,"dissolved, abolished or demolished date","September 12, 2016"
+11,SEL Manufacturing Company,end time,"September 12, 2016"
+12,SEL Manufacturing Company,inception,"May 24, 2016"
+13,SEL Manufacturing Company,"dissolved, abolished or demolished date","May 24, 2016"
+14,SEL Manufacturing Company,end time,"May 24, 2016"
+15,SEL Mgf Company,industry,572.71 crore
+16,SEL Mgf Company,revenue stream,572.71 crore
+17,SEL Mgf,parent organization,SEL Mgf Company
+18,SEL Manufacturing Company,inception,"February 11, 2016"
+19,SEL Manufacturing Company,"dissolved, abolished or demolished date","February 11, 2016"
+20,SEL Manufacturing Company,end time,"February 11, 2016"
+21,SEL Mgf,inception,Sep '15
+22,SEL Mgf Company,revenue stream,653.68 crore
+23,SEL Mgf,revenue stream,653.68 crore
+24,SEL Manufacturing,inception,"November 10, 2015"
+25,SEL Manufacturing,"dissolved, abolished or demolished date","November 10, 2015"
+26,SEL Manufacturing,end time,"November 10, 2015"
+27,SEL Manufacturing Company,significant event,AGM
+28,SEL Manufacturing Company,participant in,AGM
+29,SEL Manufacturing Company,instance of,AGM
+30,SEL Mgf Company,industry,649.96 crore
+31,SEL Mgf Company,revenue stream,649.96 crore
+32,SEL Mgf,industry,649.96 crore
+33,SEL Mgf,inception,Mar '15
+34,SEL Mgf Company,inception,Mar '15
+35,SEL Mgf Company,revenue level,915.97
+36,SEL Manufacturing,"dissolved, abolished or demolished date","May 30, 2015"
+37,SEL Manufacturing,end time,"May 30, 2015"
+38,SEL Manufacturing,inception,"May 30, 2015"
+39,Paramjit Kaur,employer,SEL Manufacturing
+40,SEL Manufacturing,owned by,Paramjit Kaur
+41,SEL Manufacturing,chairperson,Paramjit Kaur
+42,SEL Mgf Company,end time,Dec '14
+43,SEL Mgf,parent organization,SEL Mgf Company
+44,SEL Mgf,owned by,SEL Mgf Company
+45,SEL Manufacturing Company,significant event,board meeting
+46,SEL Manufacturing Company,participant in,board meeting
+47,SEL Manufacturing Company,has part,board meeting
+48,SEL Mgf Company,industry,877.04 crore
+49,SEL Mgf Company,revenue stream,877.04 crore
+50,SEL Mgf,end time,Dec '13
+51,SEL Manufacturing Company,significant event,AGM
+52,SEL Manufacturing Company,participant in,AGM
+53,SEL Manufacturing Company,instance of,AGM
+54,SEL Manufacturing Company,significant event,AGM
+55,SEL Manufacturing Company,instance of,AGM
+56,SEL Manufacturing Company,has part,AGM
+57,SEL Manufacturi,inception,Jun '13
+58,SEL Manufacturi,country,India
+59,SEL Manufacturi,revenue level,"1,306.00"

@@ -1,0 +1,64 @@
+,head,type,tail
+0,schizophrenia drug,manufacturer,Orchid Pharma
+1,schizophrenia drug,developer,Orchid Pharma
+2,schizophrenia,drug used for treatment,drug
+3,drug,medical condition treated,schizophrenia
+4,Orchid Pharma,headquarters location,Alathur
+5,Orchid Pharma,location of formation,Alathur
+6,Orchid Pharma,located in the administrative territorial entity,Alathur
+7,Orchid Pharma,instance of,AGM
+8,Orchid Pharma,significant event,AGM
+9,Orchid Pharma,has part,AGM
+10,Orchid Pharma,inception,"September 13, 2017"
+11,Orchid Pharma,end time,"September 13, 2017"
+12,Orchid Pharma,point in time,"September 13, 2017"
+13,Orchid Pharma,member of,Sebi
+14,Orchid Pharma,parent organization,Sebi
+15,Orchid Pharma,owned by,Sebi
+16,Orchid Pharma,parent organization,USFDA
+17,Orchid Pharma,affiliation,USFDA
+18,Orchid Pharma,parent organization,USFDA
+19,USFDA,subsidiary,Orchid Pharma
+20,Orchid Pharma,parent organization,USFDA
+21,Orchid Pharma,affiliation,USFDA
+22,Orchid Pharma,parent organization,USFDA
+23,USFDA,subsidiary,Orchid Pharma
+24,Vijay Chopra,owner of,Orchid Pharma
+25,Orchid Pharma,owned by,Vijay Chopra
+26,Sell Orchid Pharma,owned by,Vijay Chopra
+27,Exit Orchid Pharma,owned by,Prakash Gaba
+28,Exit Orchid Pharma,founded by,Prakash Gaba
+29,Prakash Gaba,employer,Exit Orchid Pharma
+30,Orchid Pharma,instance of,net loss
+31,Orchid Pharma,loss,60.97 cr
+32,Orchid Pharma,revenue,60.97 cr
+33,Orchid Pharma,inception,"February 07, 2017"
+34,Orchid Pharma,end time,"February 07, 2017"
+35,Orchid Pharma,"dissolved, abolished or demolished date","February 07, 2017"
+36,Orchid Pharma,instance of,AGM
+37,Orchid Pharma,significant event,AGM
+38,Orchid Pharma,has part,AGM
+39,Orchid Pharma,instance of,AGM
+40,Orchid Pharma AGM,point in time,"Sept 28, 2016"
+41,Orchid Pharma,inception,"Sept 28, 2016"
+42,Orchid Pharma,owned by,S. Krishnan
+43,Orchid Pharma,founded by,S. Krishnan
+44,Orchid Pharma,chairperson,S. Krishnan
+45,Orchid Pharma,inception,"May 27, 2016"
+46,Orchid Pharma,"dissolved, abolished or demolished date","May 27, 2016"
+47,Orchid Pharma,end time,"May 27, 2016"
+48,EIR,author,USFDA
+49,EIR report,author,USFDA
+50,Orchid Pharma,parent organization,USFDA
+51,API,developer,USFDA
+52,API,operator,USFDA
+53,API,authority,USFDA
+54,Parkinson's,drug used for treatment,Orchid
+55,Orchid,instance of,Parkinson's drug
+56,Parkinson's drug,manufacturer,Orchid
+57,Orchid,product or material produced,Rasagiline
+58,Rasagiline,instance of,generic formulation
+59,generic formulation,subclass of,generic formulation
+60,Orchid Pharma,country,UK
+61,Orchid Pharma,headquarters location,UK
+62,Orchid Pharmaceutical,country,UK

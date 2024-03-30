@@ -1,0 +1,74 @@
+,head,type,tail
+0,TCS,industry,IT
+1,HCL,industry,IT
+2,Wipro,industry,IT
+3,TCS,industry,IT
+4,TCS,industry,IT
+5,HCL,industry,IT
+6,TCS,owned by,UBS
+7,UBS,owner of,TCS
+8,TCS,owned by,UBS
+9,UBS,owner of,TCS stock
+10,TCS stock,owned by,UBS
+11,Q3 earnings season,point in time,Q3
+12,artificial intelligence,opposite of,base effect
+13,base effect,opposite of,artificial intelligence
+14,A,facet of,artificial intelligence
+15,B,facet of,artificial intelligence
+16,Tata Group,industry,conglomerate
+17,Tata Group,instance of,conglomerate
+18,Tata Group,country,India
+19,TCS,owned by,Emkay Global Financial
+20,TCS,stock exchange,Rs 3900
+21,Reduce TCS,owned by,Emkay Global Financial
+22,Tata Consultancy Services,owned by,ICICI Securities
+23,Tata Consultancy Services,stock exchange,ICICI Securities
+24,Tata Consultancy Services,owned by,ICICI Securities
+25,ICICI Securities,owner of,Tata Consultancy Services
+26,TCS,owned by,Motilal Oswal
+27,TCS,owned by,Motilal Oswal
+28,Motilal Oswal,owner of,TCS
+29,TCS,stock exchange,Motilal Oswal
+30,Tata Consultancy Services,owned by,Sharekhan
+31,Tata Consultancy Services,stock exchange,Sharekhan
+32,Tata Consultancy Services,country,India
+33,Q3,point in time,Q3
+34,Q3,followed by,Q4
+35,Q3,followed by,Q4
+36,Q4,follows,Q3
+37,TCS Q3 results,instance of,Net profit
+38,TCS Q3 results,point in time,Q3
+39,TCS,instance of,Net profit
+40,Gen AI,subclass of,AI
+41,Gen AI,subclass of,AI skills
+42,AI,part of,Gen
+43,Nifty IT shining,industry,tech stocks
+44,Nifty IT shining,industry,tech
+45,Nifty IT shining,instance of,tech stocks
+46,John F. Kennedy School of Government,part of,Harvard University
+47,2008,point in time,2008
+48,2008 World Financial Crisis,point in time,2008
+49,Q3 results,point in time,Q3
+50,Q3 results,parent organization,TCS
+51,TCS dividend bonanza,part of,Q3 results
+52,Red Sea crisis,country,US
+53,Red Sea crisis,participant,US
+54,Red Sea crisis,participant,US &amp;amp
+55,TCS,subsidiary,Lexmark
+56,Lexmark,parent organization,TCS
+57,Lexmark,parent organization,TCS
+58,TCS,subsidiary,Lexmark
+59,Tata Consultancy Services,owned by,KR Choksey
+60,Tata Consultancy Services,country,India
+61,Tata Consultancy Services,parent organization,Tata Consultancy Services
+62,Tata Consultancy Services,owned by,Religare Retail Research
+63,Tata Consultancy Services,owned by,Tata Consultancy Services
+64,Tata Consultancy Services,parent organization,Tata Consultancy Services Ltd.
+65,TCS,owned by,Motilal Oswal
+66,TCS,owned by,Motilal Oswal
+67,Motilal Oswal,owner of,TCS
+68,TCS,stock exchange,Motilal Oswal
+69,Tata Consultancy Services,owned by,Axis Securities
+70,Tata Consultancy Services,stock exchange,Axis Securities
+71,Tata Consultancy Services,owned by,Axis Securities
+72,Axis Securities,owner of,Tata Consultancy Services

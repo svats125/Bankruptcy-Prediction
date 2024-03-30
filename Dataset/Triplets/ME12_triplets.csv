@@ -1,0 +1,65 @@
+,head,type,tail
+0,EV battery charger,manufacturer,MIC Electronics
+1,EV battery charger,developer,MIC Electronics
+2,EV battery,subclass of,charger
+3,MIC Electronics,"dissolved, abolished or demolished date","December 12, 2017"
+4,MIC Electronics,end time,"December 12, 2017"
+5,MIC Electronics,inception,"December 12, 2017"
+6,MIC Electronics,instance of,board meeting
+7,MIC Electronics,significant event,board meeting
+8,MIC Electronics,has part,board meeting
+9,MIC Electronics,instance of,board meeting
+10,MIC Electronics,significant event,board meeting
+11,MIC Electronics,has part,board meeting
+12,MIC Electronics,instance of,board meeting
+13,MIC Electronics,significant event,board meeting
+14,MIC Electronics,has part,board meeting
+15,MIC Electronics,"dissolved, abolished or demolished date","July 24, 2017"
+16,MIC Electronics,inception,"July 24, 2017"
+17,MIC Electronics,end time,"July 24, 2017"
+18,MIC Electronics,instance of,board meeting
+19,MIC Electronics,significant event,board meeting
+20,MIC Electronics,has part,board meeting
+21,MIC Electronics,"dissolved, abolished or demolished date","May 10, 2017"
+22,MIC Electronics,inception,"May 10, 2017"
+23,MIC Electronics,end time,"May 10, 2017"
+24,MIC Electronics,instance of,board meeting
+25,2017,point in time,2017
+26,MIC Electronics,inception,"March 31, 2017"
+27,MIC Electronics,instance of,board meeting
+28,MIC Electronics,significant event,board meeting
+29,MIC Electronics,has part,board meeting
+30,2008 Indian general election,point in time,2008
+31,India,contains administrative territorial entity,Sikkim
+32,Sikkim,located in the administrative territorial entity,India
+33,India,contains administrative territorial entity,Karnataka
+34,Karnataka,country,India
+35,MIC Electronics,instance of,board meeting
+36,MIC Electronics,significant event,board meeting
+37,MIC Electronics,has part,board meeting
+38,MIC Electronics,inception,"Nov 01, 2016"
+39,2016,point in time,2016
+40,MIC Electronics,instance of,board meeting
+41,2016,point in time,2016
+42,MIC Electronics,instance of,board meeting
+43,MIC Electronics,significant event,board meeting
+44,MIC Electronics,industry,51.89 crore
+45,MIC Electronics,revenue stream,51.89 crore
+46,MIC Electronics,inception,Jun '16
+47,MIC Electronics,instance of,board meeting
+48,MIC Electronics,significant event,board meeting
+49,MIC Electronics,has part,board meeting
+50,MIC Electronics,instance of,board meeting
+51,MIC Electronics,significant event,board meeting
+52,MIC Electronics,has part,board meeting
+53,2008 Indian general election,point in time,2008
+54,India,contains administrative territorial entity,Karnataka
+55,Karnataka,country,India
+56,India,contains administrative territorial entity,Karnataka
+57,Karnataka,located in the administrative territorial entity,India
+58,MIC Electronics,instance of,board meeting
+59,MIC Electronics,significant event,board meeting
+60,MIC Electronics,has part,board meeting
+61,MIC Electronics,country,India
+62,MIC Electronics,inception,Dec '15
+63,MIC Electronics,end time,Dec '15

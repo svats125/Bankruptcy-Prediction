@@ -1,0 +1,60 @@
+,head,type,tail
+0,savings,subclass of,life insurance
+1,Amritbaal,subclass of,life insurance
+2,Amritbaal,instance of,life insurance
+3,PSU shares tumble,part of,3 sessions
+4,PSU shares tumble,point in time,3
+5,PSU,significant event,PSU shares tumble
+6,SBI,instance of,MCap
+7,MCap,facet of,PSU
+8,MCap,subclass of,PSU
+9,tax departments,facet of,tax
+10,tax department,facet of,tax
+11,tax departments,subclass of,tax
+12,premium collections fall 25% in November,facet of,Life insurance
+13,Life insurance,subclass of,premium
+14,premium collections,facet of,Life insurance
+15,Buy Life Insurance Corporation,owned by,Motilal Oswal
+16,Life Insurance Corporation,owned by,Motilal Oswal
+17,Buying Life Insurance Corporation,owned by,Motilal Oswal
+18,Q4 profit,point in time,Q4
+19,Q4,point in time,Q4
+20,profit,has part,revenue
+21,Buy Life Insurance Corporation,owned by,Motilal Oswal
+22,Life Insurance Corporation,owned by,Motilal Oswal
+23,Buying Life Insurance Corporation,owned by,Motilal Oswal
+24,LIC,owned by,Emkay Global Financial
+25,Emkay Global Financial,subsidiary,LIC
+26,Emkay Global Financial,owned by,LIC
+27,private insurers,subclass of,insurers
+28,private insurers,subclass of,insurer
+29,private insurers still win on profitability,subclass of,insurers
+30,Buy Life Insurance Corporation,owned by,Motilal Oswal
+31,Life Insurance Corporation,owned by,Motilal Oswal
+32,Buying Life Insurance Corporation,owned by,Motilal Oswal
+33,Life Insurance Corporation of India,owned by,Emkay Global Financial
+34,Life Insurance Corporation of India,country,India
+35,Life Insurance Corporation of India,stock exchange,Emkay Global Financial
+36,dolphin show,uses,insurance whale
+37,insurance whale,use,dolphin show
+38,dolphin show,main subject,insurance whale
+39,Q2 result,point in time,Q2
+40,Q2,point in time,Q2
+41,Q2 result,owned by,LIC
+42,Buy Life Insurance Corporation,owned by,Motilal Oswal
+43,Life Insurance Corporation,owned by,Motilal Oswal
+44,Buying Life Insurance Corporation,owned by,Motilal Oswal
+45,LIC&rsquo.,owned by,JP Morgan
+46,JP Morgan,owner of,LIC&rsquo;s
+47,LIC&rsquo;s,owned by,JP Morgan
+48,JP Morgan,owner of,LIC&rsquo.
+49,LIC&rsquo.,owned by,JP Morgan
+50,Emkay Global,product or material produced,stock
+51,Emkay Global,instance of,stock
+52,LIC,instance of,stock
+53,Q4,point in time,Q4
+54,LIC Q4,point in time,Q4
+55,Q4,followed by,Q4 Result
+56,financial results for FY22,publisher,LIC
+57,financial results for FY22,publisher,LCI
+58,financial results for FY22,publisher,LI

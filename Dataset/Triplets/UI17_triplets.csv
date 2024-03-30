@@ -1,0 +1,65 @@
+,head,type,tail
+0,Unity Infraproj,significant event,board meeting
+1,Unity Infraproj,has part,board meeting
+2,Unity Infraproj,has part,board meeting
+3,board meeting,part of,Unity Infraproj
+4,Unity Infraprojects,inception,"February 10, 2017"
+5,Unity Infraprojects,owned by,Unity Infraprojects
+6,Unity Infraprojects,owned by,Unity Infraprojects'
+7,Unity Infraprojects,instance of,board meeting
+8,Unity Infraprojects,significant event,board meeting
+9,Unity Infraprojects,parent organization,Unity Infraprojects
+10,Unity Infraprojects,instance of,AGM
+11,Unity Infraprojects,significant event,AGM
+12,Unity Infraprojects,parent organization,Unity Infraprojects
+13,Unity Infraprojects,inception,"May 30, 2016"
+14,Unity Infraprojects,end time,"May 30, 2016"
+15,Unity Infraprojects,"dissolved, abolished or demolished date","May 30, 2016"
+16,Unity Infraprojects,instance of,board meeting
+17,Unity Infraprojects,significant event,board meeting
+18,Unity Infraprojects,parent organization,Unity Infraprojects
+19,Unity Infraprojects,inception,"March 31, 2016"
+20,Unity Infraprojects,inception,2016
+21,Unity Infraprojects,end time,"March 31, 2016"
+22,Unity Infraprojects,inception,"Dec 31, 2015"
+23,Unity Infraprojects,inception,2015
+24,Unity Infraprojects,inception,"December 31, 2015"
+25,Unity Infraprojects,instance of,board meeting
+26,Unity Infraprojects,significant event,board meeting
+27,Unity Infraprojects,parent organization,Unity Infraprojects
+28,Unity Infraprojects,inception,"September 30, 2015"
+29,Unity Infraprojects,inception,2015
+30,Unity Infraprojects,date of official opening,"September 30, 2015"
+31,Unity Infraproj,instance of,AGM
+32,Unity Infraproj,significant event,AGM
+33,Unity Infraproj,has part,AGM
+34,AGM,part of,Unity Infraproj
+35,Unity Infraproj,significant event,board meeting
+36,Unity Infraproj,has part,board meeting
+37,Unity Infraproj,has part,board meeting
+38,board meeting,part of,Unity Infraproj
+39,Unity Infraprojects,inception,"July 06, 2015"
+40,Unity Infraprojects,inception,"July 6, 2015"
+41,Unity Infraprojects,inception,2015
+42,Unity Infraprojects,instance of,Board Meeting
+43,Unity Infraprojects,has part,Board Meeting
+44,Board Meeting,part of,Unity Infraprojects
+45,Unity Infraprojects,parent organization,Unity Infraprojects
+46,EGM,facet of,Unity Infraprojects
+47,Unity Infraprojects,instance of,EGM
+48,Unity Infraprojects,has part,EGM
+49,Unity Infraprojects,inception,"May 25, 2015"
+50,Unity Infraprojects',inception,"May 25, 2015"
+51,Unity Infraprojects,date of official opening,"May 25, 2015"
+52,Unity Infraprojects,inception,"May 27, 2015"
+53,Unity Infraprojects,inception,2015
+54,Unity Infraprojects,date of official opening,"May 27, 2015"
+55,Unity Infraprojects,instance of,independent directors
+56,Unity Infraprojects,instance of,independent directors meeting
+57,Unity Infraprojects,parent organization,Unity Infraprojects
+58,Unity Infraprojects,instance of,board meeting
+59,Unity Infraprojects,significant event,board meeting
+60,Unity Infraprojects,parent organization,Unity Infraprojects
+61,Unity Infraproj,inception,"March 28, 2015"
+62,Unity Infraproj,inception,2015
+63,Unity Infraproj,owned by,Unity Infraproj

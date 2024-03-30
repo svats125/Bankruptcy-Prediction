@@ -1,0 +1,52 @@
+,head,type,tail
+0,Ashok Kadakia,employer,Ashapura Mine
+1,Ashapura Mine,owned by,Ashok Kadakia
+2,Ashok Kadakia,employer,Ashapura Mine's
+3,Ashapura Mine,significant event,AGM
+4,Ashapura Mine,has effect,AGM
+5,Ashapura Mine,has effect,AGM
+6,AGM,has cause,Ashapura Mine
+7,Ashapura Minechem,instance of,AGM
+8,Ashapura Minechem,significant event,AGM
+9,Ashapura Minechem,has part,AGM
+10,AGM,part of,Ashapura Minechem
+11,Ashapura Minechem,instance of,board meeting
+12,Ashapura Minechem,industry,mining
+13,Ashapura Minechem,headquarters location,Ashapura
+14,2016,point in time,2016
+15,Ashapura Mine,industry,mining
+16,Ashapura Mine,end time,Jun '16
+17,National Mineral Exploration Policy,main subject,Mineral Exploration Policy
+18,National Mineral Exploration Policy,instance of,Mineral Exploration Policy
+19,Mineral Exploration Policy,part of,National Mineral Exploration Policy
+20,Ashapura Mine,end time,Dec '15
+21,Ashapura Mine,industry,546.34 crore
+22,Ashapura Mine,revenue stream,546.34 crore
+23,Ashapura Minechem,instance of,board meeting
+24,Ashapura Minechem,industry,mining
+25,Ashapura Minechem,headquarters location,Ashapura
+26,Navita Gaiha,employer,Ashapura Minechem
+27,Ashapura Minechem,owned by,Navita Gaiha
+28,Ashapura Minechem,chairperson,Navita Gaiha
+29,Ashapura Mine,country,India
+30,Ashapura Mine,inception,Jun '15
+31,Ashapura Mine,end time,Jun '15
+32,Ashapura Mine,inception,Mar '15
+33,Ashapura Mine,end time,Mar '15
+34,2015,point in time,2015
+35,Ashapura Minechem,office held by head of the organization,director
+36,Ashapura Minechem,instance of,company
+37,Ashapura Minechem,owned by,Ashapura Minechem
+38,2014,point in time,2014
+39,Ashapura Mine,end time,Dec '14
+40,Ashapura Mine,industry,468.50 crore
+41,2014,point in time,2014
+42,Ashapura Mine,inception,Sep '14
+43,Ashapura Mine,end time,Sep '14
+44,Ashapura Mine,end time,Dec '13
+45,Ashapura Mine,significant event,Dec '13 sales
+46,Ashapura Mine,industry,Rs 224.86 crore
+47,Ashapura Minechem,parent organization,EXIM Bank
+48,Ashapura Minechem,owned by,EXIM Bank
+49,EXIM Bank,subsidiary,Ashapura Minechem
+50,Ashapura Minechem,parent organization,EXIM Bank
