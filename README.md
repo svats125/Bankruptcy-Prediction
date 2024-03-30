@@ -15,12 +15,12 @@ The dataset used in this project contains financial indicators and bankruptcy la
 To set up the project locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/svats125/Bankruptcy-Prediction.git
-cd Bankruptcy-Prediction
+- git clone https://github.com/svats125/Bankruptcy-Prediction.git
+- cd Bankruptcy-Prediction
 
 
 2. Install dependencies:
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ## Usage
 
