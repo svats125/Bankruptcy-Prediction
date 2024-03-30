@@ -34,4 +34,4 @@ To set up the project locally, follow these steps:
 - For knowledge graph embeddings we have used one distance based model, i.e, TransE and another one Semantic based model, which is DistMult. For this we have used pykeen library to implement the same.
 
 4. **Integration**
-- We had 4 embeddings with us, entity and relation embeddings from both the models. Then, we inseted 4 more columns to out financial ratios dataset where in each new column average value of the embeddings are inserted to the single block.
+- We had 4 embeddings with us, entity and relation embeddings from both the models. Then, we inserted 4 more columns to our financial ratios dataset where in each new column average value of the embeddings are inserted to the single block.
