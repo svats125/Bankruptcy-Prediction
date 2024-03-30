@@ -1,46 +1,37 @@
-# Bankruptcy Prediction Project
+# Assessing Financial Vulnerability in Indian Equities
 
-## Introduction
-This project focuses on predicting bankruptcy using machine learning techniques. Bankruptcy prediction is an important task in financial analysis, helping businesses assess the financial health and stability of companies.
+Welcome to the Bankruptcy Prediction project! This project aims to predict bankruptcy for companies with and without using knowledge graph embeddings of the news of the companies combined with the machine learning techniques.
+
+## Overview
+
+Bankruptcy prediction is a critical task for financial institutions and investors to assess the financial health and stability of companies. This project utilizes knowledge graph embeddings generated from news related to the companies along with the machine learning algorithms to analyze financial data and predict the likelihood of bankruptcy for companies.
 
 ## Dataset
-The bankruptcy prediction model is trained on a dataset sourced from [provide source]. The dataset includes [describe features] and underwent preprocessing steps such as [mention preprocessing steps].
 
-## Methodology
-The bankruptcy prediction model utilizes [mention algorithm or approach] for classification. The model building process involves feature selection, model selection, and evaluation using metrics such as accuracy, precision, recall, and F1 score.
+The dataset used in this project contains financial indicators and bankruptcy labels for a sample of companies. It includes features such as liquidity ratios, leverage ratios, profitability ratios, and activity ratios. The dataset is stored in the `dataset` directory.
 
-## Results
-The results of the bankruptcy prediction model are as follows:
-- Accuracy: [provide accuracy score]
-- Precision: [provide precision score]
-- Recall: [provide recall score]
-- F1 Score: [provide F1 score]
+## Installation
+
+To set up the project locally, follow these steps:
+
+1. Clone the repository:
+git clone https://github.com/svats125/Bankruptcy-Prediction.git
+cd Bankruptcy-Prediction
+
+
+2. Install dependencies:
+pip install -r requirements.txt
 
 ## Usage
-To use the bankruptcy prediction model:
-1. Install dependencies by running `pip install -r requirements.txt`.
-2. Run the prediction script with `python predict.py`.
-3. Follow the prompts to input data for prediction.
 
-## Contributing
-Contributions to the project are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make changes and commit them (`git commit -am 'Add your feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Create a new pull request.
+1. **News Extraction**:
+- The news has been extracted from moneycontrol website(https://www.moneycontrol.com/). For that we need the company codes assigned by moneycontrol website to each of the companies. We extracted latest 20 news available for each and every company. For that we have used beautifulsoup and request library.
 
-## License
-This project is licensed under the [provide license]. See the `LICENSE` file for details.
+2. **Knowledge Graph**:
+- For knowledge graph generation we have used REBEL model which will generate the triplets of head, tail and relation and these triplets will be used for knowledge graph embeddings generation.
 
-## Contact Information
-For questions or feedback, please contact [provide contact information].
+3. **Knowledge Graph Embeddings**:
+- For knowledge graph embeddings we have used one distance based model, i.e, TransE and another one Semantic based model, which is DistMult. For this we have used pykeen library to implement the same.
 
-## Acknowledgements
-- [List individuals, organizations, or resources to acknowledge]
-
-## References
-- [List references to relevant papers, articles, or resources]
-
-## Future Work
-- [Mention potential future enhancements or extensions]
+4. **Integration**
+- We had 4 embeddings with us, entity and relation embeddings from both the models. Then, we inseted 4 more columns to out financial ratios dataset where in each new column average value of the embeddings are inserted to the single block.
